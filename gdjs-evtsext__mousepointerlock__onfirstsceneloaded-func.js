@@ -9,7 +9,7 @@ gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded = {};
 gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.userFunc0x16f9948 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.userFunc0x1572d30 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 class PointerLockHandler {
     movementX = 0;
@@ -74,7 +74,7 @@ gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.eventsList0 = function(runtim
 {
 
 
-gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.userFunc0x16f9948(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.userFunc0x1572d30(runtimeScene, eventsFunctionContext);
 
 }
 
