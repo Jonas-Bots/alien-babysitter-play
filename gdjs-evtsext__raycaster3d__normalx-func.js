@@ -9,7 +9,7 @@ gdjs.evtsExt__Raycaster3D__NormalX = {};
 gdjs.evtsExt__Raycaster3D__NormalX.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__Raycaster3D__NormalX.userFunc0x2090288 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Raycaster3D__NormalX.userFunc0x2096560 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = gdjs.__raycaster3DExtension.raycaster.lastNormal.x;
 };
@@ -18,7 +18,7 @@ gdjs.evtsExt__Raycaster3D__NormalX.eventsList0 = function(runtimeScene, eventsFu
 {
 
 
-gdjs.evtsExt__Raycaster3D__NormalX.userFunc0x2090288(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__Raycaster3D__NormalX.userFunc0x2096560(runtimeScene, eventsFunctionContext);
 
 }
 

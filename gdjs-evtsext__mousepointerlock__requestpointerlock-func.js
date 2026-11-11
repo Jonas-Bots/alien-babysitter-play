@@ -9,7 +9,7 @@ gdjs.evtsExt__MousePointerLock__RequestPointerLock = {};
 gdjs.evtsExt__MousePointerLock__RequestPointerLock.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__MousePointerLock__RequestPointerLock.userFunc0xcc9928 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__MousePointerLock__RequestPointerLock.userFunc0xa60eb8 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const { handler } = gdjs._MousePointerLockExtension;
 
@@ -21,7 +21,7 @@ gdjs.evtsExt__MousePointerLock__RequestPointerLock.eventsList0 = function(runtim
 {
 
 
-gdjs.evtsExt__MousePointerLock__RequestPointerLock.userFunc0xcc9928(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__MousePointerLock__RequestPointerLock.userFunc0xa60eb8(runtimeScene, eventsFunctionContext);
 
 }
 
