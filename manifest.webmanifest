@@ -1,0 +1,84 @@
+{
+  "name": "Alien Babysitter",
+  "short_name": "Alien Babysitter",
+  "id": "com.alienbabysitter.gdjam10",
+  "description": "Alien Babysitter - GDevelop BIG Game Jam #10 (theme: Keep It Alive). 5-minute first-person babysitting panic game.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "icon_20.png",
+        "sizes": "20x20"
+      },{
+        "src": "icon_29.png",
+        "sizes": "29x29"
+      },{
+        "src": "icon_36.png",
+        "sizes": "36x36"
+      },{
+        "src": "icon_40.png",
+        "sizes": "40x40"
+      },{
+        "src": "icon_48.png",
+        "sizes": "48x48"
+      },{
+        "src": "icon_50.png",
+        "sizes": "50x50"
+      },{
+        "src": "icon_57.png",
+        "sizes": "57x57"
+      },{
+        "src": "icon_58.png",
+        "sizes": "58x58"
+      },{
+        "src": "icon_60.png",
+        "sizes": "60x60"
+      },{
+        "src": "icon_72.png",
+        "sizes": "72x72"
+      },{
+        "src": "icon_76.png",
+        "sizes": "76x76"
+      },{
+        "src": "icon_80.png",
+        "sizes": "80x80"
+      },{
+        "src": "icon_87.png",
+        "sizes": "87x87"
+      },{
+        "src": "icon_96.png",
+        "sizes": "96x96"
+      },{
+        "src": "icon_100.png",
+        "sizes": "100x100"
+      },{
+        "src": "icon_114.png",
+        "sizes": "114x114"
+      },{
+        "src": "icon_120.png",
+        "sizes": "120x120"
+      },{
+        "src": "icon_144.png",
+        "sizes": "144x144"
+      },{
+        "src": "icon_152.png",
+        "sizes": "152x152"
+      },{
+        "src": "icon_167.png",
+        "sizes": "167x167"
+      },{
+        "src": "icon_180.png",
+        "sizes": "180x180"
+      },{
+        "src": "icon_192.png",
+        "sizes": "192x192"
+      },{
+        "src": "icon_512.png",
+        "sizes": "512x512"
+      },{
+        "src": "icon_1024.png",
+        "sizes": "1024x1024"
+      }]
+}
