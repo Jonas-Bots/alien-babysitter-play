@@ -40,6 +40,8 @@ let isConditionTrue_0 = false;
 }
 {runtimeScene.getGame().getVariables().get("Game").getChild("LastChange").setNumber(eventsFunctionContext.localVariables[0].getFromIndex(1).getAsNumber());
 }
+{runtimeScene.getGame().getVariables().get("Game").getChild("LastAsked").setNumber(eventsFunctionContext.getArgument("Amount"));
+}
 {runtimeScene.getGame().getVariables().get("Game").getChild("LastReason").setString(eventsFunctionContext.getArgument("Reason"));
 }
 {runtimeScene.getGame().getVariables().get("Game").getChild("Changes").add(1);
