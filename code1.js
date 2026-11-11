@@ -7,6 +7,12 @@ gdjs.ApartmentCode.GDAlarm_9595KitchenObjects2_1final = [];
 
 gdjs.ApartmentCode.GDBathroom_9595CabinetObjects2_1final = [];
 
+gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final = [];
+
+gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final = [];
+
+gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final = [];
+
 gdjs.ApartmentCode.GDContainer_9595PlateObjects2_1final = [];
 
 gdjs.ApartmentCode.GDCupboard_9595KitchenObjects2_1final = [];
@@ -19,21 +25,39 @@ gdjs.ApartmentCode.GDDrawer_9595KitchenObjects2_1final = [];
 
 gdjs.ApartmentCode.GDFood_9595AppleObjects2_1final = [];
 
+gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final = [];
+
 gdjs.ApartmentCode.GDFood_9595TomatoObjects2_1final = [];
+
+gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final = [];
 
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2_1final = [];
 
+gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final = [];
+
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2_1final = [];
+
+gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final = [];
 
 gdjs.ApartmentCode.GDHazard_9595OvenObjects2_1final = [];
 
+gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final = [];
+
 gdjs.ApartmentCode.GDItem_9595BreadObjects2_1final = [];
+
+gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final = [];
 
 gdjs.ApartmentCode.GDItem_9595CheeseObjects2_1final = [];
 
+gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final = [];
+
 gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2_1final = [];
 
+gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final = [];
+
 gdjs.ApartmentCode.GDItem_9595ForkObjects2_1final = [];
+
+gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final = [];
 
 gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2_1final = [];
 
@@ -41,11 +65,19 @@ gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final = [];
 
 gdjs.ApartmentCode.GDItem_9595KnifeObjects2_1final = [];
 
+gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final = [];
+
 gdjs.ApartmentCode.GDItem_9595SippyCupObjects2_1final = [];
+
+gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final = [];
 
 gdjs.ApartmentCode.GDItem_9595SpoonObjects2_1final = [];
 
+gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final = [];
+
 gdjs.ApartmentCode.GDItem_9595VacuumObjects2_1final = [];
+
+gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final = [];
 
 gdjs.ApartmentCode.GDKidNavObjects2_1final = [];
 
@@ -59,27 +91,63 @@ gdjs.ApartmentCode.GDKitchen_9595BreadBagObjects2_1final = [];
 
 gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects2_1final = [];
 
+gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final = [];
+
 gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects2_1final = [];
 
 gdjs.ApartmentCode.GDKitchen_9595FridgeObjects2_1final = [];
 
+gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final = [];
+
 gdjs.ApartmentCode.GDKitchen_9595FryingPanObjects2_1final = [];
 
+gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final = [];
+
+gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final = [];
+
+gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final = [];
+
+gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final = [];
+
 gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects2_1final = [];
+
+gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final = [];
+
+gdjs.ApartmentCode.GDMess_9595DecalObjects5_1final = [];
 
 gdjs.ApartmentCode.GDPause_9595ItemObjects3_1final = [];
 
 gdjs.ApartmentCode.GDProp_9595JuiceCartonObjects2_1final = [];
 
+gdjs.ApartmentCode.GDProp_9595LampObjects3_1final = [];
+
+gdjs.ApartmentCode.GDProp_9595TVObjects3_1final = [];
+
+gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final = [];
+
 gdjs.ApartmentCode.GDScore_9595ItemObjects3_1final = [];
+
+gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final = [];
+
+gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final = [];
+
+gdjs.ApartmentCode.GDShell_9595WallObjects3_1final = [];
 
 gdjs.ApartmentCode.GDToy_9595BallObjects2_1final = [];
 
+gdjs.ApartmentCode.GDToy_9595BallObjects3_1final = [];
+
 gdjs.ApartmentCode.GDToy_9595BlocksObjects2_1final = [];
+
+gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final = [];
 
 gdjs.ApartmentCode.GDToy_9595DuckObjects2_1final = [];
 
+gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final = [];
+
 gdjs.ApartmentCode.GDToy_9595UFOObjects2_1final = [];
+
+gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final = [];
 
 gdjs.ApartmentCode.forEachCount0_2 = 0;
 
@@ -362,6 +430,13 @@ gdjs.ApartmentCode.GDFood_9595TomatoObjects4= [];
 gdjs.ApartmentCode.GDFood_9595TomatoObjects5= [];
 gdjs.ApartmentCode.GDFood_9595TomatoObjects6= [];
 gdjs.ApartmentCode.GDFood_9595TomatoObjects7= [];
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects1= [];
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects2= [];
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects3= [];
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects4= [];
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects5= [];
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects6= [];
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects7= [];
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1= [];
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2= [];
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3= [];
@@ -2228,6 +2303,32 @@ gdjs.copyArray(runtimeScene.getObjects("Spray_Puff"), gdjs.ApartmentCode.GDSpray
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Sleepy").setBoolean(false);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("InBed").setBoolean(false);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Bonus").setBoolean(false);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Checked").setBoolean(false);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("PutIns").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Wakes").setNumber(0);
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList18 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(26).getChild("Page").getAsString() == "Pause");
 }
 if (isConditionTrue_0) {
@@ -2255,7 +2356,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList18 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList19 = function(runtimeScene) {
 
 {
 
@@ -2341,13 +2442,13 @@ if(isConditionTrue_1) {
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList17(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList18(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList19 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList20 = function(runtimeScene) {
 
 {
 
@@ -2437,7 +2538,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList20 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList21 = function(runtimeScene) {
 
 {
 
@@ -2467,14 +2568,14 @@ let isConditionTrue_0 = false;
 if (true) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList19(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList20(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList21 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList22 = function(runtimeScene) {
 
 {
 
@@ -2513,7 +2614,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList22 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList23 = function(runtimeScene) {
 
 {
 
@@ -2552,7 +2653,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList23 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList24 = function(runtimeScene) {
 
 {
 
@@ -2591,7 +2692,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList24 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList25 = function(runtimeScene) {
 
 {
 
@@ -2767,7 +2868,7 @@ gdjs.ApartmentCode.GDPause_9595ItemObjects3.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList21(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList22(runtimeScene);} //End of subevents
 }
 
 }
@@ -2791,7 +2892,7 @@ gdjs.ApartmentCode.GDPause_9595ItemObjects3.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList22(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList23(runtimeScene);} //End of subevents
 }
 
 }
@@ -2815,7 +2916,7 @@ gdjs.ApartmentCode.GDPause_9595ItemObjects3.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList23(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList24(runtimeScene);} //End of subevents
 }
 
 }
@@ -2851,7 +2952,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList25 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList26 = function(runtimeScene) {
 
 {
 
@@ -2884,16 +2985,16 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList24(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList25(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
-
-};gdjs.ApartmentCode.eventsList26 = function(runtimeScene) {
 
 };gdjs.ApartmentCode.eventsList27 = function(runtimeScene) {
+
+};gdjs.ApartmentCode.eventsList28 = function(runtimeScene) {
 
 {
 
@@ -2936,9 +3037,9 @@ if (isConditionTrue_0) {
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDPause_95959595ItemObjects3Objects = Hashtable.newFrom({"Pause_Item": gdjs.ApartmentCode.GDPause_9595ItemObjects3});
-gdjs.ApartmentCode.eventsList28 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList29 = function(runtimeScene) {
 
-};gdjs.ApartmentCode.eventsList29 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList30 = function(runtimeScene) {
 
 {
 
@@ -2978,9 +3079,9 @@ if (isConditionTrue_0) {
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDPause_95959595ItemObjects3Objects = Hashtable.newFrom({"Pause_Item": gdjs.ApartmentCode.GDPause_9595ItemObjects3});
-gdjs.ApartmentCode.eventsList30 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList31 = function(runtimeScene) {
 
-};gdjs.ApartmentCode.eventsList31 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList32 = function(runtimeScene) {
 
 {
 
@@ -3015,7 +3116,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList32 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList33 = function(runtimeScene) {
 
 {
 
@@ -3211,7 +3312,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList33 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList34 = function(runtimeScene) {
 
 {
 
@@ -3247,14 +3348,14 @@ gdjs.ApartmentCode.GDPause_9595ItemObjects2.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList32(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList33(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList34 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList35 = function(runtimeScene) {
 
 {
 
@@ -3339,7 +3440,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList27(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList28(runtimeScene);} //End of subevents
 }
 
 }
@@ -3354,7 +3455,7 @@ isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Lef
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList29(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList30(runtimeScene);} //End of subevents
 }
 
 }
@@ -3387,7 +3488,7 @@ if(isConditionTrue_1) {
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList31(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList32(runtimeScene);} //End of subevents
 }
 
 }
@@ -3418,13 +3519,13 @@ if(isConditionTrue_1) {
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList33(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList34(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList35 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList36 = function(runtimeScene) {
 
 {
 
@@ -3455,13 +3556,13 @@ isConditionTrue_0 = false;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList34(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList35(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList36 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList37 = function(runtimeScene) {
 
 {
 
@@ -3709,7 +3810,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList37 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList38 = function(runtimeScene) {
 
 {
 
@@ -3782,7 +3883,7 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObj
 }
 
 
-};gdjs.ApartmentCode.eventsList38 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList39 = function(runtimeScene) {
 
 {
 
@@ -3804,13 +3905,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList37(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList38(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList39 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList40 = function(runtimeScene) {
 
 {
 
@@ -3866,7 +3967,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList40 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList41 = function(runtimeScene) {
 
 {
 
@@ -3895,9 +3996,9 @@ gdjs.copyArray(runtimeScene.getObjects("Pause_Title"), gdjs.ApartmentCode.GDPaus
 }
 
 
-};gdjs.ApartmentCode.eventsList41 = function(runtimeScene) {
-
 };gdjs.ApartmentCode.eventsList42 = function(runtimeScene) {
+
+};gdjs.ApartmentCode.eventsList43 = function(runtimeScene) {
 
 {
 
@@ -3961,7 +4062,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList43 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList44 = function(runtimeScene) {
 
 {
 
@@ -4185,7 +4286,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList44 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList45 = function(runtimeScene) {
 
 {
 
@@ -4243,7 +4344,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList45 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList46 = function(runtimeScene) {
 
 {
 
@@ -4301,7 +4402,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList46 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList47 = function(runtimeScene) {
 
 {
 
@@ -4359,7 +4460,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList47 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList48 = function(runtimeScene) {
 
 {
 
@@ -4417,7 +4518,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList48 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList49 = function(runtimeScene) {
 
 {
 
@@ -4475,7 +4576,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList49 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList50 = function(runtimeScene) {
 
 {
 
@@ -4533,7 +4634,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList50 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList51 = function(runtimeScene) {
 
 {
 
@@ -4544,30 +4645,6 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDPause_9595SliderObjects5.length;i<l;++i) {
     if ( gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariableString(gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariables().getFromIndex(2)) == "Master" ) {
-        isConditionTrue_0 = true;
-        gdjs.ApartmentCode.GDPause_9595SliderObjects5[k] = gdjs.ApartmentCode.GDPause_9595SliderObjects5[i];
-        ++k;
-    }
-}
-gdjs.ApartmentCode.GDPause_9595SliderObjects5.length = k;
-if (isConditionTrue_0) {
-
-{ //Subevents
-gdjs.ApartmentCode.eventsList44(runtimeScene);} //End of subevents
-}
-
-}
-
-
-{
-
-gdjs.copyArray(gdjs.ApartmentCode.GDPause_9595SliderObjects4, gdjs.ApartmentCode.GDPause_9595SliderObjects5);
-
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDPause_9595SliderObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariableString(gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariables().getFromIndex(2)) == "Music" ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDPause_9595SliderObjects5[k] = gdjs.ApartmentCode.GDPause_9595SliderObjects5[i];
         ++k;
@@ -4591,7 +4668,7 @@ gdjs.copyArray(gdjs.ApartmentCode.GDPause_9595SliderObjects4, gdjs.ApartmentCode
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDPause_9595SliderObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariableString(gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariables().getFromIndex(2)) == "Sfx" ) {
+    if ( gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariableString(gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariables().getFromIndex(2)) == "Music" ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDPause_9595SliderObjects5[k] = gdjs.ApartmentCode.GDPause_9595SliderObjects5[i];
         ++k;
@@ -4615,7 +4692,7 @@ gdjs.copyArray(gdjs.ApartmentCode.GDPause_9595SliderObjects4, gdjs.ApartmentCode
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDPause_9595SliderObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariableString(gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariables().getFromIndex(2)) == "Voice" ) {
+    if ( gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariableString(gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariables().getFromIndex(2)) == "Sfx" ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDPause_9595SliderObjects5[k] = gdjs.ApartmentCode.GDPause_9595SliderObjects5[i];
         ++k;
@@ -4639,7 +4716,7 @@ gdjs.copyArray(gdjs.ApartmentCode.GDPause_9595SliderObjects4, gdjs.ApartmentCode
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDPause_9595SliderObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariableString(gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariables().getFromIndex(2)) == "Sensitivity" ) {
+    if ( gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariableString(gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariables().getFromIndex(2)) == "Voice" ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDPause_9595SliderObjects5[k] = gdjs.ApartmentCode.GDPause_9595SliderObjects5[i];
         ++k;
@@ -4650,6 +4727,30 @@ if (isConditionTrue_0) {
 
 { //Subevents
 gdjs.ApartmentCode.eventsList48(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+gdjs.copyArray(gdjs.ApartmentCode.GDPause_9595SliderObjects4, gdjs.ApartmentCode.GDPause_9595SliderObjects5);
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDPause_9595SliderObjects5.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariableString(gdjs.ApartmentCode.GDPause_9595SliderObjects5[i].getVariables().getFromIndex(2)) == "Sensitivity" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDPause_9595SliderObjects5[k] = gdjs.ApartmentCode.GDPause_9595SliderObjects5[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDPause_9595SliderObjects5.length = k;
+if (isConditionTrue_0) {
+
+{ //Subevents
+gdjs.ApartmentCode.eventsList49(runtimeScene);} //End of subevents
 }
 
 }
@@ -4672,13 +4773,13 @@ gdjs.ApartmentCode.GDPause_9595SliderObjects4.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList49(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList50(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList51 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList52 = function(runtimeScene) {
 
 {
 
@@ -4735,13 +4836,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList50(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList51(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList52 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList53 = function(runtimeScene) {
 
 {
 
@@ -4862,7 +4963,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList53 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList54 = function(runtimeScene) {
 
 {
 
@@ -4983,7 +5084,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList54 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList55 = function(runtimeScene) {
 
 {
 
@@ -5104,7 +5205,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList55 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList56 = function(runtimeScene) {
 
 {
 
@@ -5124,7 +5225,7 @@ gdjs.ApartmentCode.GDPause_9595ToggleObjects4.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList52(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList53(runtimeScene);} //End of subevents
 }
 
 }
@@ -5148,7 +5249,7 @@ gdjs.ApartmentCode.GDPause_9595ToggleObjects4.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList53(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList54(runtimeScene);} //End of subevents
 }
 
 }
@@ -5171,13 +5272,13 @@ gdjs.ApartmentCode.GDPause_9595ToggleObjects3.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList54(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList55(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList56 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList57 = function(runtimeScene) {
 
 {
 
@@ -5230,13 +5331,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList55(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList56(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList57 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList58 = function(runtimeScene) {
 
 {
 
@@ -5313,7 +5414,7 @@ let isConditionTrue_0 = false;
 if (true) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList42(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList43(runtimeScene);} //Subevents end.
 }
 }
 
@@ -5378,7 +5479,7 @@ isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList43(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList44(runtimeScene);} //End of subevents
 }
 
 }
@@ -5398,7 +5499,7 @@ let isConditionTrue_0 = false;
 if (true) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList51(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList52(runtimeScene);} //Subevents end.
 }
 }
 
@@ -5419,14 +5520,14 @@ let isConditionTrue_0 = false;
 if (true) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList56(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList57(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList58 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList59 = function(runtimeScene) {
 
 {
 
@@ -5438,13 +5539,13 @@ isConditionTrue_0 = false;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList57(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList58(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList59 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList60 = function(runtimeScene) {
 
 {
 
@@ -5480,7 +5581,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList60 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList61 = function(runtimeScene) {
 
 {
 
@@ -5525,7 +5626,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList61 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList62 = function(runtimeScene) {
 
 {
 
@@ -5765,7 +5866,41 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList62 = function(runtimeScene) {
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Reason").getAsString() == runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Reasons").getChild("Bedtime").getAsString());
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(35).getChild("Bedtime").getChild("Count").add(1);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(35).getChild("Bedtime").getChild("Total").add(runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Applied").getAsNumber());
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Reason").getAsString() == runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Reasons").getChild("NoBedtime").getAsString());
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(35).getChild("NoBedtime").getChild("Count").add(1);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(35).getChild("NoBedtime").getChild("Total").add(runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Applied").getAsNumber());
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList63 = function(runtimeScene) {
 
 {
 
@@ -6400,6 +6535,94 @@ if (isConditionTrue_0) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(35).getChild("Bedtime").getChild("Count").getAsNumber() > 0);
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(35).getChild("Bedtime").getChild("Used").getAsBoolean();
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{let isConditionTrue_1 = false;
+isConditionTrue_0 = false;
+{
+{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Key").getAsString() == "");
+}
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+}
+}
+{
+{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(35).getChild("Bedtime").getChild("Total").getAsNumber() < runtimeScene.getScene().getVariables().getFromIndex(34).getChild("KeyTotal").getAsNumber());
+}
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+}
+}
+{
+}
+}
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Key").setString("Bedtime");
+}
+{runtimeScene.getScene().getVariables().getFromIndex(34).getChild("KeyTotal").setNumber(runtimeScene.getScene().getVariables().getFromIndex(35).getChild("Bedtime").getChild("Total").getAsNumber());
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(35).getChild("NoBedtime").getChild("Count").getAsNumber() > 0);
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(35).getChild("NoBedtime").getChild("Used").getAsBoolean();
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{let isConditionTrue_1 = false;
+isConditionTrue_0 = false;
+{
+{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Key").getAsString() == "");
+}
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+}
+}
+{
+{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(35).getChild("NoBedtime").getChild("Total").getAsNumber() < runtimeScene.getScene().getVariables().getFromIndex(34).getChild("KeyTotal").getAsNumber());
+}
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+}
+}
+{
+}
+}
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Key").setString("NoBedtime");
+}
+{runtimeScene.getScene().getVariables().getFromIndex(34).getChild("KeyTotal").setNumber(runtimeScene.getScene().getVariables().getFromIndex(35).getChild("NoBedtime").getChild("Total").getAsNumber());
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Key").getAsString() == "HungerOnTime");
 }
 if (isConditionTrue_0) {
@@ -6638,6 +6861,40 @@ if (isConditionTrue_0) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Key").getAsString() == "Bedtime");
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(35).getChild("Bedtime").getChild("Used").setBoolean(true);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Line").setString(runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Reasons").getChild("Bedtime").getAsString() + runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Score").getChild("Times").getAsString() + gdjs.evtTools.common.toString(runtimeScene.getScene().getVariables().getFromIndex(35).getChild("Bedtime").getChild("Count").getAsNumber()) + runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Score").getChild("Gap").getAsString());
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Key").getAsString() == "NoBedtime");
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(35).getChild("NoBedtime").getChild("Used").setBoolean(true);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Line").setString(runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Reasons").getChild("NoBedtime").getAsString() + runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Score").getChild("Times").getAsString() + gdjs.evtTools.common.toString(runtimeScene.getScene().getVariables().getFromIndex(35).getChild("NoBedtime").getChild("Count").getAsNumber()) + runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Score").getChild("Gap").getAsString());
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(34).getChild("KeyTotal").getAsNumber() > 0);
 }
 if (isConditionTrue_0) {
@@ -6731,11 +6988,11 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList63 = function(runtimeScene) {
-
 };gdjs.ApartmentCode.eventsList64 = function(runtimeScene) {
 
 };gdjs.ApartmentCode.eventsList65 = function(runtimeScene) {
+
+};gdjs.ApartmentCode.eventsList66 = function(runtimeScene) {
 
 {
 
@@ -6772,7 +7029,7 @@ if (true)
 }
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList61(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList62(runtimeScene);} //Subevents end.
 }
 }
 
@@ -6980,6 +7237,36 @@ if (isConditionTrue_0) {
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(35).getChild("Fire").getChild("Count").getAsNumber() > 0);
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Lines").add(1);
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(35).getChild("Bedtime").getChild("Count").getAsNumber() > 0);
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Lines").add(1);
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(35).getChild("NoBedtime").getChild("Count").getAsNumber() > 0);
 }
 if (isConditionTrue_0) {
 {runtimeScene.getScene().getVariables().getFromIndex(34).getChild("Lines").add(1);
@@ -7211,7 +7498,7 @@ if (true)
 {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList62(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList63(runtimeScene);} //Subevents end.
 }
 }
 
@@ -7372,7 +7659,7 @@ gdjs.copyArray(runtimeScene.getObjects("Score_Tip"), gdjs.ApartmentCode.GDScore_
 }
 
 
-};gdjs.ApartmentCode.eventsList66 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList67 = function(runtimeScene) {
 
 {
 
@@ -7407,13 +7694,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList65(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList66(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList67 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList68 = function(runtimeScene) {
 
 {
 
@@ -7491,7 +7778,7 @@ gdjs.copyArray(runtimeScene.getObjects("Score_Total"), gdjs.ApartmentCode.GDScor
 }
 
 
-};gdjs.ApartmentCode.eventsList68 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList69 = function(runtimeScene) {
 
 {
 
@@ -7581,7 +7868,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList69 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList70 = function(runtimeScene) {
 
 {
 
@@ -7611,14 +7898,14 @@ let isConditionTrue_0 = false;
 if (true) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList68(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList69(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList70 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList71 = function(runtimeScene) {
 
 {
 
@@ -7657,7 +7944,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList71 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList72 = function(runtimeScene) {
 
 {
 
@@ -7696,7 +7983,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList72 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList73 = function(runtimeScene) {
 
 {
 
@@ -7735,7 +8022,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList73 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList74 = function(runtimeScene) {
 
 {
 
@@ -7911,7 +8198,7 @@ gdjs.ApartmentCode.GDScore_9595ItemObjects3.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList70(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList71(runtimeScene);} //End of subevents
 }
 
 }
@@ -7935,7 +8222,7 @@ gdjs.ApartmentCode.GDScore_9595ItemObjects3.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList71(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList72(runtimeScene);} //End of subevents
 }
 
 }
@@ -7959,7 +8246,7 @@ gdjs.ApartmentCode.GDScore_9595ItemObjects3.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList72(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList73(runtimeScene);} //End of subevents
 }
 
 }
@@ -7995,7 +8282,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList74 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList75 = function(runtimeScene) {
 
 {
 
@@ -8028,16 +8315,16 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList73(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList74(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
-
-};gdjs.ApartmentCode.eventsList75 = function(runtimeScene) {
 
 };gdjs.ApartmentCode.eventsList76 = function(runtimeScene) {
+
+};gdjs.ApartmentCode.eventsList77 = function(runtimeScene) {
 
 {
 
@@ -8080,9 +8367,9 @@ if (isConditionTrue_0) {
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDScore_95959595ItemObjects3Objects = Hashtable.newFrom({"Score_Item": gdjs.ApartmentCode.GDScore_9595ItemObjects3});
-gdjs.ApartmentCode.eventsList77 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList78 = function(runtimeScene) {
 
-};gdjs.ApartmentCode.eventsList78 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList79 = function(runtimeScene) {
 
 {
 
@@ -8122,9 +8409,9 @@ if (isConditionTrue_0) {
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDScore_95959595ItemObjects3Objects = Hashtable.newFrom({"Score_Item": gdjs.ApartmentCode.GDScore_9595ItemObjects3});
-gdjs.ApartmentCode.eventsList79 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList80 = function(runtimeScene) {
 
-};gdjs.ApartmentCode.eventsList80 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList81 = function(runtimeScene) {
 
 {
 
@@ -8159,7 +8446,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList81 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList82 = function(runtimeScene) {
 
 {
 
@@ -8355,7 +8642,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList82 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList83 = function(runtimeScene) {
 
 {
 
@@ -8391,14 +8678,14 @@ gdjs.ApartmentCode.GDScore_9595ItemObjects2.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList81(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList82(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList83 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList84 = function(runtimeScene) {
 
 {
 
@@ -8483,7 +8770,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList76(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList77(runtimeScene);} //End of subevents
 }
 
 }
@@ -8498,7 +8785,7 @@ isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Lef
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList78(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList79(runtimeScene);} //End of subevents
 }
 
 }
@@ -8531,7 +8818,7 @@ if(isConditionTrue_1) {
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList80(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList81(runtimeScene);} //End of subevents
 }
 
 }
@@ -8562,13 +8849,13 @@ if(isConditionTrue_1) {
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList82(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList83(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList84 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList85 = function(runtimeScene) {
 
 {
 
@@ -8599,13 +8886,13 @@ isConditionTrue_0 = false;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList83(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList84(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList85 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList86 = function(runtimeScene) {
 
 {
 
@@ -8853,7 +9140,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList86 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList87 = function(runtimeScene) {
 
 {
 
@@ -8885,7 +9172,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList87 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList88 = function(runtimeScene) {
 
 {
 
@@ -8907,15 +9194,15 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList86(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList87(runtimeScene);} //End of subevents
 }
 
 }
 
-
-};gdjs.ApartmentCode.eventsList88 = function(runtimeScene) {
 
 };gdjs.ApartmentCode.eventsList89 = function(runtimeScene) {
+
+};gdjs.ApartmentCode.eventsList90 = function(runtimeScene) {
 
 {
 
@@ -8979,7 +9266,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList90 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList91 = function(runtimeScene) {
 
 {
 
@@ -9046,7 +9333,7 @@ let isConditionTrue_0 = false;
 if (true) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList89(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList90(runtimeScene);} //Subevents end.
 }
 }
 
@@ -9102,7 +9389,7 @@ gdjs.copyArray(runtimeScene.getObjects("Score_ButtonSel"), gdjs.ApartmentCode.GD
 }
 
 
-};gdjs.ApartmentCode.eventsList91 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList92 = function(runtimeScene) {
 
 {
 
@@ -9114,13 +9401,13 @@ isConditionTrue_0 = false;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList90(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList91(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList92 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList93 = function(runtimeScene) {
 
 {
 
@@ -9140,7 +9427,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList93 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList94 = function(runtimeScene) {
 
 {
 
@@ -9239,14 +9526,14 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObj
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList92(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList93(runtimeScene);} //End of subevents
 }
 
 }
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDPlayerEyesObjects2Objects = Hashtable.newFrom({"PlayerEyes": gdjs.ApartmentCode.GDPlayerEyesObjects2});
-gdjs.ApartmentCode.eventsList94 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList95 = function(runtimeScene) {
 
 {
 
@@ -9297,9 +9584,9 @@ gdjs.copyArray(runtimeScene.getObjects("HeldAnchor"), gdjs.ApartmentCode.GDHeldA
 }
 
 
-};gdjs.ApartmentCode.eventsList95 = function(runtimeScene) {
-
 };gdjs.ApartmentCode.eventsList96 = function(runtimeScene) {
+
+};gdjs.ApartmentCode.eventsList97 = function(runtimeScene) {
 
 {
 
@@ -9372,8 +9659,8 @@ if (isConditionTrue_0) {
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects2Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects2, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects2, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects2, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects2, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects2, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects2, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects2, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects2, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects2, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects2, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects2, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects2, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects2, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects2, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects2, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects2, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects2});
-gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595OvenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FryingPanObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDContainer_95959595PlateObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595BreadBagObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595KnifeBlockObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595ChildLockDrawerObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SippyCupObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595JuiceCartonObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeDoorObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDAlarm_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595GrilledCheeseObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595BreadObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Blanket_95959595CouchObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595RugObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595PosterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ExtinguisherObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595VacuumObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletLidObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595CabinetBodyObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595CabinetObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Blanket_95959595BedObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDAlarm_95959595BedroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKidObjects1Objects = Hashtable.newFrom({"Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects1, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects1, "Kitchen_Sink": gdjs.ApartmentCode.GDKitchen_9595SinkObjects1, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects1, "Hazard_Oven": gdjs.ApartmentCode.GDHazard_9595OvenObjects1, "Drawer_Kitchen": gdjs.ApartmentCode.GDDrawer_9595KitchenObjects1, "Cupboard_Kitchen": gdjs.ApartmentCode.GDCupboard_9595KitchenObjects1, "Cupboard_Sink": gdjs.ApartmentCode.GDCupboard_9595SinkObjects1, "Kitchen_FryingPan": gdjs.ApartmentCode.GDKitchen_9595FryingPanObjects1, "Container_Plate": gdjs.ApartmentCode.GDContainer_9595PlateObjects1, "Kitchen_BreadBag": gdjs.ApartmentCode.GDKitchen_9595BreadBagObjects1, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects1, "Kitchen_KnifeBlock": gdjs.ApartmentCode.GDKitchen_9595KnifeBlockObjects1, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects1, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects1, "Kitchen_ChildLockDrawer": gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects1, "Item_SippyCup": gdjs.ApartmentCode.GDItem_9595SippyCupObjects1, "Prop_JuiceCarton": gdjs.ApartmentCode.GDProp_9595JuiceCartonObjects1, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects1, "Kitchen_FridgeDoor": gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects1, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects1, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1, "Hazard_Outlet_Kitchen": gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects1, "Alarm_Kitchen": gdjs.ApartmentCode.GDAlarm_9595KitchenObjects1, "Item_GrilledCheese": gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1, "Item_Bread": gdjs.ApartmentCode.GDItem_9595BreadObjects1, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects1, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects1, "Hazard_Blanket_Couch": gdjs.ApartmentCode.GDHazard_9595Blanket_9595CouchObjects1, "Prop_Rug": gdjs.ApartmentCode.GDProp_9595RugObjects1, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects1, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects1, "Prop_Poster": gdjs.ApartmentCode.GDProp_9595PosterObjects1, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects1, "Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects1, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects1, "Living_Playpen": gdjs.ApartmentCode.GDLiving_9595PlaypenObjects1, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects1, "Item_Extinguisher": gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1, "Item_Vacuum": gdjs.ApartmentCode.GDItem_9595VacuumObjects1, "Hazard_Outlet_Living": gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects1, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects1, "Prop_ToiletLid": gdjs.ApartmentCode.GDProp_9595ToiletLidObjects1, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects1, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects1, "Bathroom_CabinetBody": gdjs.ApartmentCode.GDBathroom_9595CabinetBodyObjects1, "Bathroom_Cabinet": gdjs.ApartmentCode.GDBathroom_9595CabinetObjects1, "Drawer_Bathroom": gdjs.ApartmentCode.GDDrawer_9595BathroomObjects1, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects1, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1, "Hazard_Outlet_Bathroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects1, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects1, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects1, "Hazard_Blanket_Bed": gdjs.ApartmentCode.GDHazard_9595Blanket_9595BedObjects1, "Hazard_Outlet_Bedroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects1, "Alarm_Bedroom": gdjs.ApartmentCode.GDAlarm_9595BedroomObjects1, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects1, "Kid": gdjs.ApartmentCode.GDKidObjects1});
-gdjs.ApartmentCode.eventsList97 = function(runtimeScene) {
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595OvenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FryingPanObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDContainer_95959595PlateObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595BreadBagObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595KnifeBlockObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595ChildLockDrawerObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SippyCupObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595JuiceCartonObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeDoorObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeStockObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDAlarm_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595GrilledCheeseObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595BreadObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Blanket_95959595CouchObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595RugObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595PosterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ExtinguisherObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595VacuumObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletLidObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595CabinetBodyObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595CabinetObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Blanket_95959595BedObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDAlarm_95959595BedroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKidObjects1Objects = Hashtable.newFrom({"Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects1, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects1, "Kitchen_Sink": gdjs.ApartmentCode.GDKitchen_9595SinkObjects1, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects1, "Hazard_Oven": gdjs.ApartmentCode.GDHazard_9595OvenObjects1, "Drawer_Kitchen": gdjs.ApartmentCode.GDDrawer_9595KitchenObjects1, "Cupboard_Kitchen": gdjs.ApartmentCode.GDCupboard_9595KitchenObjects1, "Cupboard_Sink": gdjs.ApartmentCode.GDCupboard_9595SinkObjects1, "Kitchen_FryingPan": gdjs.ApartmentCode.GDKitchen_9595FryingPanObjects1, "Container_Plate": gdjs.ApartmentCode.GDContainer_9595PlateObjects1, "Kitchen_BreadBag": gdjs.ApartmentCode.GDKitchen_9595BreadBagObjects1, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects1, "Kitchen_KnifeBlock": gdjs.ApartmentCode.GDKitchen_9595KnifeBlockObjects1, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects1, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects1, "Kitchen_ChildLockDrawer": gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects1, "Item_SippyCup": gdjs.ApartmentCode.GDItem_9595SippyCupObjects1, "Prop_JuiceCarton": gdjs.ApartmentCode.GDProp_9595JuiceCartonObjects1, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects1, "Kitchen_FridgeDoor": gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects1, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects1, "Kitchen_FridgeStock": gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects1, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1, "Hazard_Outlet_Kitchen": gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects1, "Alarm_Kitchen": gdjs.ApartmentCode.GDAlarm_9595KitchenObjects1, "Item_GrilledCheese": gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1, "Item_Bread": gdjs.ApartmentCode.GDItem_9595BreadObjects1, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects1, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects1, "Hazard_Blanket_Couch": gdjs.ApartmentCode.GDHazard_9595Blanket_9595CouchObjects1, "Prop_Rug": gdjs.ApartmentCode.GDProp_9595RugObjects1, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects1, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects1, "Prop_Poster": gdjs.ApartmentCode.GDProp_9595PosterObjects1, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects1, "Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects1, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects1, "Living_Playpen": gdjs.ApartmentCode.GDLiving_9595PlaypenObjects1, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects1, "Item_Extinguisher": gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1, "Item_Vacuum": gdjs.ApartmentCode.GDItem_9595VacuumObjects1, "Hazard_Outlet_Living": gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects1, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects1, "Prop_ToiletLid": gdjs.ApartmentCode.GDProp_9595ToiletLidObjects1, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects1, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects1, "Bathroom_CabinetBody": gdjs.ApartmentCode.GDBathroom_9595CabinetBodyObjects1, "Bathroom_Cabinet": gdjs.ApartmentCode.GDBathroom_9595CabinetObjects1, "Drawer_Bathroom": gdjs.ApartmentCode.GDDrawer_9595BathroomObjects1, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects1, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1, "Hazard_Outlet_Bathroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects1, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects1, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects1, "Hazard_Blanket_Bed": gdjs.ApartmentCode.GDHazard_9595Blanket_9595BedObjects1, "Hazard_Outlet_Bedroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects1, "Alarm_Bedroom": gdjs.ApartmentCode.GDAlarm_9595BedroomObjects1, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects1, "Kid": gdjs.ApartmentCode.GDKidObjects1});
+gdjs.ApartmentCode.eventsList98 = function(runtimeScene) {
 
 {
 
@@ -9463,6 +9750,7 @@ gdjs.copyArray(runtimeScene.getObjects("Kitchen_ChildLockDrawer"), gdjs.Apartmen
 gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Kitchen_FridgeDoor"), gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_FridgeStock"), gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Kitchen_FryingPan"), gdjs.ApartmentCode.GDKitchen_9595FryingPanObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Kitchen_KnifeBlock"), gdjs.ApartmentCode.GDKitchen_9595KnifeBlockObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Kitchen_Sink"), gdjs.ApartmentCode.GDKitchen_9595SinkObjects1);
@@ -9487,7 +9775,7 @@ gdjs.copyArray(runtimeScene.getObjects("Toy_UFO"), gdjs.ApartmentCode.GDToy_9595
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtsExt__Raycaster3D__RaycastFromCameraCenter.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595OvenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FryingPanObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDContainer_95959595PlateObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595BreadBagObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595KnifeBlockObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595ChildLockDrawerObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SippyCupObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595JuiceCartonObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeDoorObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDAlarm_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595GrilledCheeseObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595BreadObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Blanket_95959595CouchObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595RugObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595PosterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ExtinguisherObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595VacuumObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletLidObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595CabinetBodyObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595CabinetObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Blanket_95959595BedObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDAlarm_95959595BedroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKidObjects1Objects, Math.min((( gdjs.ApartmentCode.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects1[0].getBehavior("PlayerController").InteractRange(null)), runtimeScene.getScene().getVariables().getFromIndex(2).getChild("SolidDistance").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("RayOcclusionTolerance").getAsNumber()), null);
+isConditionTrue_0 = gdjs.evtsExt__Raycaster3D__RaycastFromCameraCenter.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595OvenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FryingPanObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDContainer_95959595PlateObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595BreadBagObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595KnifeBlockObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595ChildLockDrawerObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SippyCupObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595JuiceCartonObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeDoorObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeStockObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDAlarm_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595GrilledCheeseObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595BreadObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Blanket_95959595CouchObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595RugObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595PosterObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ExtinguisherObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595VacuumObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletLidObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595CabinetBodyObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595CabinetObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Blanket_95959595BedObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDAlarm_95959595BedroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKidObjects1Objects, Math.min((( gdjs.ApartmentCode.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects1[0].getBehavior("PlayerController").InteractRange(null)), runtimeScene.getScene().getVariables().getFromIndex(2).getChild("SolidDistance").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("RayOcclusionTolerance").getAsNumber()), null);
 if (isConditionTrue_0) {
 /* Reuse gdjs.ApartmentCode.GDAlarm_9595BedroomObjects1 */
 /* Reuse gdjs.ApartmentCode.GDAlarm_9595KitchenObjects1 */
@@ -9528,6 +9816,7 @@ if (isConditionTrue_0) {
 /* Reuse gdjs.ApartmentCode.GDKitchen_9595CounterObjects1 */
 /* Reuse gdjs.ApartmentCode.GDKitchen_9595FridgeObjects1 */
 /* Reuse gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1 */
+/* Reuse gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects1 */
 /* Reuse gdjs.ApartmentCode.GDKitchen_9595FryingPanObjects1 */
 /* Reuse gdjs.ApartmentCode.GDKitchen_9595KnifeBlockObjects1 */
 /* Reuse gdjs.ApartmentCode.GDKitchen_9595SinkObjects1 */
@@ -9548,7 +9837,7 @@ if (isConditionTrue_0) {
 /* Reuse gdjs.ApartmentCode.GDToy_9595BlocksObjects1 */
 /* Reuse gdjs.ApartmentCode.GDToy_9595DuckObjects1 */
 /* Reuse gdjs.ApartmentCode.GDToy_9595UFOObjects1 */
-{runtimeScene.getScene().getVariables().getFromIndex(2).getChild("Name").setString((( gdjs.ApartmentCode.GDKidObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDAlarm_9595BedroomObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Blanket_9595BedObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDBedroom_9595BedObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDBathroom_9595ShelfObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDBathroom_9595CabinetBodyObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDBathroom_9595SinkObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595ToiletTankObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595ToiletLidObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595ToiletObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDLiving_9595PlaypenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595PosterObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595LampObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595TVObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595RugObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Blanket_9595CouchObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDLiving_9595CouchObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDAlarm_9595KitchenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595FridgeObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595JuiceCartonObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595KnifeBlockObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595BreadBagObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDContainer_9595PlateObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595FryingPanObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDCupboard_9595SinkObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595OvenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595StoveObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595SinkObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595CounterObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects1.length === 0 ) ? "" :gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595CounterObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595SinkObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595StoveObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595OvenObjects1[0].getName()) :gdjs.ApartmentCode.GDDrawer_9595KitchenObjects1[0].getName()) :gdjs.ApartmentCode.GDCupboard_9595KitchenObjects1[0].getName()) :gdjs.ApartmentCode.GDCupboard_9595SinkObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595FryingPanObjects1[0].getName()) :gdjs.ApartmentCode.GDContainer_9595PlateObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595BreadBagObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595KnifeObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595KnifeBlockObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595ForkObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595JuiceCartonObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595FridgeObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1[0].getName()) :gdjs.ApartmentCode.GDFood_9595AppleObjects1[0].getName()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects1[0].getName()) :gdjs.ApartmentCode.GDAlarm_9595KitchenObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595BreadObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects1[0].getName()) :gdjs.ApartmentCode.GDLiving_9595CouchObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Blanket_9595CouchObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595RugObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595TVObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595LampObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595PosterObjects1[0].getName()) :gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects1[0].getName()) :gdjs.ApartmentCode.GDToy_9595BallObjects1[0].getName()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects1[0].getName()) :gdjs.ApartmentCode.GDLiving_9595PlaypenObjects1[0].getName()) :gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595ToiletObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595ToiletLidObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595ToiletTankObjects1[0].getName()) :gdjs.ApartmentCode.GDBathroom_9595SinkObjects1[0].getName()) :gdjs.ApartmentCode.GDBathroom_9595CabinetBodyObjects1[0].getName()) :gdjs.ApartmentCode.GDBathroom_9595CabinetObjects1[0].getName()) :gdjs.ApartmentCode.GDDrawer_9595BathroomObjects1[0].getName()) :gdjs.ApartmentCode.GDBathroom_9595ShelfObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects1[0].getName()) :gdjs.ApartmentCode.GDToy_9595DuckObjects1[0].getName()) :gdjs.ApartmentCode.GDBedroom_9595BedObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Blanket_9595BedObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects1[0].getName()) :gdjs.ApartmentCode.GDAlarm_9595BedroomObjects1[0].getName()) :gdjs.ApartmentCode.GDToy_9595UFOObjects1[0].getName()) :gdjs.ApartmentCode.GDKidObjects1[0].getName()));
+{runtimeScene.getScene().getVariables().getFromIndex(2).getChild("Name").setString((( gdjs.ApartmentCode.GDKidObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDAlarm_9595BedroomObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Blanket_9595BedObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDBedroom_9595BedObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDBathroom_9595ShelfObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDBathroom_9595CabinetBodyObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDBathroom_9595SinkObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595ToiletTankObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595ToiletLidObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595ToiletObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDLiving_9595PlaypenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595PosterObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595LampObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595TVObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595RugObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Blanket_9595CouchObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDLiving_9595CouchObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDAlarm_9595KitchenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595FridgeObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDProp_9595JuiceCartonObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595KnifeBlockObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595BreadBagObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDContainer_9595PlateObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595FryingPanObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDCupboard_9595SinkObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595OvenObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595StoveObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595SinkObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595CounterObjects1.length === 0 ) ? (( gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects1.length === 0 ) ? "" :gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595CounterObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595SinkObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595StoveObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595OvenObjects1[0].getName()) :gdjs.ApartmentCode.GDDrawer_9595KitchenObjects1[0].getName()) :gdjs.ApartmentCode.GDCupboard_9595KitchenObjects1[0].getName()) :gdjs.ApartmentCode.GDCupboard_9595SinkObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595FryingPanObjects1[0].getName()) :gdjs.ApartmentCode.GDContainer_9595PlateObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595BreadBagObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595KnifeObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595KnifeBlockObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595ForkObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595JuiceCartonObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595FridgeObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1[0].getName()) :gdjs.ApartmentCode.GDFood_9595AppleObjects1[0].getName()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects1[0].getName()) :gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects1[0].getName()) :gdjs.ApartmentCode.GDAlarm_9595KitchenObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595BreadObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects1[0].getName()) :gdjs.ApartmentCode.GDLiving_9595CouchObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Blanket_9595CouchObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595RugObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595TVObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595LampObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595PosterObjects1[0].getName()) :gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects1[0].getName()) :gdjs.ApartmentCode.GDToy_9595BallObjects1[0].getName()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects1[0].getName()) :gdjs.ApartmentCode.GDLiving_9595PlaypenObjects1[0].getName()) :gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1[0].getName()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595ToiletObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595ToiletLidObjects1[0].getName()) :gdjs.ApartmentCode.GDProp_9595ToiletTankObjects1[0].getName()) :gdjs.ApartmentCode.GDBathroom_9595SinkObjects1[0].getName()) :gdjs.ApartmentCode.GDBathroom_9595CabinetBodyObjects1[0].getName()) :gdjs.ApartmentCode.GDBathroom_9595CabinetObjects1[0].getName()) :gdjs.ApartmentCode.GDDrawer_9595BathroomObjects1[0].getName()) :gdjs.ApartmentCode.GDBathroom_9595ShelfObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects1[0].getName()) :gdjs.ApartmentCode.GDToy_9595DuckObjects1[0].getName()) :gdjs.ApartmentCode.GDBedroom_9595BedObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Blanket_9595BedObjects1[0].getName()) :gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects1[0].getName()) :gdjs.ApartmentCode.GDAlarm_9595BedroomObjects1[0].getName()) :gdjs.ApartmentCode.GDToy_9595UFOObjects1[0].getName()) :gdjs.ApartmentCode.GDKidObjects1[0].getName()));
 }
 {runtimeScene.getScene().getVariables().getFromIndex(2).getChild("Distance").setNumber(gdjs.evtsExt__Raycaster3D__Distance.func(runtimeScene, null));
 }
@@ -9557,7 +9846,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList98 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList99 = function(runtimeScene) {
 
 {
 
@@ -10928,7 +11217,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length ;
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SippyCupObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595BreadObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595GrilledCheeseObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595VacuumObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595ChildLockDrawerObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595CabinetObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595SinkObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595OvenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595BathroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeDoorObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595JuiceCartonObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595BreadBagObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDContainer_95959595PlateObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FryingPanObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDKidObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDAlarm_95959595KitchenObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDAlarm_95959595BedroomObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ExtinguisherObjects1Objects = Hashtable.newFrom({"Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects1, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects1, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects1, "Item_SippyCup": gdjs.ApartmentCode.GDItem_9595SippyCupObjects1, "Item_Bread": gdjs.ApartmentCode.GDItem_9595BreadObjects1, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects1, "Item_GrilledCheese": gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects1, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects1, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1, "Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects1, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects1, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects1, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects1, "Item_Vacuum": gdjs.ApartmentCode.GDItem_9595VacuumObjects1, "Kitchen_ChildLockDrawer": gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects1, "Bathroom_Cabinet": gdjs.ApartmentCode.GDBathroom_9595CabinetObjects1, "Drawer_Kitchen": gdjs.ApartmentCode.GDDrawer_9595KitchenObjects1, "Cupboard_Kitchen": gdjs.ApartmentCode.GDCupboard_9595KitchenObjects1, "Cupboard_Sink": gdjs.ApartmentCode.GDCupboard_9595SinkObjects1, "Hazard_Oven": gdjs.ApartmentCode.GDHazard_9595OvenObjects1, "Drawer_Bathroom": gdjs.ApartmentCode.GDDrawer_9595BathroomObjects1, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects1, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects1, "Kitchen_FridgeDoor": gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1, "Prop_JuiceCarton": gdjs.ApartmentCode.GDProp_9595JuiceCartonObjects1, "Kitchen_BreadBag": gdjs.ApartmentCode.GDKitchen_9595BreadBagObjects1, "Container_Plate": gdjs.ApartmentCode.GDContainer_9595PlateObjects1, "Kitchen_FryingPan": gdjs.ApartmentCode.GDKitchen_9595FryingPanObjects1, "Kid": gdjs.ApartmentCode.GDKidObjects1, "Alarm_Kitchen": gdjs.ApartmentCode.GDAlarm_9595KitchenObjects1, "Alarm_Bedroom": gdjs.ApartmentCode.GDAlarm_9595BedroomObjects1, "Item_Extinguisher": gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1});
-gdjs.ApartmentCode.eventsList99 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList100 = function(runtimeScene) {
 
 {
 
@@ -15914,7 +16203,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length ;
 }
 
 
-};gdjs.ApartmentCode.eventsList100 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList101 = function(runtimeScene) {
 
 {
 
@@ -21238,13 +21527,13 @@ gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList99(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList100(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList101 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList102 = function(runtimeScene) {
 
 {
 
@@ -22570,13 +22859,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList100(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList101(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList102 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList103 = function(runtimeScene) {
 
 {
 
@@ -22909,7 +23198,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;
 }
 
 
-};gdjs.ApartmentCode.eventsList103 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList104 = function(runtimeScene) {
 
 {
 
@@ -23198,7 +23487,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDItem_95959595BreadObjects2Objects = Hashtable.newFrom({"Item_Bread": gdjs.ApartmentCode.GDItem_9595BreadObjects2});
-gdjs.ApartmentCode.eventsList104 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList105 = function(runtimeScene) {
 
 {
 
@@ -23232,7 +23521,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList105 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList106 = function(runtimeScene) {
 
 {
 
@@ -23920,7 +24209,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length ;
 }
 
 
-};gdjs.ApartmentCode.eventsList106 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList107 = function(runtimeScene) {
 
 {
 
@@ -24001,7 +24290,7 @@ isConditionTrue_0 = false;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList105(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList106(runtimeScene);} //End of subevents
 }
 
 }
@@ -24023,7 +24312,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList107 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList108 = function(runtimeScene) {
 
 {
 
@@ -24372,7 +24661,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList102(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList103(runtimeScene);} //End of subevents
 }
 
 }
@@ -24403,7 +24692,7 @@ gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2)
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList103(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList104(runtimeScene);} //End of subevents
 }
 
 }
@@ -25182,7 +25471,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList104(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList105(runtimeScene);} //End of subevents
 }
 
 }
@@ -25198,7 +25487,7 @@ isConditionTrue_0 = false;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList106(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList107(runtimeScene);} //End of subevents
 }
 
 }
@@ -25355,7 +25644,1484 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length ;
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects2Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects2, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects2, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects2, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects2, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects2, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects2, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects2, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects2, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects2, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects2, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects2, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects2, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects2, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects2, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects2, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects2, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects2});
-gdjs.ApartmentCode.eventsList108 = function(runtimeScene) {
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects3, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects3, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects3, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects3, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects3, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects3, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects3, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects3, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects3, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects3});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects3, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects3, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects3, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects3, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects3, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects3, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects3, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects3, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects3, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects3});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects3, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects3, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects3, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects3, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects3, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects3, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects3, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects3, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects3, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects3});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects3, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects3, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects3, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects3, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects3, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects3, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects3, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects3, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects3, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects3});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects3, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects3, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects3, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects3, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects3, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects3, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects3, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects3, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects3, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects3});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects4Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects4, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects4, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects4, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects4, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects4, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects4, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects4, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects4, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects4, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects4});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects4Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects4, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects4, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects4, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects4, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects4, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects4, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects4, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects4, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects4, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects4});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects4Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects4, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects4, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects4, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects4, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects4, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects4, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects4, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects4, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects4, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects4});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects4Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects4, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects4, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects4, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects4, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects4, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects4, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects4, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects4, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects4, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects4});
+gdjs.ApartmentCode.eventsList109 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595AppleObjects2, gdjs.ApartmentCode.GDFood_9595AppleObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595TomatoObjects2, gdjs.ApartmentCode.GDFood_9595TomatoObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3);
+
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595BreadObjects2, gdjs.ApartmentCode.GDItem_9595BreadObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595CheeseObjects2, gdjs.ApartmentCode.GDItem_9595CheeseObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2, gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ForkObjects2, gdjs.ApartmentCode.GDItem_9595ForkObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2, gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595KnifeObjects2, gdjs.ApartmentCode.GDItem_9595KnifeObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SippyCupObjects2, gdjs.ApartmentCode.GDItem_9595SippyCupObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SpoonObjects2, gdjs.ApartmentCode.GDItem_9595SpoonObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595VacuumObjects2, gdjs.ApartmentCode.GDItem_9595VacuumObjects3);
+
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BallObjects2, gdjs.ApartmentCode.GDToy_9595BallObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BlocksObjects2, gdjs.ApartmentCode.GDToy_9595BlocksObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595DuckObjects2, gdjs.ApartmentCode.GDToy_9595DuckObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595UFOObjects2, gdjs.ApartmentCode.GDToy_9595UFOObjects3);
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtsExt__Raycaster3D__RaycastWithAngle.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects, (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()), gdjs.scene3d.camera.getCameraZ(runtimeScene, "", 0), (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()), 0, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceDistance").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceBackoff").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getHeight())) / 2, null);
+if (isConditionTrue_0) {
+/* Reuse gdjs.ApartmentCode.GDFood_9595AppleObjects3 */
+/* Reuse gdjs.ApartmentCode.GDFood_9595TomatoObjects3 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595BreadObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595CheeseObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595ForkObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595KnifeObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595SippyCupObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595SpoonObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595VacuumObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595BallObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595BlocksObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595DuckObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595UFOObjects3 */
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("View").setNumber(Math.max(0, gdjs.evtsExt__Raycaster3D__Distance.func(runtimeScene, null) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceBackoff").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getHeight())) / 2));
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObjects3);
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").setNumber((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()) + Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()))) * runtimeScene.getScene().getVariables().getFromIndex(6).getChild("View").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").setNumber((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()) + Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()))) * runtimeScene.getScene().getVariables().getFromIndex(6).getChild("View").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").setNumber(gdjs.scene3d.camera.getCameraZ(runtimeScene, "", 0));
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects3);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtsExt__Raycaster3D__RaycastBetweenPosition.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber() - 1, null);
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").setNumber(Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), gdjs.evtsExt__Raycaster3D__IntersectionZ.func(runtimeScene, null)));
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects3);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = !(gdjs.evtsExt__Raycaster3D__RaycastBetweenPosition.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber() - 1, null));
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber());
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595AppleObjects2, gdjs.ApartmentCode.GDFood_9595AppleObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595TomatoObjects2, gdjs.ApartmentCode.GDFood_9595TomatoObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3);
+
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595BreadObjects2, gdjs.ApartmentCode.GDItem_9595BreadObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595CheeseObjects2, gdjs.ApartmentCode.GDItem_9595CheeseObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2, gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ForkObjects2, gdjs.ApartmentCode.GDItem_9595ForkObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2, gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595KnifeObjects2, gdjs.ApartmentCode.GDItem_9595KnifeObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SippyCupObjects2, gdjs.ApartmentCode.GDItem_9595SippyCupObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SpoonObjects2, gdjs.ApartmentCode.GDItem_9595SpoonObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595VacuumObjects2, gdjs.ApartmentCode.GDItem_9595VacuumObjects3);
+
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BallObjects2, gdjs.ApartmentCode.GDToy_9595BallObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BlocksObjects2, gdjs.ApartmentCode.GDToy_9595BlocksObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595DuckObjects2, gdjs.ApartmentCode.GDToy_9595DuckObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595UFOObjects2, gdjs.ApartmentCode.GDToy_9595UFOObjects3);
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber() <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber());
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtsExt__Raycaster3D__RaycastWithAngle.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects, (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("DropRayZ").getAsNumber(), (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()), 0, gdjs.evtTools.common.distanceBetweenPositions((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber()) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceBackoff").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getHeight())) / 2, null);
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.ApartmentCode.GDFood_9595AppleObjects3 */
+/* Reuse gdjs.ApartmentCode.GDFood_9595TomatoObjects3 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595BreadObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595CheeseObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595ForkObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595KnifeObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595SippyCupObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595SpoonObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595VacuumObjects3 */
+/* Reuse gdjs.ApartmentCode.GDPlayerObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595BallObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595BlocksObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595DuckObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595UFOObjects3 */
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("View").setNumber(Math.max(0, Math.min(gdjs.evtTools.common.distanceBetweenPositions((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber()), gdjs.evtsExt__Raycaster3D__Distance.func(runtimeScene, null) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceBackoff").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getHeight())) / 2)));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").setNumber((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()) + Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()))) * runtimeScene.getScene().getVariables().getFromIndex(6).getChild("View").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").setNumber((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()) + Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()))) * runtimeScene.getScene().getVariables().getFromIndex(6).getChild("View").getAsNumber());
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595AppleObjects2, gdjs.ApartmentCode.GDFood_9595AppleObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595TomatoObjects2, gdjs.ApartmentCode.GDFood_9595TomatoObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3);
+
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595BreadObjects2, gdjs.ApartmentCode.GDItem_9595BreadObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595CheeseObjects2, gdjs.ApartmentCode.GDItem_9595CheeseObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2, gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ForkObjects2, gdjs.ApartmentCode.GDItem_9595ForkObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2, gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595KnifeObjects2, gdjs.ApartmentCode.GDItem_9595KnifeObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SippyCupObjects2, gdjs.ApartmentCode.GDItem_9595SippyCupObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SpoonObjects2, gdjs.ApartmentCode.GDItem_9595SpoonObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595VacuumObjects2, gdjs.ApartmentCode.GDItem_9595VacuumObjects3);
+
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BallObjects2, gdjs.ApartmentCode.GDToy_9595BallObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BlocksObjects2, gdjs.ApartmentCode.GDToy_9595BlocksObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595DuckObjects2, gdjs.ApartmentCode.GDToy_9595DuckObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595UFOObjects2, gdjs.ApartmentCode.GDToy_9595UFOObjects3);
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber() <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber());
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtsExt__Raycaster3D__RaycastWithAngle.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects, (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber() + (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getBehavior("Object3D").getDepth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getBehavior("Object3D").getDepth()) / 2, (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()), 0, gdjs.evtTools.common.distanceBetweenPositions((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber()) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceBackoff").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getHeight())) / 2, null);
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.ApartmentCode.GDFood_9595AppleObjects3 */
+/* Reuse gdjs.ApartmentCode.GDFood_9595TomatoObjects3 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595BreadObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595CheeseObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595ForkObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595KnifeObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595SippyCupObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595SpoonObjects3 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595VacuumObjects3 */
+/* Reuse gdjs.ApartmentCode.GDPlayerObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595BallObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595BlocksObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595DuckObjects3 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595UFOObjects3 */
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("View").setNumber(Math.max(0, Math.min(gdjs.evtTools.common.distanceBetweenPositions((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber()), gdjs.evtsExt__Raycaster3D__Distance.func(runtimeScene, null) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceBackoff").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects3.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects3[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects3[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects3[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3[0].getHeight())) / 2)));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").setNumber((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()) + Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()))) * runtimeScene.getScene().getVariables().getFromIndex(6).getChild("View").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").setNumber((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()) + Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()))) * runtimeScene.getScene().getVariables().getFromIndex(6).getChild("View").getAsNumber());
+}
+}
+
+}
+
+
+{
+
+gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3.length = 0;
+
+gdjs.ApartmentCode.GDBathroom_9595SinkObjects3.length = 0;
+
+gdjs.ApartmentCode.GDBedroom_9595BedObjects3.length = 0;
+
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595AppleObjects2, gdjs.ApartmentCode.GDFood_9595AppleObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595TomatoObjects2, gdjs.ApartmentCode.GDFood_9595TomatoObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3);
+
+gdjs.ApartmentCode.GDHazard_9595ToiletObjects3.length = 0;
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595BreadObjects2, gdjs.ApartmentCode.GDItem_9595BreadObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595CheeseObjects2, gdjs.ApartmentCode.GDItem_9595CheeseObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2, gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ForkObjects2, gdjs.ApartmentCode.GDItem_9595ForkObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2, gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595KnifeObjects2, gdjs.ApartmentCode.GDItem_9595KnifeObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SippyCupObjects2, gdjs.ApartmentCode.GDItem_9595SippyCupObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SpoonObjects2, gdjs.ApartmentCode.GDItem_9595SpoonObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595VacuumObjects2, gdjs.ApartmentCode.GDItem_9595VacuumObjects3);
+
+gdjs.ApartmentCode.GDKitchen_9595CounterObjects3.length = 0;
+
+gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3.length = 0;
+
+gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3.length = 0;
+
+gdjs.ApartmentCode.GDKitchen_9595StoveObjects3.length = 0;
+
+gdjs.ApartmentCode.GDLiving_9595CouchObjects3.length = 0;
+
+gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3.length = 0;
+
+gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3.length = 0;
+
+gdjs.ApartmentCode.GDProp_9595LampObjects3.length = 0;
+
+gdjs.ApartmentCode.GDProp_9595TVObjects3.length = 0;
+
+gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3.length = 0;
+
+gdjs.ApartmentCode.GDShell_9595FloorObjects3.length = 0;
+
+gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3.length = 0;
+
+gdjs.ApartmentCode.GDShell_9595WallObjects3.length = 0;
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BallObjects2, gdjs.ApartmentCode.GDToy_9595BallObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BlocksObjects2, gdjs.ApartmentCode.GDToy_9595BlocksObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595DuckObjects2, gdjs.ApartmentCode.GDToy_9595DuckObjects3);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595UFOObjects2, gdjs.ApartmentCode.GDToy_9595UFOObjects3);
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber() <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber());
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDProp_9595LampObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDProp_9595TVObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDShell_9595WallObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDToy_9595BallObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final.length = 0;
+gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final.length = 0;
+let isConditionTrue_1 = false;
+isConditionTrue_0 = false;
+{
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595AppleObjects2, gdjs.ApartmentCode.GDFood_9595AppleObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595TomatoObjects2, gdjs.ApartmentCode.GDFood_9595TomatoObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4);
+
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595BreadObjects2, gdjs.ApartmentCode.GDItem_9595BreadObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595CheeseObjects2, gdjs.ApartmentCode.GDItem_9595CheeseObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2, gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ForkObjects2, gdjs.ApartmentCode.GDItem_9595ForkObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2, gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595KnifeObjects2, gdjs.ApartmentCode.GDItem_9595KnifeObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SippyCupObjects2, gdjs.ApartmentCode.GDItem_9595SippyCupObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SpoonObjects2, gdjs.ApartmentCode.GDItem_9595SpoonObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595VacuumObjects2, gdjs.ApartmentCode.GDItem_9595VacuumObjects4);
+
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BallObjects2, gdjs.ApartmentCode.GDToy_9595BallObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BlocksObjects2, gdjs.ApartmentCode.GDToy_9595BlocksObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595DuckObjects2, gdjs.ApartmentCode.GDToy_9595DuckObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595UFOObjects2, gdjs.ApartmentCode.GDToy_9595UFOObjects4);
+
+isConditionTrue_1 = gdjs.evtsExt__Raycaster3D__RaycastBetweenPosition.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects4Objects, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, gdjs.scene3d.camera.getCameraZ(runtimeScene, "", 0), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceBackoff").getAsNumber(), null);
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final.indexOf(gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final.push(gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBathroom_9595SinkObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final.indexOf(gdjs.ApartmentCode.GDBathroom_9595SinkObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final.push(gdjs.ApartmentCode.GDBathroom_9595SinkObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBedroom_9595BedObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final.indexOf(gdjs.ApartmentCode.GDBedroom_9595BedObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final.push(gdjs.ApartmentCode.GDBedroom_9595BedObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDFood_9595AppleObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final.indexOf(gdjs.ApartmentCode.GDFood_9595AppleObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final.push(gdjs.ApartmentCode.GDFood_9595AppleObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final.indexOf(gdjs.ApartmentCode.GDFood_9595TomatoObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final.push(gdjs.ApartmentCode.GDFood_9595TomatoObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595ToiletObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595ToiletObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595ToiletObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595BreadObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595BreadObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595BreadObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595CheeseObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595CheeseObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595ForkObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595ForkObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595ForkObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595KnifeObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595KnifeObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595SpoonObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595SpoonObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595VacuumObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595VacuumObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595CounterObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595CounterObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595CounterObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595StoveObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595StoveObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595StoveObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595CouchObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595CouchObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595CouchObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595LampObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595LampObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595LampObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595LampObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595LampObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595TVObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595TVObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595TVObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595TVObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595TVObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595FloorObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595FloorObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595FloorObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595WallObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595WallObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595WallObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595WallObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595WallObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595BallObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595BallObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595BallObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595BallObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595BallObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595BlocksObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595BlocksObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595DuckObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595DuckObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595DuckObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595UFOObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595UFOObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595UFOObjects4[j]);
+    }
+}
+}
+{
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595AppleObjects2, gdjs.ApartmentCode.GDFood_9595AppleObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595TomatoObjects2, gdjs.ApartmentCode.GDFood_9595TomatoObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4);
+
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595BreadObjects2, gdjs.ApartmentCode.GDItem_9595BreadObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595CheeseObjects2, gdjs.ApartmentCode.GDItem_9595CheeseObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2, gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ForkObjects2, gdjs.ApartmentCode.GDItem_9595ForkObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2, gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595KnifeObjects2, gdjs.ApartmentCode.GDItem_9595KnifeObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SippyCupObjects2, gdjs.ApartmentCode.GDItem_9595SippyCupObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SpoonObjects2, gdjs.ApartmentCode.GDItem_9595SpoonObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595VacuumObjects2, gdjs.ApartmentCode.GDItem_9595VacuumObjects4);
+
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BallObjects2, gdjs.ApartmentCode.GDToy_9595BallObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BlocksObjects2, gdjs.ApartmentCode.GDToy_9595BlocksObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595DuckObjects2, gdjs.ApartmentCode.GDToy_9595DuckObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595UFOObjects2, gdjs.ApartmentCode.GDToy_9595UFOObjects4);
+
+isConditionTrue_1 = gdjs.evtsExt__Raycaster3D__RaycastBetweenPosition.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects4Objects, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, gdjs.scene3d.camera.getCameraZ(runtimeScene, "", 0), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceBackoff").getAsNumber(), null);
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final.indexOf(gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final.push(gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBathroom_9595SinkObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final.indexOf(gdjs.ApartmentCode.GDBathroom_9595SinkObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final.push(gdjs.ApartmentCode.GDBathroom_9595SinkObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBedroom_9595BedObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final.indexOf(gdjs.ApartmentCode.GDBedroom_9595BedObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final.push(gdjs.ApartmentCode.GDBedroom_9595BedObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDFood_9595AppleObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final.indexOf(gdjs.ApartmentCode.GDFood_9595AppleObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final.push(gdjs.ApartmentCode.GDFood_9595AppleObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final.indexOf(gdjs.ApartmentCode.GDFood_9595TomatoObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final.push(gdjs.ApartmentCode.GDFood_9595TomatoObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595ToiletObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595ToiletObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595ToiletObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595BreadObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595BreadObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595BreadObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595CheeseObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595CheeseObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595ForkObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595ForkObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595ForkObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595KnifeObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595KnifeObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595SpoonObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595SpoonObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595VacuumObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595VacuumObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595CounterObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595CounterObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595CounterObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595StoveObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595StoveObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595StoveObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595CouchObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595CouchObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595CouchObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595LampObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595LampObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595LampObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595LampObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595LampObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595TVObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595TVObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595TVObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595TVObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595TVObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595FloorObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595FloorObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595FloorObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595WallObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595WallObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595WallObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595WallObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595WallObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595BallObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595BallObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595BallObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595BallObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595BallObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595BlocksObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595BlocksObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595DuckObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595DuckObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595DuckObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595UFOObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595UFOObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595UFOObjects4[j]);
+    }
+}
+}
+{
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595AppleObjects2, gdjs.ApartmentCode.GDFood_9595AppleObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595TomatoObjects2, gdjs.ApartmentCode.GDFood_9595TomatoObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4);
+
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595BreadObjects2, gdjs.ApartmentCode.GDItem_9595BreadObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595CheeseObjects2, gdjs.ApartmentCode.GDItem_9595CheeseObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2, gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ForkObjects2, gdjs.ApartmentCode.GDItem_9595ForkObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2, gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595KnifeObjects2, gdjs.ApartmentCode.GDItem_9595KnifeObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SippyCupObjects2, gdjs.ApartmentCode.GDItem_9595SippyCupObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SpoonObjects2, gdjs.ApartmentCode.GDItem_9595SpoonObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595VacuumObjects2, gdjs.ApartmentCode.GDItem_9595VacuumObjects4);
+
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BallObjects2, gdjs.ApartmentCode.GDToy_9595BallObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BlocksObjects2, gdjs.ApartmentCode.GDToy_9595BlocksObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595DuckObjects2, gdjs.ApartmentCode.GDToy_9595DuckObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595UFOObjects2, gdjs.ApartmentCode.GDToy_9595UFOObjects4);
+
+isConditionTrue_1 = gdjs.evtsExt__Raycaster3D__RaycastBetweenPosition.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects4Objects, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, gdjs.scene3d.camera.getCameraZ(runtimeScene, "", 0), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber() - Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceBackoff").getAsNumber(), null);
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final.indexOf(gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final.push(gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBathroom_9595SinkObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final.indexOf(gdjs.ApartmentCode.GDBathroom_9595SinkObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final.push(gdjs.ApartmentCode.GDBathroom_9595SinkObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBedroom_9595BedObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final.indexOf(gdjs.ApartmentCode.GDBedroom_9595BedObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final.push(gdjs.ApartmentCode.GDBedroom_9595BedObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDFood_9595AppleObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final.indexOf(gdjs.ApartmentCode.GDFood_9595AppleObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final.push(gdjs.ApartmentCode.GDFood_9595AppleObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final.indexOf(gdjs.ApartmentCode.GDFood_9595TomatoObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final.push(gdjs.ApartmentCode.GDFood_9595TomatoObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595ToiletObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595ToiletObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595ToiletObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595BreadObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595BreadObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595BreadObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595CheeseObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595CheeseObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595ForkObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595ForkObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595ForkObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595KnifeObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595KnifeObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595SpoonObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595SpoonObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595VacuumObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595VacuumObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595CounterObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595CounterObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595CounterObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595StoveObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595StoveObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595StoveObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595CouchObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595CouchObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595CouchObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595LampObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595LampObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595LampObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595LampObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595LampObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595TVObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595TVObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595TVObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595TVObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595TVObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595FloorObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595FloorObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595FloorObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595WallObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595WallObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595WallObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595WallObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595WallObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595BallObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595BallObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595BallObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595BallObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595BallObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595BlocksObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595BlocksObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595DuckObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595DuckObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595DuckObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595UFOObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595UFOObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595UFOObjects4[j]);
+    }
+}
+}
+{
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595AppleObjects2, gdjs.ApartmentCode.GDFood_9595AppleObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595TomatoObjects2, gdjs.ApartmentCode.GDFood_9595TomatoObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4);
+
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595BreadObjects2, gdjs.ApartmentCode.GDItem_9595BreadObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595CheeseObjects2, gdjs.ApartmentCode.GDItem_9595CheeseObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2, gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ForkObjects2, gdjs.ApartmentCode.GDItem_9595ForkObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2, gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595KnifeObjects2, gdjs.ApartmentCode.GDItem_9595KnifeObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SippyCupObjects2, gdjs.ApartmentCode.GDItem_9595SippyCupObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SpoonObjects2, gdjs.ApartmentCode.GDItem_9595SpoonObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595VacuumObjects2, gdjs.ApartmentCode.GDItem_9595VacuumObjects4);
+
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BallObjects2, gdjs.ApartmentCode.GDToy_9595BallObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BlocksObjects2, gdjs.ApartmentCode.GDToy_9595BlocksObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595DuckObjects2, gdjs.ApartmentCode.GDToy_9595DuckObjects4);
+
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595UFOObjects2, gdjs.ApartmentCode.GDToy_9595UFOObjects4);
+
+isConditionTrue_1 = gdjs.evtsExt__Raycaster3D__RaycastBetweenPosition.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects4Objects, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, gdjs.scene3d.camera.getCameraZ(runtimeScene, "", 0), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber() + Math.max((( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getWidth()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getWidth()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getWidth()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getWidth()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getWidth()), (( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595UFOObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595DuckObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDToy_9595BallObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDFood_9595AppleObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595BreadObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595ForkObjects4.length === 0 ) ? (( gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDItem_9595KnifeObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ForkObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SpoonObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595BreadObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595CheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595AppleObjects4[0].getHeight()) :gdjs.ApartmentCode.GDFood_9595TomatoObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[0].getHeight()) :gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BallObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595BlocksObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595DuckObjects4[0].getHeight()) :gdjs.ApartmentCode.GDToy_9595UFOObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595VacuumObjects4[0].getHeight()) :gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[0].getHeight())) / 2, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceBackoff").getAsNumber(), null);
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final.indexOf(gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final.push(gdjs.ApartmentCode.GDBathroom_9595ShelfObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBathroom_9595SinkObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final.indexOf(gdjs.ApartmentCode.GDBathroom_9595SinkObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final.push(gdjs.ApartmentCode.GDBathroom_9595SinkObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDBedroom_9595BedObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final.indexOf(gdjs.ApartmentCode.GDBedroom_9595BedObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final.push(gdjs.ApartmentCode.GDBedroom_9595BedObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDFood_9595AppleObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final.indexOf(gdjs.ApartmentCode.GDFood_9595AppleObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final.push(gdjs.ApartmentCode.GDFood_9595AppleObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final.indexOf(gdjs.ApartmentCode.GDFood_9595TomatoObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final.push(gdjs.ApartmentCode.GDFood_9595TomatoObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDHazard_9595ToiletObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final.indexOf(gdjs.ApartmentCode.GDHazard_9595ToiletObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final.push(gdjs.ApartmentCode.GDHazard_9595ToiletObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595BreadObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595BreadObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595BreadObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595CheeseObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595CheeseObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595CheeseObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595ForkObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595ForkObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595ForkObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595KnifeObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595KnifeObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595KnifeObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595SippyCupObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595SippyCupObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595SpoonObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595SpoonObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595SpoonObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDItem_9595VacuumObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final.indexOf(gdjs.ApartmentCode.GDItem_9595VacuumObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final.push(gdjs.ApartmentCode.GDItem_9595VacuumObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595CounterObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595CounterObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595CounterObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595FridgeObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDKitchen_9595StoveObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final.indexOf(gdjs.ApartmentCode.GDKitchen_9595StoveObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final.push(gdjs.ApartmentCode.GDKitchen_9595StoveObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595CouchObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595CouchObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595CouchObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final.indexOf(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final.push(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595LampObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595LampObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595LampObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595LampObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595LampObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595TVObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595TVObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595TVObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595TVObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595TVObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final.indexOf(gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final.push(gdjs.ApartmentCode.GDProp_9595ToiletTankObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595FloorObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595FloorObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595FloorObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595FrontDoorObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDShell_9595WallObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDShell_9595WallObjects3_1final.indexOf(gdjs.ApartmentCode.GDShell_9595WallObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDShell_9595WallObjects3_1final.push(gdjs.ApartmentCode.GDShell_9595WallObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595BallObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595BallObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595BallObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595BallObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595BallObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595BlocksObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595BlocksObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595BlocksObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595DuckObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595DuckObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595DuckObjects4[j]);
+    }
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDToy_9595UFOObjects4.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final.indexOf(gdjs.ApartmentCode.GDToy_9595UFOObjects4[j]) === -1 )
+            gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final.push(gdjs.ApartmentCode.GDToy_9595UFOObjects4[j]);
+    }
+}
+}
+{
+gdjs.copyArray(gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3_1final, gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDBathroom_9595SinkObjects3_1final, gdjs.ApartmentCode.GDBathroom_9595SinkObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDBedroom_9595BedObjects3_1final, gdjs.ApartmentCode.GDBedroom_9595BedObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595AppleObjects3_1final, gdjs.ApartmentCode.GDFood_9595AppleObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDFood_9595TomatoObjects3_1final, gdjs.ApartmentCode.GDFood_9595TomatoObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3_1final, gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3_1final, gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDHazard_9595ToiletObjects3_1final, gdjs.ApartmentCode.GDHazard_9595ToiletObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595BreadObjects3_1final, gdjs.ApartmentCode.GDItem_9595BreadObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595CheeseObjects3_1final, gdjs.ApartmentCode.GDItem_9595CheeseObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3_1final, gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595ForkObjects3_1final, gdjs.ApartmentCode.GDItem_9595ForkObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3_1final, gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595KnifeObjects3_1final, gdjs.ApartmentCode.GDItem_9595KnifeObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SippyCupObjects3_1final, gdjs.ApartmentCode.GDItem_9595SippyCupObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595SpoonObjects3_1final, gdjs.ApartmentCode.GDItem_9595SpoonObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDItem_9595VacuumObjects3_1final, gdjs.ApartmentCode.GDItem_9595VacuumObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDKitchen_9595CounterObjects3_1final, gdjs.ApartmentCode.GDKitchen_9595CounterObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3_1final, gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3_1final, gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDKitchen_9595StoveObjects3_1final, gdjs.ApartmentCode.GDKitchen_9595StoveObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDLiving_9595CouchObjects3_1final, gdjs.ApartmentCode.GDLiving_9595CouchObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3_1final, gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3_1final, gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDProp_9595LampObjects3_1final, gdjs.ApartmentCode.GDProp_9595LampObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDProp_9595TVObjects3_1final, gdjs.ApartmentCode.GDProp_9595TVObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3_1final, gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDShell_9595FloorObjects3_1final, gdjs.ApartmentCode.GDShell_9595FloorObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3_1final, gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDShell_9595WallObjects3_1final, gdjs.ApartmentCode.GDShell_9595WallObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BallObjects3_1final, gdjs.ApartmentCode.GDToy_9595BallObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595BlocksObjects3_1final, gdjs.ApartmentCode.GDToy_9595BlocksObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595DuckObjects3_1final, gdjs.ApartmentCode.GDToy_9595DuckObjects3);
+gdjs.copyArray(gdjs.ApartmentCode.GDToy_9595UFOObjects3_1final, gdjs.ApartmentCode.GDToy_9595UFOObjects3);
+}
+}
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObjects3);
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").setNumber((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterXInScene()) + Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()))) * runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Dist").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").setNumber((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getCenterYInScene()) + Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDPlayerObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects3[0].getAngle()))) * runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Dist").getAsNumber());
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+/* Reuse gdjs.ApartmentCode.GDFood_9595AppleObjects2 */
+/* Reuse gdjs.ApartmentCode.GDFood_9595TomatoObjects2 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595BreadObjects2 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595CheeseObjects2 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595ForkObjects2 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595KnifeObjects2 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595SippyCupObjects2 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595SpoonObjects2 */
+/* Reuse gdjs.ApartmentCode.GDItem_9595VacuumObjects2 */
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObjects2);
+/* Reuse gdjs.ApartmentCode.GDToy_9595BallObjects2 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595BlocksObjects2 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595DuckObjects2 */
+/* Reuse gdjs.ApartmentCode.GDToy_9595UFOObjects2 */
+{for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595KnifeObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595ForkObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595SpoonObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SippyCupObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595SippyCupObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595BreadObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595BreadObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595CheeseObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDFood_9595AppleObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDFood_9595TomatoObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595BallObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595BlocksObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595DuckObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595UFOObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595VacuumObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595VacuumObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").getAsNumber(), null);
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595KnifeObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595ForkObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595SpoonObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SippyCupObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595SippyCupObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595BreadObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595BreadObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595CheeseObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDFood_9595AppleObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDFood_9595TomatoObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595BallObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595BlocksObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595DuckObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595UFOObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595VacuumObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595VacuumObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595KnifeObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595ForkObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595SpoonObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SippyCupObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595SippyCupObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595BreadObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595BreadObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595CheeseObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDFood_9595AppleObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDFood_9595TomatoObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595BallObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595BlocksObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595DuckObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDToy_9595UFOObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595VacuumObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595VacuumObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList110 = function(runtimeScene) {
 
 {
 
@@ -25590,180 +27356,13 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.le
 }
 gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length = k;
 if (isConditionTrue_0) {
-/* Reuse gdjs.ApartmentCode.GDFood_9595AppleObjects2 */
-/* Reuse gdjs.ApartmentCode.GDFood_9595TomatoObjects2 */
-/* Reuse gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2 */
-/* Reuse gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2 */
-/* Reuse gdjs.ApartmentCode.GDItem_9595BreadObjects2 */
-/* Reuse gdjs.ApartmentCode.GDItem_9595CheeseObjects2 */
-/* Reuse gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2 */
-/* Reuse gdjs.ApartmentCode.GDItem_9595ForkObjects2 */
-/* Reuse gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2 */
-/* Reuse gdjs.ApartmentCode.GDItem_9595KnifeObjects2 */
-/* Reuse gdjs.ApartmentCode.GDItem_9595SippyCupObjects2 */
-/* Reuse gdjs.ApartmentCode.GDItem_9595SpoonObjects2 */
-/* Reuse gdjs.ApartmentCode.GDItem_9595VacuumObjects2 */
-gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObjects2);
-/* Reuse gdjs.ApartmentCode.GDToy_9595BallObjects2 */
-/* Reuse gdjs.ApartmentCode.GDToy_9595BlocksObjects2 */
-/* Reuse gdjs.ApartmentCode.GDToy_9595DuckObjects2 */
-/* Reuse gdjs.ApartmentCode.GDToy_9595UFOObjects2 */
-{for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595KnifeObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("View").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("PlaceDistance").getAsNumber());
 }
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ForkObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Z").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber());
 }
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SpoonObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SippyCupObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SippyCupObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595BreadObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595BreadObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595CheeseObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595AppleObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595TomatoObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BallObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BlocksObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595DuckObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595UFOObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595VacuumObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595VacuumObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getScene().getVariables().getFromIndex(6).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Y").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber(), null);
-}
-}
-{for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595KnifeObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ForkObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SpoonObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SippyCupObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SippyCupObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595BreadObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595BreadObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595CheeseObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595AppleObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595TomatoObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BallObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BlocksObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595DuckObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595UFOObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595VacuumObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595VacuumObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2[i].setAngle((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getAngle()));
-}
-}
-{for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595KnifeObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ForkObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SpoonObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SippyCupObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SippyCupObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595BreadObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595BreadObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595CheeseObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595AppleObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595TomatoObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BallObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BlocksObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595DuckObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595UFOObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595VacuumObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595VacuumObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
-}
-}
+
+{ //Subevents
+gdjs.ApartmentCode.eventsList109(runtimeScene);} //End of subevents
 }
 
 }
@@ -25785,14 +27384,31 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList109 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList111 = function(runtimeScene) {
 
 {
 
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "q");
+{let isConditionTrue_1 = false;
+isConditionTrue_0 = false;
+{
+isConditionTrue_1 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "q");
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+}
+}
+{
+{isConditionTrue_1 = runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Force").getAsBoolean();
+}
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+}
+}
+{
+}
+}
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Playing");
@@ -25804,17 +27420,19 @@ isConditionTrue_0 = false;
 }
 }
 if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Force").setBoolean(false);
+}
 {runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Dist").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Player").getChild("DropDistance").getAsNumber());
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList108(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList110(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList110 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList112 = function(runtimeScene) {
 
 {
 
@@ -26805,7 +28423,7 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObj
 }
 
 
-};gdjs.ApartmentCode.eventsList111 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList113 = function(runtimeScene) {
 
 {
 
@@ -26923,7 +28541,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects2.length 
 }
 
 
-};gdjs.ApartmentCode.eventsList112 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList114 = function(runtimeScene) {
 
 {
 
@@ -27294,7 +28912,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList113 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList115 = function(runtimeScene) {
 
 {
 
@@ -27911,7 +29529,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects2.length ;
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList111(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList113(runtimeScene);} //End of subevents
 }
 
 }
@@ -27997,7 +29615,7 @@ gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects2.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList112(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList114(runtimeScene);} //End of subevents
 }
 
 }
@@ -28088,7 +29706,7 @@ gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDK
 }
 
 
-};gdjs.ApartmentCode.eventsList114 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList116 = function(runtimeScene) {
 
 {
 
@@ -29736,7 +31354,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length ;
 }
 
 
-};gdjs.ApartmentCode.eventsList115 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList117 = function(runtimeScene) {
 
 {
 
@@ -29862,7 +31480,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 }
 
 
-};gdjs.ApartmentCode.eventsList116 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList118 = function(runtimeScene) {
 
 {
 
@@ -29903,16 +31521,16 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").getAsString() != runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clip").getAsString());
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").getAsString() != runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clip").getAsString());
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").setString(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clip").getAsString());
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").setString(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clip").getAsString());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PrevT").setNumber(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("F").getAsNumber() / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Fps").getAsNumber());
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PrevT").setNumber(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").getAsNumber() / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fps").getAsNumber());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clip").setString(runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").getAsString());
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clip").setString(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").getAsString());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Fade").setNumber(0);
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fade").setNumber(0);
 }
 }
 
@@ -29925,21 +31543,21 @@ if (isConditionTrue_0) {
 let isConditionTrue_0 = false;
 {
 gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Fade").add(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene));
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fade").add(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("W").setNumber(gdjs.evtTools.common.clamp(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Fade").getAsNumber() / Math.max(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Toddler").getChild("AnimCrossfadeSeconds").getAsNumber()), 0, 1));
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").setNumber(gdjs.evtTools.common.clamp(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fade").getAsNumber() / Math.max(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Toddler").getChild("AnimCrossfadeSeconds").getAsNumber()), 0, 1));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("F").setNumber(gdjs.evtTools.common.mod(Math.floor((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Animation").getAnimationElapsedTime()) * runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Fps").getAsNumber()), Math.max(1, runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").getAsString()).getChild("Frames").getAsNumber())));
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").setNumber(gdjs.evtTools.common.mod(Math.floor((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Animation").getAnimationElapsedTime()) * runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fps").getAsNumber()), Math.max(1, runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").getAsString()).getChild("Frames").getAsNumber())));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").setNumber(gdjs.evtTools.common.mod(Math.floor((runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PrevT").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Fade").getAsNumber()) * runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Fps").getAsNumber()), Math.max(1, runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Frames").getAsNumber())));
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").setNumber(gdjs.evtTools.common.mod(Math.floor((runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PrevT").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fade").getAsNumber()) * runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fps").getAsNumber()), Math.max(1, runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Frames").getAsNumber())));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getCenterXInScene()) + ((runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxW").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) + (runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxD").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle())))) + (((runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("F").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxW").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) + (runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("F").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxD").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle())))) - ((runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxW").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) + (runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxD").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))))) * runtimeScene.getScene().getVariables().getFromIndex(40).getChild("W").getAsNumber());
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getCenterXInScene()) + ((runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxW").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) + (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxD").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle())))) + (((runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxW").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) + (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxD").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle())))) - ((runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxW").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) + (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxD").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))))) * runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").getAsNumber());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getCenterYInScene()) + ((runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxW").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) - (runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxD").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle())))) + (((runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("F").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxW").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) - (runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("F").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxD").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle())))) - ((runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxW").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) - (runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxD").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))))) * runtimeScene.getScene().getVariables().getFromIndex(40).getChild("W").getAsNumber());
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getCenterYInScene()) + ((runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxW").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) - (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxD").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle())))) + (((runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxW").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) - (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxD").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle())))) - ((runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Fwd").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getWidth()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxW").getAsNumber()) * Math.sin(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))) - (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Left").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getHeight()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxD").getAsNumber()) * Math.cos(gdjs.toRad((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()))))) * runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").getAsNumber());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getZ()) + (runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Up").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxH").getAsNumber()) + ((runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").getAsString()).getChild("Up").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("F").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxH").getAsNumber()) - (runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Up").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) / runtimeScene.getScene().getVariables().getFromIndex(40).getChild("BoxH").getAsNumber())) * runtimeScene.getScene().getVariables().getFromIndex(40).getChild("W").getAsNumber());
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getZ()) + (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Up").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxH").getAsNumber()) + ((runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").getAsString()).getChild("Up").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxH").getAsNumber()) - (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Up").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber() * (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("BoxH").getAsNumber())) * runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").getAsNumber());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()) - ((runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Yaw").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber()) + ((runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").getAsString()).getChild("Yaw").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("F").getAsNumber()).getAsNumber()) - (runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Prev").getAsString()).getChild("Yaw").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("PF").getAsNumber()).getAsNumber())) * runtimeScene.getScene().getVariables().getFromIndex(40).getChild("W").getAsNumber()));
+{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getAngle()) - ((runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Yaw").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber()) + ((runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").getAsString()).getChild("Yaw").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").getAsNumber()).getAsNumber()) - (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Clips").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Prev").getAsString()).getChild("Yaw").getChild(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("PF").getAsNumber()).getAsNumber())) * runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").getAsNumber()));
 }
 }
 
@@ -30123,159 +31741,159 @@ if (isConditionTrue_0) {
 /* Reuse gdjs.ApartmentCode.GDToy_9595DuckObjects1 */
 /* Reuse gdjs.ApartmentCode.GDToy_9595UFOObjects1 */
 {for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595KnifeObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595KnifeObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ForkObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595ForkObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SpoonObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595SpoonObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SippyCupObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SippyCupObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595SippyCupObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595BreadObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595BreadObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595BreadObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595CheeseObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595CheeseObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595AppleObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDFood_9595AppleObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595TomatoObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDFood_9595TomatoObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BallObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595BallObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BlocksObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595BlocksObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595DuckObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595DuckObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595UFOObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595UFOObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595VacuumObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595VacuumObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595VacuumObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1[i].setCenterPositionInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber());
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595KnifeObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595KnifeObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ForkObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595ForkObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SpoonObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595SpoonObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SippyCupObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SippyCupObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595SippyCupObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595BreadObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595BreadObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595BreadObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595CheeseObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595CheeseObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595AppleObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDFood_9595AppleObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595TomatoObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDFood_9595TomatoObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BallObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595BallObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BlocksObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595BlocksObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595DuckObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595DuckObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595UFOObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595UFOObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595VacuumObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595VacuumObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595VacuumObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1[i].getBehavior("Object3D").setCenterZInScene(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber());
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595KnifeObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595KnifeObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ForkObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595ForkObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SpoonObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595SpoonObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SippyCupObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SippyCupObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595SippyCupObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595BreadObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595BreadObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595BreadObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595CheeseObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595CheeseObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595GrilledCheeseObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595AppleObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDFood_9595AppleObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595TomatoObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDFood_9595TomatoObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BallObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595BallObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BlocksObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595BlocksObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595DuckObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595DuckObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595UFOObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDToy_9595UFOObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595VacuumObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595VacuumObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595VacuumObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("Yaw").getAsNumber());
+    gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1[i].setAngle(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Yaw").getAsNumber());
 }
 }
 }
@@ -30283,7 +31901,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length ;
 }
 
 
-};gdjs.ApartmentCode.eventsList117 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList119 = function(runtimeScene) {
 
 {
 
@@ -30394,7 +32012,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList118 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList120 = function(runtimeScene) {
 
 {
 
@@ -30438,7 +32056,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList117(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList119(runtimeScene);} //End of subevents
 }
 
 }
@@ -30991,7 +32609,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList119 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList121 = function(runtimeScene) {
 
 {
 
@@ -31415,7 +33033,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 }
 
 
-};gdjs.ApartmentCode.eventsList120 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList122 = function(runtimeScene) {
 
 {
 
@@ -31534,13 +33152,13 @@ gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList119(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList121(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList121 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList123 = function(runtimeScene) {
 
 {
 
@@ -31999,7 +33617,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList122 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList124 = function(runtimeScene) {
 
 {
 
@@ -32066,7 +33684,7 @@ gdjs.copyArray(gdjs.ApartmentCode.GDKidObjects2_1final, gdjs.ApartmentCode.GDKid
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList120(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList122(runtimeScene);} //End of subevents
 }
 
 }
@@ -32198,7 +33816,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList121(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList123(runtimeScene);} //End of subevents
 }
 
 }
@@ -34196,7 +35814,7 @@ gdjs.copyArray(runtimeScene.getObjects("Debug_Warning"), gdjs.ApartmentCode.GDDe
 }
 
 
-};gdjs.ApartmentCode.eventsList123 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList125 = function(runtimeScene) {
 
 {
 
@@ -34975,7 +36593,7 @@ let isConditionTrue_0 = false;
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2});
-gdjs.ApartmentCode.eventsList124 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList126 = function(runtimeScene) {
 
 {
 
@@ -35212,7 +36830,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList125 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList127 = function(runtimeScene) {
 
 {
 
@@ -35251,7 +36869,7 @@ gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2)
 }
 
 
-};gdjs.ApartmentCode.eventsList126 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList128 = function(runtimeScene) {
 
 {
 
@@ -35357,7 +36975,7 @@ gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetO
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2Objects = Hashtable.newFrom({"Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDDrawer_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595ChildLockDrawerObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDCupboard_95959595SinkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595OvenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595CabinetObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDDrawer_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeDoorObjects2Objects = Hashtable.newFrom({"Drawer_Kitchen": gdjs.ApartmentCode.GDDrawer_9595KitchenObjects2, "Cupboard_Kitchen": gdjs.ApartmentCode.GDCupboard_9595KitchenObjects2, "Kitchen_ChildLockDrawer": gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects2, "Cupboard_Sink": gdjs.ApartmentCode.GDCupboard_9595SinkObjects2, "Hazard_Oven": gdjs.ApartmentCode.GDHazard_9595OvenObjects2, "Bathroom_Cabinet": gdjs.ApartmentCode.GDBathroom_9595CabinetObjects2, "Drawer_Bathroom": gdjs.ApartmentCode.GDDrawer_9595BathroomObjects2, "Kitchen_FridgeDoor": gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects2Objects = Hashtable.newFrom({"Marker_KidTarget": gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2});
-gdjs.ApartmentCode.eventsList127 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList129 = function(runtimeScene) {
 
 {
 
@@ -35393,7 +37011,7 @@ gdjs.copyArray(runtimeScene.getObjects("Debug_Warning"), gdjs.ApartmentCode.GDDe
 }
 
 
-};gdjs.ApartmentCode.eventsList128 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList130 = function(runtimeScene) {
 
 {
 
@@ -35409,7 +37027,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList123(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList125(runtimeScene);} //End of subevents
 }
 
 }
@@ -35439,7 +37057,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList124(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList126(runtimeScene);} //End of subevents
 }
 
 }
@@ -35479,7 +37097,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList125(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList127(runtimeScene);} //End of subevents
 }
 
 }
@@ -35592,7 +37210,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects2.length 
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList126(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList128(runtimeScene);} //End of subevents
 }
 
 }
@@ -40828,13 +42446,13 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList127(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList129(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList129 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList131 = function(runtimeScene) {
 
 {
 
@@ -41097,13 +42715,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList128(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList130(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList130 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList132 = function(runtimeScene) {
 
 {
 
@@ -41156,7 +42774,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList131 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList133 = function(runtimeScene) {
 
 {
 
@@ -41209,7 +42827,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList132 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList134 = function(runtimeScene) {
 
 {
 
@@ -41304,7 +42922,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 }
 
 
-};gdjs.ApartmentCode.eventsList133 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList135 = function(runtimeScene) {
 
 {
 
@@ -41373,7 +42991,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 }
 
 
-};gdjs.ApartmentCode.eventsList134 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList136 = function(runtimeScene) {
 
 {
 
@@ -41400,7 +43018,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList135 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList137 = function(runtimeScene) {
 
 {
 
@@ -41535,7 +43153,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList130(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList132(runtimeScene);} //End of subevents
 }
 
 }
@@ -41587,7 +43205,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList131(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList133(runtimeScene);} //End of subevents
 }
 
 }
@@ -41674,7 +43292,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList132(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList134(runtimeScene);} //End of subevents
 }
 
 }
@@ -41753,7 +43371,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList133(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList135(runtimeScene);} //End of subevents
 }
 
 }
@@ -41796,7 +43414,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList134(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList136(runtimeScene);} //End of subevents
 }
 
 }
@@ -41842,7 +43460,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
-gdjs.ApartmentCode.eventsList136 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList138 = function(runtimeScene) {
 
 {
 
@@ -43264,7 +44882,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList137 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList139 = function(runtimeScene) {
 
 {
 
@@ -43407,15 +45025,15 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList136(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList138(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList138 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList140 = function(runtimeScene) {
 
-};gdjs.ApartmentCode.eventsList139 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList141 = function(runtimeScene) {
 
 {
 
@@ -43896,7 +45514,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList140 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList142 = function(runtimeScene) {
 
 {
 
@@ -44167,7 +45785,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length ;
 }
 
 
-};gdjs.ApartmentCode.eventsList141 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList143 = function(runtimeScene) {
 
 {
 
@@ -44391,13 +46009,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList140(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList142(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList142 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList144 = function(runtimeScene) {
 
 {
 
@@ -44512,7 +46130,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects2Objects = Hashtable.newFrom({"Hazard_Outlet_Bathroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects2, "Hazard_Outlet_Kitchen": gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects2, "Hazard_Outlet_Living": gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects2, "Hazard_Outlet_Bedroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidObjects2Objects = Hashtable.newFrom({"Kid": gdjs.ApartmentCode.GDKidObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects2Objects = Hashtable.newFrom({"Hazard_Outlet_Bathroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects2, "Hazard_Outlet_Kitchen": gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects2, "Hazard_Outlet_Living": gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects2, "Hazard_Outlet_Bedroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects2});
-gdjs.ApartmentCode.eventsList143 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList145 = function(runtimeScene) {
 
 {
 
@@ -44561,7 +46179,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList144 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList146 = function(runtimeScene) {
 
 {
 
@@ -44589,13 +46207,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList143(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList145(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList145 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList147 = function(runtimeScene) {
 
 {
 
@@ -44616,7 +46234,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList146 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList148 = function(runtimeScene) {
 
 {
 
@@ -44657,13 +46275,13 @@ for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Blanket_9595BedObjects1.len
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList145(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList147(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList147 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList149 = function(runtimeScene) {
 
 {
 
@@ -44685,7 +46303,7 @@ isConditionTrue_0 = false;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList142(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList144(runtimeScene);} //End of subevents
 }
 
 }
@@ -45010,7 +46628,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList144(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList146(runtimeScene);} //End of subevents
 }
 
 }
@@ -45114,13 +46732,13 @@ for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Blanket_9595BedObjects1.len
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList146(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList148(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList148 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList150 = function(runtimeScene) {
 
 {
 
@@ -45273,7 +46891,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 }
 
 
-};gdjs.ApartmentCode.eventsList149 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList151 = function(runtimeScene) {
 
 {
 
@@ -45318,7 +46936,7 @@ gdjs.ApartmentCode.GDKidObjects2.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList148(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList150(runtimeScene);} //End of subevents
 }
 
 }
@@ -45336,7 +46954,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList150 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList152 = function(runtimeScene) {
 
 {
 
@@ -45363,7 +46981,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList151 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList153 = function(runtimeScene) {
 
 {
 
@@ -45496,13 +47114,13 @@ gdjs.copyArray(runtimeScene.getObjects("Tell_Sparks"), gdjs.ApartmentCode.GDTell
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList150(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList152(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList152 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList154 = function(runtimeScene) {
 
 {
 
@@ -45832,7 +47450,7 @@ if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
 gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObjects2);
-{runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Climb").setNumber(gdjs.evtTools.common.clamp((runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Time").getAsNumber() - 0) / Math.max(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene), runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Duration").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Hazards").getChild("Toilet").getChild("ClipSeconds").getAsNumber()), 0, 1));
+{runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Climb").setNumber(gdjs.evtTools.common.clamp((runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Time").getAsNumber() - 0) / Math.max(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene), runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Duration").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Hazards").getChild("Toilet").getChild("ClimbClipSeconds").getAsNumber()), 0, 1));
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
     gdjs.ApartmentCode.GDKidObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp((( gdjs.ApartmentCode.GDKidNavObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidNavObjects2[0].getCenterXInScene()), runtimeScene.getScene().getVariables().getFromIndex(0).getChild("X").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Climb").getAsNumber()),gdjs.evtTools.common.lerp((( gdjs.ApartmentCode.GDKidNavObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidNavObjects2[0].getCenterYInScene()), (( gdjs.ApartmentCode.GDHazard_9595ToiletObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHazard_9595ToiletObjects2[0].getY()) + (( gdjs.ApartmentCode.GDHazard_9595ToiletObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHazard_9595ToiletObjects2[0].getHeight()) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Hazards").getChild("Toilet").getChild("StandOff").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Climb").getAsNumber()));
@@ -46067,7 +47685,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects1.length ;i < len
 }
 
 
-};gdjs.ApartmentCode.eventsList153 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList155 = function(runtimeScene) {
 
 {
 
@@ -46190,7 +47808,7 @@ gdjs.copyArray(runtimeScene.getObjects("Tell_Sparks"), gdjs.ApartmentCode.GDTell
 }
 
 
-};gdjs.ApartmentCode.eventsList154 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList156 = function(runtimeScene) {
 
 {
 
@@ -46212,13 +47830,13 @@ isConditionTrue_0 = false;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList153(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList155(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList155 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList157 = function(runtimeScene) {
 
 {
 
@@ -46529,11 +48147,19 @@ gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2)
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDGag_9595SwirlObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDGag_9595SwirlObjects2[i].setSize((( gdjs.ApartmentCode.GDHazard_9595ToiletObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHazard_9595ToiletObjects2[0].getWidth()) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Hazards").getChild("Gag").getChild("SwirlSizeShare").getAsNumber(), (( gdjs.ApartmentCode.GDHazard_9595ToiletObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHazard_9595ToiletObjects2[0].getHeight()) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Hazards").getChild("Gag").getChild("SwirlSizeShare").getAsNumber());
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDGag_9595SwirlObjects2.length ;i < len;++i) {
     gdjs.ApartmentCode.GDGag_9595SwirlObjects2[i].setCenterPositionInScene((( gdjs.ApartmentCode.GDHazard_9595ToiletObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHazard_9595ToiletObjects2[0].getCenterXInScene()),(( gdjs.ApartmentCode.GDHazard_9595ToiletObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHazard_9595ToiletObjects2[0].getCenterYInScene()));
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDGag_9595SwirlObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDGag_9595SwirlObjects2[i].getBehavior("Object3D").setZ((( gdjs.ApartmentCode.GDHazard_9595ToiletObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHazard_9595ToiletObjects2[0].getBehavior("Object3D").getZ()) + (( gdjs.ApartmentCode.GDHazard_9595ToiletObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHazard_9595ToiletObjects2[0].getBehavior("Object3D").getDepth()));
+    gdjs.ApartmentCode.GDGag_9595SwirlObjects2[i].getBehavior("Object3D").setZ((( gdjs.ApartmentCode.GDHazard_9595ToiletObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHazard_9595ToiletObjects2[0].getBehavior("Object3D").getZ()) + (( gdjs.ApartmentCode.GDHazard_9595ToiletObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHazard_9595ToiletObjects2[0].getBehavior("Object3D").getDepth()) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Hazards").getChild("Gag").getChild("SwirlWaterShare").getAsNumber());
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDGag_9595SwirlObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDGag_9595SwirlObjects2[i].getBehavior("Object3D").setDepth(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Hazards").getChild("Gag").getChild("SwirlDepth").getAsNumber());
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDGag_9595SwirlObjects2.length ;i < len;++i) {
@@ -46574,7 +48200,7 @@ gdjs.copyArray(runtimeScene.getObjects("Death_Cause"), gdjs.ApartmentCode.GDDeat
 }
 
 
-};gdjs.ApartmentCode.eventsList156 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList158 = function(runtimeScene) {
 
 {
 
@@ -46676,7 +48302,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList157 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList159 = function(runtimeScene) {
 
 {
 
@@ -46763,7 +48389,7 @@ if (isConditionTrue_0) {
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects2Objects = Hashtable.newFrom({"Marker_KidTarget": gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2});
-gdjs.ApartmentCode.eventsList158 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList160 = function(runtimeScene) {
 
 {
 
@@ -47367,7 +48993,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList159 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList161 = function(runtimeScene) {
 
 {
 
@@ -47401,7 +49027,7 @@ gdjs.ApartmentCode.GDKidObjects2.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList157(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList159(runtimeScene);} //End of subevents
 }
 
 }
@@ -47479,13 +49105,13 @@ gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects1)
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList158(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList160(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList160 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList162 = function(runtimeScene) {
 
 {
 
@@ -47520,7 +49146,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList161 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList163 = function(runtimeScene) {
 
 {
 
@@ -47542,13 +49168,13 @@ gdjs.copyArray(runtimeScene.getObjects("Plate_Slot1"), gdjs.ApartmentCode.GDPlat
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList160(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList162(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList162 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList164 = function(runtimeScene) {
 
 {
 
@@ -47591,7 +49217,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList163 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList165 = function(runtimeScene) {
 
 {
 
@@ -47613,13 +49239,13 @@ gdjs.copyArray(runtimeScene.getObjects("Plate_Slot2"), gdjs.ApartmentCode.GDPlat
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList162(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList164(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList164 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList166 = function(runtimeScene) {
 
 {
 
@@ -47654,7 +49280,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList165 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList167 = function(runtimeScene) {
 
 {
 
@@ -47676,13 +49302,13 @@ gdjs.copyArray(runtimeScene.getObjects("Plate_Slot3"), gdjs.ApartmentCode.GDPlat
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList164(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList166(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList166 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList168 = function(runtimeScene) {
 
 {
 
@@ -47737,7 +49363,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList161(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList163(runtimeScene);} //End of subevents
 }
 
 }
@@ -47806,7 +49432,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList163(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList165(runtimeScene);} //End of subevents
 }
 
 }
@@ -47875,7 +49501,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList165(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList167(runtimeScene);} //End of subevents
 }
 
 }
@@ -48013,7 +49639,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDPlate_9595Slot3Objects1.length ;i < le
 }
 
 
-};gdjs.ApartmentCode.eventsList167 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList169 = function(runtimeScene) {
 
 {
 
@@ -48034,7 +49660,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList168 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList170 = function(runtimeScene) {
 
 {
 
@@ -48273,7 +49899,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList167(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList169(runtimeScene);} //End of subevents
 }
 
 }
@@ -48434,7 +50060,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList169 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList171 = function(runtimeScene) {
 
 {
 
@@ -48458,13 +50084,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList168(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList170(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList170 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList172 = function(runtimeScene) {
 
 {
 
@@ -48834,7 +50460,7 @@ gdjs.copyArray(gdjs.ApartmentCode.GDSandwich_9595CrustObjects2, gdjs.ApartmentCo
 }
 
 
-};gdjs.ApartmentCode.eventsList171 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList173 = function(runtimeScene) {
 
 {
 
@@ -48871,14 +50497,14 @@ if (true) {
 }
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList170(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList172(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList172 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList174 = function(runtimeScene) {
 
 {
 
@@ -49035,7 +50661,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList173 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList175 = function(runtimeScene) {
 
 {
 
@@ -49192,13 +50818,13 @@ isConditionTrue_0 = false;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList172(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList174(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList174 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList176 = function(runtimeScene) {
 
 {
 
@@ -49370,7 +50996,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList175 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList177 = function(runtimeScene) {
 
 {
 
@@ -49416,7 +51042,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList176 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList178 = function(runtimeScene) {
 
 {
 
@@ -49445,7 +51071,7 @@ isConditionTrue_0 = false;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList173(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList175(runtimeScene);} //End of subevents
 }
 
 }
@@ -49472,7 +51098,7 @@ gdjs.copyArray(runtimeScene.getObjects("Item_GrilledCheese"), gdjs.ApartmentCode
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList174(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList176(runtimeScene);} //End of subevents
 }
 
 }
@@ -49542,13 +51168,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList175(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList177(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList177 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList179 = function(runtimeScene) {
 
 {
 
@@ -49624,7 +51250,7 @@ if (isConditionTrue_0) {
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDSmoke_95959595PuffObjects2Objects = Hashtable.newFrom({"Smoke_Puff": gdjs.ApartmentCode.GDSmoke_9595PuffObjects2});
-gdjs.ApartmentCode.eventsList178 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList180 = function(runtimeScene) {
 
 {
 
@@ -49735,7 +51361,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList179 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList181 = function(runtimeScene) {
 
 {
 
@@ -49811,13 +51437,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList178(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList180(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList180 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList182 = function(runtimeScene) {
 
 {
 
@@ -49848,7 +51474,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList181 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList183 = function(runtimeScene) {
 
 {
 
@@ -49879,7 +51505,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList182 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList184 = function(runtimeScene) {
 
 {
 
@@ -49912,7 +51538,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList180(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList182(runtimeScene);} //End of subevents
 }
 
 }
@@ -49952,13 +51578,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList181(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList183(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList183 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList185 = function(runtimeScene) {
 
 {
 
@@ -49977,7 +51603,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList177(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList179(runtimeScene);} //End of subevents
 }
 
 }
@@ -50050,7 +51676,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList179(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList181(runtimeScene);} //End of subevents
 }
 
 }
@@ -50087,13 +51713,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList182(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList184(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList184 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList186 = function(runtimeScene) {
 
 {
 
@@ -50185,7 +51811,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList185 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList187 = function(runtimeScene) {
 
 {
 
@@ -50277,7 +51903,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList186 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList188 = function(runtimeScene) {
 
 {
 
@@ -50294,7 +51920,7 @@ gdjs.copyArray(runtimeScene.getObjects("Alarm_Kitchen"), gdjs.ApartmentCode.GDAl
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList184(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList186(runtimeScene);} //End of subevents
 }
 
 }
@@ -50315,7 +51941,7 @@ gdjs.copyArray(runtimeScene.getObjects("Alarm_Bedroom"), gdjs.ApartmentCode.GDAl
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList185(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList187(runtimeScene);} //End of subevents
 }
 
 }
@@ -50365,7 +51991,7 @@ gdjs.copyArray(runtimeScene.getObjects("Alarm_Bedroom"), gdjs.ApartmentCode.GDAl
 }
 
 
-};gdjs.ApartmentCode.eventsList187 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList189 = function(runtimeScene) {
 
 {
 
@@ -50435,7 +52061,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList188 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList190 = function(runtimeScene) {
 
 {
 
@@ -50483,7 +52109,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList189 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList191 = function(runtimeScene) {
 
 {
 
@@ -50502,7 +52128,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList190 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList192 = function(runtimeScene) {
 
 {
 
@@ -50533,7 +52159,7 @@ gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects3)
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList187(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList189(runtimeScene);} //End of subevents
 }
 
 }
@@ -50551,7 +52177,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList188(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList190(runtimeScene);} //End of subevents
 }
 
 }
@@ -50620,13 +52246,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList189(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList191(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList191 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList193 = function(runtimeScene) {
 
 {
 
@@ -50696,7 +52322,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList192 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList194 = function(runtimeScene) {
 
 {
 
@@ -50744,7 +52370,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList193 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList195 = function(runtimeScene) {
 
 {
 
@@ -50763,7 +52389,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList194 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList196 = function(runtimeScene) {
 
 {
 
@@ -50794,7 +52420,7 @@ gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2)
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList191(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList193(runtimeScene);} //End of subevents
 }
 
 }
@@ -50812,7 +52438,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList192(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList194(runtimeScene);} //End of subevents
 }
 
 }
@@ -50881,29 +52507,29 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList193(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList195(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList195 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList197 = function(runtimeScene) {
 
 {
 
 
-gdjs.ApartmentCode.eventsList190(runtimeScene);
+gdjs.ApartmentCode.eventsList192(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList194(runtimeScene);
+gdjs.ApartmentCode.eventsList196(runtimeScene);
 }
 
 
-};gdjs.ApartmentCode.eventsList196 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList198 = function(runtimeScene) {
 
 {
 
@@ -50930,7 +52556,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList197 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList199 = function(runtimeScene) {
 
 {
 
@@ -50990,13 +52616,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList196(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList198(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList198 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList200 = function(runtimeScene) {
 
 {
 
@@ -51032,13 +52658,13 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList199 = function(runtimeScene) {
-
-};gdjs.ApartmentCode.eventsList200 = function(runtimeScene) {
-
 };gdjs.ApartmentCode.eventsList201 = function(runtimeScene) {
 
 };gdjs.ApartmentCode.eventsList202 = function(runtimeScene) {
+
+};gdjs.ApartmentCode.eventsList203 = function(runtimeScene) {
+
+};gdjs.ApartmentCode.eventsList204 = function(runtimeScene) {
 
 {
 
@@ -51268,7 +52894,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList203 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList205 = function(runtimeScene) {
 
 {
 
@@ -51284,16 +52910,16 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList202(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList204(runtimeScene);} //End of subevents
 }
 
 }
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMess_95959595DecalObjects2Objects = Hashtable.newFrom({"Mess_Decal": gdjs.ApartmentCode.GDMess_9595DecalObjects2});
-gdjs.ApartmentCode.eventsList204 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList206 = function(runtimeScene) {
 
-};gdjs.ApartmentCode.eventsList205 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList207 = function(runtimeScene) {
 
 {
 
@@ -51417,7 +53043,7 @@ gdjs.copyArray(runtimeScene.getObjects("Debug_Warning"), gdjs.ApartmentCode.GDDe
 }
 
 
-};gdjs.ApartmentCode.eventsList206 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList208 = function(runtimeScene) {
 
 {
 
@@ -51510,13 +53136,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList205(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList207(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList207 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList209 = function(runtimeScene) {
 
 {
 
@@ -51626,17 +53252,17 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList206(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList208(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList208 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList210 = function(runtimeScene) {
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMess_95959595DecalObjects3Objects = Hashtable.newFrom({"Mess_Decal": gdjs.ApartmentCode.GDMess_9595DecalObjects3});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidObjects3Objects = Hashtable.newFrom({"Kid": gdjs.ApartmentCode.GDKidObjects3});
-gdjs.ApartmentCode.eventsList209 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList211 = function(runtimeScene) {
 
 {
 
@@ -51715,7 +53341,7 @@ let isConditionTrue_0 = false;
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMess_95959595DecalObjects3Objects = Hashtable.newFrom({"Mess_Decal": gdjs.ApartmentCode.GDMess_9595DecalObjects3});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidObjects3Objects = Hashtable.newFrom({"Kid": gdjs.ApartmentCode.GDKidObjects3});
-gdjs.ApartmentCode.eventsList210 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList212 = function(runtimeScene) {
 
 {
 
@@ -51729,7 +53355,7 @@ isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.ApartmentCode.mapOfGD
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList209(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList211(runtimeScene);} //End of subevents
 }
 
 }
@@ -51755,7 +53381,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList211 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList213 = function(runtimeScene) {
 
 {
 
@@ -51823,7 +53449,316 @@ gdjs.ApartmentCode.GDMess_9595DecalObjects2.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList210(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList212(runtimeScene);} //Subevents end.
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMess_95959595DecalObjects4Objects = Hashtable.newFrom({"Mess_Decal": gdjs.ApartmentCode.GDMess_9595DecalObjects4});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.ApartmentCode.GDPlayerObjects4});
+gdjs.ApartmentCode.eventsList214 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getScene().getVariables().getFromIndex(4).getChild("Has").getAsBoolean();
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(6).getChild("Force").setBoolean(true);
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(4).getChild("ItemId").getAsString() == "Kid");
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(13).getChild("KidFell").setBoolean(true);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(13).getChild("Slips").add(1);
+}
+{gdjs.evtsExt__AlienBabysitter__ApplyHappiness.func(runtimeScene, -(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("SlipPenalty").getAsNumber()), runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Reasons").getChild("Slip").getAsString(), null);
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList215 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(gdjs.ApartmentCode.GDMess_9595DecalObjects4, gdjs.ApartmentCode.GDMess_9595DecalObjects5);
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMess_9595DecalObjects5.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDMess_9595DecalObjects5[i].getVariableBoolean(gdjs.ApartmentCode.GDMess_9595DecalObjects5[i].getVariables().getFromIndex(5), false, false) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDMess_9595DecalObjects5[k] = gdjs.ApartmentCode.GDMess_9595DecalObjects5[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDMess_9595DecalObjects5.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{gdjs.ApartmentCode.GDMess_9595DecalObjects5_1final.length = 0;
+let isConditionTrue_1 = false;
+isConditionTrue_0 = false;
+{
+gdjs.copyArray(gdjs.ApartmentCode.GDMess_9595DecalObjects5, gdjs.ApartmentCode.GDMess_9595DecalObjects6);
+
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMess_9595DecalObjects6.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDMess_9595DecalObjects6[i].getVariableString(gdjs.ApartmentCode.GDMess_9595DecalObjects6[i].getVariables().getFromIndex(1)) == "Juice" ) {
+        isConditionTrue_1 = true;
+        gdjs.ApartmentCode.GDMess_9595DecalObjects6[k] = gdjs.ApartmentCode.GDMess_9595DecalObjects6[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDMess_9595DecalObjects6.length = k;
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDMess_9595DecalObjects6.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDMess_9595DecalObjects5_1final.indexOf(gdjs.ApartmentCode.GDMess_9595DecalObjects6[j]) === -1 )
+            gdjs.ApartmentCode.GDMess_9595DecalObjects5_1final.push(gdjs.ApartmentCode.GDMess_9595DecalObjects6[j]);
+    }
+}
+}
+{
+gdjs.copyArray(gdjs.ApartmentCode.GDMess_9595DecalObjects5, gdjs.ApartmentCode.GDMess_9595DecalObjects6);
+
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMess_9595DecalObjects6.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDMess_9595DecalObjects6[i].getVariableString(gdjs.ApartmentCode.GDMess_9595DecalObjects6[i].getVariables().getFromIndex(1)) == "Goo" ) {
+        isConditionTrue_1 = true;
+        gdjs.ApartmentCode.GDMess_9595DecalObjects6[k] = gdjs.ApartmentCode.GDMess_9595DecalObjects6[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDMess_9595DecalObjects6.length = k;
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+    for (let j = 0, jLen = gdjs.ApartmentCode.GDMess_9595DecalObjects6.length; j < jLen ; ++j) {
+        if ( gdjs.ApartmentCode.GDMess_9595DecalObjects5_1final.indexOf(gdjs.ApartmentCode.GDMess_9595DecalObjects6[j]) === -1 )
+            gdjs.ApartmentCode.GDMess_9595DecalObjects5_1final.push(gdjs.ApartmentCode.GDMess_9595DecalObjects6[j]);
+    }
+}
+}
+{
+gdjs.copyArray(gdjs.ApartmentCode.GDMess_9595DecalObjects5_1final, gdjs.ApartmentCode.GDMess_9595DecalObjects5);
+}
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Playing");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{let isConditionTrue_1 = false;
+isConditionTrue_0 = false;
+{
+isConditionTrue_1 = gdjs.evtTools.input.isKeyPressed(runtimeScene, "w");
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+}
+}
+{
+isConditionTrue_1 = gdjs.evtTools.input.isKeyPressed(runtimeScene, "a");
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+}
+}
+{
+isConditionTrue_1 = gdjs.evtTools.input.isKeyPressed(runtimeScene, "s");
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+}
+}
+{
+isConditionTrue_1 = gdjs.evtTools.input.isKeyPressed(runtimeScene, "d");
+if(isConditionTrue_1) {
+    isConditionTrue_0 = true;
+}
+}
+{
+}
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerCooldown").getAsNumber() <= 0);
+}
+}
+}
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerCooldown").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("PlayerSlipCooldownSeconds").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerSlip").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("PlayerSlipSeconds").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerSlips").add(1);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(15).getChild("Text").setString(runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Hints").getChild("PlayerSlip").getAsString());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(15).getChild("Time").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("HintSeconds").getAsNumber());
+}
+
+{ //Subevents
+gdjs.ApartmentCode.eventsList214(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+/* Reuse gdjs.ApartmentCode.GDMess_9595DecalObjects4 */
+{for(var i = 0, len = gdjs.ApartmentCode.GDMess_9595DecalObjects4.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDMess_9595DecalObjects4[i].returnVariable(gdjs.ApartmentCode.GDMess_9595DecalObjects4[i].getVariables().getFromIndex(5)).setBoolean(true);
+}
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMess_95959595DecalObjects4Objects = Hashtable.newFrom({"Mess_Decal": gdjs.ApartmentCode.GDMess_9595DecalObjects4});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.ApartmentCode.GDPlayerObjects4});
+gdjs.ApartmentCode.eventsList216 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(gdjs.ApartmentCode.GDMess_9595DecalObjects3, gdjs.ApartmentCode.GDMess_9595DecalObjects4);
+
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObjects4);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMess_95959595DecalObjects4Objects, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDPlayerObjects4Objects, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("PlayerSlipRadius").getAsNumber(), false);
+if (isConditionTrue_0) {
+
+{ //Subevents
+gdjs.ApartmentCode.eventsList215(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+gdjs.copyArray(gdjs.ApartmentCode.GDMess_9595DecalObjects3, gdjs.ApartmentCode.GDMess_9595DecalObjects4);
+
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObjects4);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMess_95959595DecalObjects4Objects, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDPlayerObjects4Objects, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("PlayerSlipRadius").getAsNumber(), true);
+if (isConditionTrue_0) {
+/* Reuse gdjs.ApartmentCode.GDMess_9595DecalObjects4 */
+{for(var i = 0, len = gdjs.ApartmentCode.GDMess_9595DecalObjects4.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDMess_9595DecalObjects4[i].returnVariable(gdjs.ApartmentCode.GDMess_9595DecalObjects4[i].getVariables().getFromIndex(5)).setBoolean(false);
+}
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList217 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+{runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerCooldown").setNumber(Math.max(0, runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerCooldown").getAsNumber() - gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerSlip").setNumber(Math.max(0, runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerSlip").getAsNumber() - gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)));
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Mess_Decal"), gdjs.ApartmentCode.GDMess_9595DecalObjects2);
+
+for (gdjs.ApartmentCode.forEachIndex3 = 0;gdjs.ApartmentCode.forEachIndex3 < gdjs.ApartmentCode.GDMess_9595DecalObjects2.length;++gdjs.ApartmentCode.forEachIndex3) {
+gdjs.ApartmentCode.GDMess_9595DecalObjects3.length = 0;
+
+
+gdjs.ApartmentCode.forEachTemporary3 = gdjs.ApartmentCode.GDMess_9595DecalObjects2[gdjs.ApartmentCode.forEachIndex3];
+gdjs.ApartmentCode.GDMess_9595DecalObjects3.push(gdjs.ApartmentCode.forEachTemporary3);
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMess_9595DecalObjects3.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDMess_9595DecalObjects3[i].getVariableBoolean(gdjs.ApartmentCode.GDMess_9595DecalObjects3[i].getVariables().getFromIndex(0), true, false) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDMess_9595DecalObjects3[k] = gdjs.ApartmentCode.GDMess_9595DecalObjects3[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDMess_9595DecalObjects3.length = k;
+if (isConditionTrue_0) {
+
+{ //Subevents: 
+gdjs.ApartmentCode.eventsList216(runtimeScene);} //Subevents end.
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getScene().getVariables().getFromIndex(13).getChild("KidFell").getAsBoolean();
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(4).getChild("ItemId").getAsString() != "Kid");
+}
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+{runtimeScene.getScene().getVariables().getFromIndex(13).getChild("KidFell").setBoolean(false);
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").SetStateTo("Cry", runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("CrySeconds").getAsNumber(), null);
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerSlip").getAsNumber() > 0);
+}
+if (isConditionTrue_0) {
+{gdjs.scene3d.camera.setCameraRotationY(runtimeScene, gdjs.scene3d.camera.getCameraRotationY(runtimeScene, "", 0) + (runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("PlayerSlipRollDegrees").getAsNumber() * Math.sin(runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerSlip").getAsNumber() * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("PlayerSlipWobbleSpeed").getAsNumber()) * runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerSlip").getAsNumber() / runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("PlayerSlipSeconds").getAsNumber()), "", 0);
+}
+{gdjs.scene3d.camera.setCameraZ(runtimeScene, gdjs.scene3d.camera.getCameraZ(runtimeScene, "", 0) - (runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("PlayerSlipDip").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(13).getChild("PlayerSlip").getAsNumber() / runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Mess").getChild("PlayerSlipSeconds").getAsNumber()), "", 0);
 }
 }
 
@@ -51831,7 +53766,7 @@ gdjs.ApartmentCode.eventsList210(runtimeScene);} //Subevents end.
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMess_95959595DecalObjects1Objects = Hashtable.newFrom({"Mess_Decal": gdjs.ApartmentCode.GDMess_9595DecalObjects1});
-gdjs.ApartmentCode.eventsList212 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList218 = function(runtimeScene) {
 
 {
 
@@ -51896,7 +53831,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList213 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList219 = function(runtimeScene) {
 
 {
 
@@ -51913,7 +53848,7 @@ gdjs.copyArray(gdjs.ApartmentCode.GDMess_9595DecalObjects1, gdjs.ApartmentCode.G
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList212(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList218(runtimeScene);} //End of subevents
 }
 
 }
@@ -51960,7 +53895,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList214 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList220 = function(runtimeScene) {
 
 {
 
@@ -52020,14 +53955,14 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList213(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList219(runtimeScene);} //End of subevents
 }
 
 }
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects1ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects1Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects1, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects1, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects1, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects1});
-gdjs.ApartmentCode.eventsList215 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList221 = function(runtimeScene) {
 
 {
 
@@ -52414,7 +54349,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects1.length ;i < len;++
 }
 
 
-};gdjs.ApartmentCode.eventsList216 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList222 = function(runtimeScene) {
 
 {
 
@@ -52487,13 +54422,13 @@ gdjs.ApartmentCode.GDKidObjects1.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList215(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList221(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList217 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList223 = function(runtimeScene) {
 
 {
 
@@ -52507,13 +54442,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList216(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList222(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList218 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList224 = function(runtimeScene) {
 
 {
 
@@ -52560,7 +54495,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 }
 
 
-};gdjs.ApartmentCode.eventsList219 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList225 = function(runtimeScene) {
 
 {
 
@@ -52586,7 +54521,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList218(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList224(runtimeScene);} //End of subevents
 }
 
 }
@@ -52640,7 +54575,7 @@ gdjs.copyArray(runtimeScene.getObjects("Marker_PlaypenSpot"), gdjs.ApartmentCode
 }
 
 
-};gdjs.ApartmentCode.eventsList220 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList226 = function(runtimeScene) {
 
 {
 
@@ -52661,7 +54596,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList221 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList227 = function(runtimeScene) {
 
 {
 
@@ -52682,7 +54617,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList222 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList228 = function(runtimeScene) {
 
 {
 
@@ -52784,7 +54719,7 @@ gdjs.copyArray(runtimeScene.getObjects("Fire_PanFlame"), gdjs.ApartmentCode.GDFi
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList220(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList226(runtimeScene);} //End of subevents
 }
 
 }
@@ -52850,13 +54785,13 @@ gdjs.copyArray(runtimeScene.getObjects("Fire_OvenFlame"), gdjs.ApartmentCode.GDF
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList221(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList227(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList223 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList229 = function(runtimeScene) {
 
 {
 
@@ -52954,7 +54889,7 @@ gdjs.copyArray(runtimeScene.getObjects("Fire_OvenFlame"), gdjs.ApartmentCode.GDF
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects2Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects2, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects2, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects2, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects2, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects2, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects2, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects2, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects2, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects2, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects2, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects2, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects2, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects2, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects2, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects2, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects2, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDFire_95959595PanFlameObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFire_95959595OvenFlameObjects2Objects = Hashtable.newFrom({"Fire_PanFlame": gdjs.ApartmentCode.GDFire_9595PanFlameObjects2, "Fire_OvenFlame": gdjs.ApartmentCode.GDFire_9595OvenFlameObjects2});
-gdjs.ApartmentCode.eventsList224 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList230 = function(runtimeScene) {
 
 {
 
@@ -52977,7 +54912,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList225 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList231 = function(runtimeScene) {
 
 {
 
@@ -53010,14 +54945,14 @@ if (true) {
 }
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList224(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList230(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList226 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList232 = function(runtimeScene) {
 
 {
 
@@ -53411,7 +55346,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects1.length ;
 }
 
 
-};gdjs.ApartmentCode.eventsList227 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList233 = function(runtimeScene) {
 
 {
 
@@ -53577,7 +55512,7 @@ gdjs.ApartmentCode.GDFire_9595OvenFlameObjects2.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList225(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList231(runtimeScene);} //End of subevents
 }
 
 }
@@ -53793,14 +55728,14 @@ gdjs.copyArray(runtimeScene.getObjects("Fire_OvenFlame"), gdjs.ApartmentCode.GDF
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList226(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList232(runtimeScene);} //End of subevents
 }
 
 }
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDSpray_95959595PuffObjects2Objects = Hashtable.newFrom({"Spray_Puff": gdjs.ApartmentCode.GDSpray_9595PuffObjects2});
-gdjs.ApartmentCode.eventsList228 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList234 = function(runtimeScene) {
 
 {
 
@@ -53829,7 +55764,7 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObj
 }
 
 
-};gdjs.ApartmentCode.eventsList229 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList235 = function(runtimeScene) {
 
 {
 
@@ -53896,13 +55831,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList228(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList234(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList230 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList236 = function(runtimeScene) {
 
 {
 
@@ -53933,7 +55868,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList231 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList237 = function(runtimeScene) {
 
 {
 
@@ -53947,7 +55882,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList229(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList235(runtimeScene);} //End of subevents
 }
 
 }
@@ -54002,13 +55937,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList230(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList236(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList232 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList238 = function(runtimeScene) {
 
 {
 
@@ -54794,7 +56729,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1.length 
 }
 
 
-};gdjs.ApartmentCode.eventsList233 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList239 = function(runtimeScene) {
 
 {
 
@@ -55678,7 +57613,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length ;
 }
 
 
-};gdjs.ApartmentCode.eventsList234 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList240 = function(runtimeScene) {
 
 {
 
@@ -56077,13 +58012,13 @@ for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects4.length ;
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList233(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList239(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList235 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList241 = function(runtimeScene) {
 
 {
 
@@ -56807,7 +58742,7 @@ gdjs.ApartmentCode.GDItem_9595ExtinguisherObjects3.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList234(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList240(runtimeScene);} //Subevents end.
 }
 }
 
@@ -57046,7 +58981,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects1.length 
 }
 
 
-};gdjs.ApartmentCode.eventsList236 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList242 = function(runtimeScene) {
 
 {
 
@@ -57079,7 +59014,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList237 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList243 = function(runtimeScene) {
 
 {
 
@@ -57143,7 +59078,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList238 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList244 = function(runtimeScene) {
 
 {
 
@@ -57272,7 +59207,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidObjects2Objects = Hashtable.newFrom({"Kid": gdjs.ApartmentCode.GDKidObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
-gdjs.ApartmentCode.eventsList239 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList245 = function(runtimeScene) {
 
 {
 
@@ -57988,7 +59923,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidObjects2Objects = Hashtable.newFrom({"Kid": gdjs.ApartmentCode.GDKidObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
-gdjs.ApartmentCode.eventsList240 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList246 = function(runtimeScene) {
 
 {
 
@@ -58032,7 +59967,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 }
 
 
-};gdjs.ApartmentCode.eventsList241 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList247 = function(runtimeScene) {
 
 {
 
@@ -58063,13 +59998,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList240(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList246(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList242 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList248 = function(runtimeScene) {
 
 {
 
@@ -58085,7 +60020,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList239(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList245(runtimeScene);} //End of subevents
 }
 
 }
@@ -58612,13 +60547,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList241(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList247(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList243 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList249 = function(runtimeScene) {
 
 {
 
@@ -59143,7 +61078,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length ;i < le
 }
 
 
-};gdjs.ApartmentCode.eventsList244 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList250 = function(runtimeScene) {
 
 {
 
@@ -59756,7 +61691,7 @@ gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList243(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList249(runtimeScene);} //End of subevents
 }
 
 }
@@ -59765,10 +61700,10 @@ gdjs.ApartmentCode.eventsList243(runtimeScene);} //End of subevents
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects3Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects3, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects3, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects3, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects3, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects3, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects3, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects3, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects3, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects3, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects3});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidNavObjects3Objects = Hashtable.newFrom({"KidNav": gdjs.ApartmentCode.GDKidNavObjects3});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects3Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects3, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects3, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects3, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects3, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects3, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects3, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects3, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects3, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects3, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects3});
-gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects3Objects = Hashtable.newFrom({"Marker_KidTarget": gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3});
-gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidNavObjects3Objects = Hashtable.newFrom({"KidNav": gdjs.ApartmentCode.GDKidNavObjects3});
-gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects3Objects = Hashtable.newFrom({"Marker_KidTarget": gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3});
-gdjs.ApartmentCode.eventsList245 = function(runtimeScene) {
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects2Objects = Hashtable.newFrom({"Marker_KidTarget": gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidNavObjects2Objects = Hashtable.newFrom({"KidNav": gdjs.ApartmentCode.GDKidNavObjects2});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects2Objects = Hashtable.newFrom({"Marker_KidTarget": gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2});
+gdjs.ApartmentCode.eventsList251 = function(runtimeScene) {
 
 {
 
@@ -60228,8 +62163,8 @@ if (isConditionTrue_0) {
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObjects3);
-gdjs.copyArray(runtimeScene.getObjects("Marker_KidTarget"), gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3);
+gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Marker_KidTarget"), gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
@@ -60237,54 +62172,39 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3[i].getVariableString(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3[i].getVariables().getFromIndex(1)) == "Wander" ) {
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2[i].getVariableString(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2[i].getVariables().getFromIndex(1)) == "Wander" ) {
         isConditionTrue_0 = true;
-        gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3[k] = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3[i];
+        gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2[k] = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2[i];
         ++k;
     }
 }
-gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3.length = k;
+gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3[i].getVariableString(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3[i].getVariables().getFromIndex(4)) == runtimeScene.getScene().getVariables().getFromIndex(10).getAsString() ) {
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2[i].getVariableString(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2[i].getVariables().getFromIndex(4)) == runtimeScene.getScene().getVariables().getFromIndex(10).getAsString() ) {
         isConditionTrue_0 = true;
-        gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3[k] = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3[i];
+        gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2[k] = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2[i];
         ++k;
     }
 }
-gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3.length = k;
+gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects3Objects, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidNavObjects3Objects, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("DriftMaxDistance").getAsNumber(), false);
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects2Objects, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidNavObjects2Objects, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("DriftMaxDistance").getAsNumber(), false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.pickRandomObject(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects3Objects);
+isConditionTrue_0 = gdjs.evtTools.object.pickRandomObject(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects2Objects);
 }
 }
 }
 }
 if (isConditionTrue_0) {
-/* Reuse gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3 */
-{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("DriftX").setNumber((( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3[0].getCenterXInScene()));
+/* Reuse gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2 */
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("DriftX").setNumber((( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2[0].getCenterXInScene()));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("DriftY").setNumber((( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDMarker_9595KidTargetObjects3[0].getCenterYInScene()));
-}
-}
-
-}
-
-
-{
-
-
-let isConditionTrue_0 = false;
-{
-gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObjects2);
-{for(var i = 0, len = gdjs.ApartmentCode.GDKidNavObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDKidNavObjects2[i].getBehavior("NavMeshCharacter").moveTo(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("DriftX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(22).getChild("DriftY").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber());
-}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("DriftY").setNumber((( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2[0].getCenterYInScene()));
 }
 }
 
@@ -60294,8 +62214,96 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidNavObjects2Objects = Hashtable.newFrom({"KidNav": gdjs.ApartmentCode.GDKidNavObjects2});
-gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
-gdjs.ApartmentCode.eventsList246 = function(runtimeScene) {
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects2Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects2, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects2, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects2, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects2, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects2, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects2, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects2, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects2, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects2, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects2, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects2, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects2, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects2, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects2, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects2, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects2, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects2});
+gdjs.ApartmentCode.eventsList252 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").getAsNumber() >= 0);
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").setNumber(-(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber()) / Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Epsilon").getAsNumber(), Math.sqrt(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber())));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").setNumber(-(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber()) / Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Epsilon").getAsNumber(), Math.sqrt(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber())));
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VN").setNumber(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").sub((1 + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Restitution").getAsNumber()) * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VN").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").sub((1 + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Restitution").getAsNumber()) * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VN").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinP").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinOnBounce").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinR").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinOnBounce").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinY").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinOnBounce").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Bounces").add(1);
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects2Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects2, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects2, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects2, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects2, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects2, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects2, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects2, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects2, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects2, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects2, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects2, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects2, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects2, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects2, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects2, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects2, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects2});
+gdjs.ApartmentCode.eventsList253 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").getAsNumber() >= 0);
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").setNumber(-(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber()) / Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Epsilon").getAsNumber(), Math.sqrt(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber())));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").setNumber(-(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber()) / Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Epsilon").getAsNumber(), Math.sqrt(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber())));
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VN").setNumber(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").sub((1 + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Restitution").getAsNumber()) * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VN").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").sub((1 + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Restitution").getAsNumber()) * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VN").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinP").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinOnBounce").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinR").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinOnBounce").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinY").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinOnBounce").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Bounces").add(1);
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
+gdjs.ApartmentCode.eventsList254 = function(runtimeScene) {
 
 {
 
@@ -60348,7 +62356,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList247 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList255 = function(runtimeScene) {
 
 {
 
@@ -60718,8 +62726,26 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 {runtimeScene.getScene().getVariables().getFromIndex(22).getChild("DriftY").setNumber((( gdjs.ApartmentCode.GDKidNavObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidNavObjects2[0].getCenterYInScene()));
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDKidNavObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDKidNavObjects2[i].getBehavior("NavMeshCharacter").setMaxSpeed(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Toddler").getChild("WalkSpeed").getAsNumber() * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("DriftSpeedShare").getAsNumber());
+    gdjs.ApartmentCode.GDKidNavObjects2[i].getBehavior("NavMeshCharacter").moveTo((gdjs.ApartmentCode.GDKidNavObjects2[i].getX()), (gdjs.ApartmentCode.GDKidNavObjects2[i].getY()), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber());
 }
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Pitch").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Roll").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinP").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinR").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinY").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PushTimer").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Bounces").setNumber(0);
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
     gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").SetStateTo("FloatHover", runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("DriftSeconds").getAsNumber(), null);
@@ -60767,7 +62793,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList244(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList250(runtimeScene);} //End of subevents
 }
 
 }
@@ -60854,7 +62880,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList245(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList251(runtimeScene);} //End of subevents
 }
 
 }
@@ -61056,11 +63082,370 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
 }
 gdjs.ApartmentCode.GDKidObjects2.length = k;
 if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PushTimer").sub(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene));
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatHover" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PushTimer").getAsNumber() <= 0);
+}
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObjects2);
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PushAngle").setNumber(gdjs.toDegrees(Math.atan2(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("DriftY").getAsNumber() - (( gdjs.ApartmentCode.GDKidNavObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidNavObjects2[0].getCenterYInScene()), runtimeScene.getScene().getVariables().getFromIndex(22).getChild("DriftX").getAsNumber() - (( gdjs.ApartmentCode.GDKidNavObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidNavObjects2[0].getCenterXInScene()))) + gdjs.randomFloatInRange(-(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("PushSpreadDegrees").getAsNumber()), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("PushSpreadDegrees").getAsNumber()));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").add(Math.cos(gdjs.toRad(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PushAngle").getAsNumber())) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("PushSpeed").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").add(Math.sin(gdjs.toRad(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PushAngle").getAsNumber())) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("PushSpeed").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").add(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("PushSpeed").getAsNumber() * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("PushUpShare").getAsNumber() * (gdjs.randomFloatInRange(-1, 1) + gdjs.evtTools.common.clamp((runtimeScene.getScene().getVariables().getFromIndex(22).getChild("FloatTarget").getAsNumber() - runtimeScene.getScene().getVariables().getFromIndex(9).getChild("FloatZ").getAsNumber()) / Math.max(1, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("HoverHeight").getAsNumber()), -1, 1)));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinP").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinKick").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinR").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinKick").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinY").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinKick").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PushTimer").setNumber(gdjs.randomFloatInRange(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("PushMinSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("PushMaxSeconds").getAsNumber()));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Pushes").add(1);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatHover" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").mul(Math.max(0, 1 - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("LinearDrag").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").mul(Math.max(0, 1 - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("LinearDrag").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").mul(Math.max(0, 1 - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("LinearDrag").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinP").mul(Math.max(0, 1 - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinDrag").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinR").mul(Math.max(0, 1 - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinDrag").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinY").mul(Math.max(0, 1 - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinDrag").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Speed").setNumber(Math.sqrt(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").getAsNumber()));
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatHover" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Speed").getAsNumber() > runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("MaxSpeed").getAsNumber());
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").mul(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("MaxSpeed").getAsNumber() / runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Speed").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").mul(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("MaxSpeed").getAsNumber() / runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Speed").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").mul(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("MaxSpeed").getAsNumber() / runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Speed").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Speed").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("MaxSpeed").getAsNumber());
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatHover" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (Math.abs(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber()) + Math.abs(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber()) > 0);
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtsExt__Raycaster3D__RaycastWithAngle.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects2Objects, (( gdjs.ApartmentCode.GDKidNavObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidNavObjects2[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDKidNavObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidNavObjects2[0].getCenterYInScene()), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("BumpProbeZ").getAsNumber(), gdjs.toDegrees(Math.atan2(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber())), 0, Math.sqrt(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber()) * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("BodyRadius").getAsNumber(), null);
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").setNumber(gdjs.evtsExt__Raycaster3D__NormalX.func(runtimeScene, null));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").setNumber(gdjs.evtsExt__Raycaster3D__NormalY.func(runtimeScene, null));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NL").setNumber(Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Epsilon").getAsNumber(), Math.sqrt(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").getAsNumber())));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").div(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NL").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").div(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NL").getAsNumber());
+}
+
+{ //Subevents
+gdjs.ApartmentCode.eventsList252(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Shelf"), gdjs.ApartmentCode.GDBathroom_9595ShelfObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Bathroom_Sink"), gdjs.ApartmentCode.GDBathroom_9595SinkObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Bedroom_Bed"), gdjs.ApartmentCode.GDBedroom_9595BedObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Toilet"), gdjs.ApartmentCode.GDHazard_9595ToiletObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Counter"), gdjs.ApartmentCode.GDKitchen_9595CounterObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Fridge"), gdjs.ApartmentCode.GDKitchen_9595FridgeObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_SinkCounter"), gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Kitchen_Stove"), gdjs.ApartmentCode.GDKitchen_9595StoveObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Living_Couch"), gdjs.ApartmentCode.GDLiving_9595CouchObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Living_PlaypenRail"), gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Living_ToyBox"), gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Prop_Lamp"), gdjs.ApartmentCode.GDProp_9595LampObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Prop_TV"), gdjs.ApartmentCode.GDProp_9595TVObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Prop_ToiletTank"), gdjs.ApartmentCode.GDProp_9595ToiletTankObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Floor"), gdjs.ApartmentCode.GDShell_9595FloorObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GDShell_9595FrontDoorObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Shell_Wall"), gdjs.ApartmentCode.GDShell_9595WallObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatHover" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (Math.abs(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber()) + Math.abs(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber()) > 0);
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtsExt__Raycaster3D__RaycastWithAngle.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects2Objects, (( gdjs.ApartmentCode.GDKidNavObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidNavObjects2[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDKidNavObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidNavObjects2[0].getCenterYInScene()), (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getCenterZInScene()), gdjs.toDegrees(Math.atan2(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber())), 0, Math.sqrt(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber()) * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("BodyRadius").getAsNumber(), null);
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").setNumber(gdjs.evtsExt__Raycaster3D__NormalX.func(runtimeScene, null));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").setNumber(gdjs.evtsExt__Raycaster3D__NormalY.func(runtimeScene, null));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NL").setNumber(Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Epsilon").getAsNumber(), Math.sqrt(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").getAsNumber())));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NX").div(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NL").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NY").div(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("NL").getAsNumber());
+}
+
+{ //Subevents
+gdjs.ApartmentCode.eventsList253(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatHover" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObjects2);
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidNavObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidNavObjects2[i].setCenterPositionInScene((gdjs.ApartmentCode.GDKidNavObjects2[i].getCenterXInScene()) + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VX").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene),(gdjs.ApartmentCode.GDKidNavObjects2[i].getCenterYInScene()) + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VY").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene));
+}
+}
+{runtimeScene.getScene().getVariables().getFromIndex(9).getChild("FloatZ").add(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Pitch").add(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinP").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene));
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Roll").add(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinR").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene));
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidNavObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidNavObjects2[i].setAngle(gdjs.ApartmentCode.GDKidNavObjects2[i].getAngle() + (runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinY").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)));
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatHover" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(9).getChild("FloatZ").getAsNumber() < 0);
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(9).getChild("FloatZ").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").setNumber(Math.abs(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").getAsNumber()) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Restitution").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinP").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinOnBounce").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Bounces").add(1);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatHover" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(9).getChild("FloatZ").getAsNumber() + (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) > runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("CeilingHeight").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("CeilingGap").getAsNumber());
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.ApartmentCode.GDKidObjects2 */
+{runtimeScene.getScene().getVariables().getFromIndex(9).getChild("FloatZ").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("CeilingHeight").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("CeilingGap").getAsNumber() - (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").setNumber(-(Math.abs(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").getAsNumber())) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("Restitution").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("SpinR").add(gdjs.randomFloatInRange(-1, 1) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpinOnBounce").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Bounces").add(1);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatHover" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+if (isConditionTrue_0) {
 /* Reuse gdjs.ApartmentCode.GDKidObjects2 */
 gdjs.copyArray(runtimeScene.getObjects("Kid_Antenna"), gdjs.ApartmentCode.GDKid_9595AntennaObjects2);
-{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").add((runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpringStiffness").getAsNumber() * (runtimeScene.getScene().getVariables().getFromIndex(22).getChild("FloatTarget").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("BobHeight").getAsNumber() * Math.sin((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("BobSpeed").getAsNumber()) - runtimeScene.getScene().getVariables().getFromIndex(9).getChild("FloatZ").getAsNumber()) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("SpringDamping").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").getAsNumber()) * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene));
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Object3D").setRotationX(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Roll").getAsNumber());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(9).getChild("FloatZ").setNumber(Math.max(0, runtimeScene.getScene().getVariables().getFromIndex(9).getChild("FloatZ").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(22).getChild("VZ").getAsNumber() * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)));
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Object3D").setRotationY(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Pitch").getAsNumber());
+}
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDKid_9595AntennaObjects2.length ;i < len;++i) {
     gdjs.ApartmentCode.GDKid_9595AntennaObjects2[i].hide(false);
@@ -61886,6 +64271,14 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
     gdjs.ApartmentCode.GDKidNavObjects2[i].getBehavior("NavMeshCharacter").setMaxSpeed(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Toddler").getChild("WalkSpeed").getAsNumber());
 }
 }
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PitchFrom").setNumber(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Pitch").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("RollFrom").setNumber(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Roll").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PitchTo").setNumber(Math.round(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Pitch").getAsNumber() / runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("FullTurnDegrees").getAsNumber()) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("FullTurnDegrees").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("RollTo").setNumber(Math.round(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Roll").getAsNumber() / runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("FullTurnDegrees").getAsNumber()) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Float").getChild("FullTurnDegrees").getAsNumber());
+}
 {runtimeScene.getScene().getVariables().getFromIndex(22).getChild("FreeFloat").setBoolean(false);
 }
 {runtimeScene.getScene().getVariables().getFromIndex(22).getChild("DriftItem").setString("");
@@ -61920,6 +64313,14 @@ gdjs.copyArray(runtimeScene.getObjects("Kid_Antenna"), gdjs.ApartmentCode.GDKid_
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDKid_9595AntennaObjects2.length ;i < len;++i) {
     gdjs.ApartmentCode.GDKid_9595AntennaObjects2[i].hide();
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Object3D").setRotationX(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("RollFrom").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(22).getChild("RollTo").getAsNumber(), Math.min(1, (gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").StateTime(null)) / Math.max((gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Object3D").setRotationY(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PitchFrom").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PitchTo").getAsNumber(), Math.min(1, (gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").StateTime(null)) / Math.max((gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 }
 }
@@ -61959,13 +64360,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList246(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList254(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList248 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList256 = function(runtimeScene) {
 
 {
 
@@ -62005,7 +64406,7 @@ if (isConditionTrue_0) {
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects2Objects = Hashtable.newFrom({"Marker_KidTarget": gdjs.ApartmentCode.GDMarker_9595KidTargetObjects2});
-gdjs.ApartmentCode.eventsList249 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList257 = function(runtimeScene) {
 
 {
 
@@ -62026,7 +64427,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList248(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList256(runtimeScene);} //End of subevents
 }
 
 }
@@ -62215,7 +64616,7 @@ if (isConditionTrue_0) {
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects2Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects2, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects2, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects2, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects2, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects2, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects2, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects2, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects2, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects2, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects2});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects3Objects = Hashtable.newFrom({"Toy_Ball": gdjs.ApartmentCode.GDToy_9595BallObjects3, "Toy_Blocks": gdjs.ApartmentCode.GDToy_9595BlocksObjects3, "Toy_Duck": gdjs.ApartmentCode.GDToy_9595DuckObjects3, "Toy_UFO": gdjs.ApartmentCode.GDToy_9595UFOObjects3, "Item_Knife": gdjs.ApartmentCode.GDItem_9595KnifeObjects3, "Item_Fork": gdjs.ApartmentCode.GDItem_9595ForkObjects3, "Item_Spoon": gdjs.ApartmentCode.GDItem_9595SpoonObjects3, "Hazard_Bleach_Kitchen": gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3, "Hazard_Bleach_Bathroom": gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects3, "Item_Cheese": gdjs.ApartmentCode.GDItem_9595CheeseObjects3, "Food_Apple": gdjs.ApartmentCode.GDFood_9595AppleObjects3, "Food_Tomato": gdjs.ApartmentCode.GDFood_9595TomatoObjects3});
-gdjs.ApartmentCode.eventsList250 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList258 = function(runtimeScene) {
 
 {
 
@@ -62741,7 +65142,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length ;i < le
 }
 
 
-};gdjs.ApartmentCode.eventsList251 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList259 = function(runtimeScene) {
 
 {
 
@@ -62858,12 +65259,12 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length;i
 gdjs.ApartmentCode.GDFood_9595TomatoObjects3.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.pickNearestObject(gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects3Objects, runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), false);
+isConditionTrue_0 = gdjs.evtTools.object.pickNearestObject(gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDToy_95959595BallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595BlocksObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595DuckObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDToy_95959595UFOObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595KnifeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595ForkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595SpoonObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595KitchenObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Bleach_95959595BathroomObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDItem_95959595CheeseObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595AppleObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDFood_95959595TomatoObjects3Objects, runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), false);
 }
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList250(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList258(runtimeScene);} //End of subevents
 }
 
 }
@@ -62881,7 +65282,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList252 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList260 = function(runtimeScene) {
 
 {
 
@@ -63959,77 +66360,77 @@ gdjs.copyArray(runtimeScene.getObjects("Tell_TKGlow"), gdjs.ApartmentCode.GDTell
 /* Reuse gdjs.ApartmentCode.GDToy_9595DuckObjects2 */
 /* Reuse gdjs.ApartmentCode.GDToy_9595UFOObjects2 */
 {for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BallObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDToy_9595BallObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BlocksObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDToy_9595BlocksObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595DuckObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDToy_9595DuckObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595UFOObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDToy_9595UFOObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595KnifeObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDItem_9595KnifeObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ForkObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDItem_9595ForkObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SpoonObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDItem_9595SpoonObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595CheeseObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDItem_9595CheeseObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595AppleObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDFood_9595AppleObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595TomatoObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDFood_9595TomatoObjects2[i].setCenterPositionInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKX").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HX").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))),gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKY").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HY").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BallObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BallObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDToy_9595BallObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595BlocksObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595BlocksObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDToy_9595BlocksObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595DuckObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595DuckObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDToy_9595DuckObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDToy_9595UFOObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDToy_9595UFOObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDToy_9595UFOObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595KnifeObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595KnifeObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDItem_9595KnifeObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595ForkObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595ForkObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDItem_9595ForkObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595SpoonObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595SpoonObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDItem_9595SpoonObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDItem_9595CheeseObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDItem_9595CheeseObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDItem_9595CheeseObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595AppleObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595AppleObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDFood_9595AppleObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 for(var i = 0, len = gdjs.ApartmentCode.GDFood_9595TomatoObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDFood_9595TomatoObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(40).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
+    gdjs.ApartmentCode.GDFood_9595TomatoObjects2[i].getBehavior("Object3D").setCenterZInScene(gdjs.evtTools.common.lerp(runtimeScene.getScene().getVariables().getFromIndex(22).getChild("TKZ").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("HZ").getAsNumber(), Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Powers").getChild("Telekinesis").getChild("LiftHeight").getAsNumber() * Math.sin(gdjs.evtTools.common.pi() * Math.min(1, (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateTime(null)) / Math.max((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").StateDuration(null)), gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene)))));
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDTell_9595TKGlowObjects2.length ;i < len;++i) {
@@ -64084,7 +66485,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList251(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList259(runtimeScene);} //End of subevents
 }
 
 }
@@ -64424,6 +66825,58 @@ if (isConditionTrue_0) {
 
 {
 
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( !(gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatHover") ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( !(gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "FloatDown") ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.ApartmentCode.GDKidObjects2 */
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Object3D").setRotationX(0);
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Object3D").setRotationY(0);
+}
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Pitch").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("Roll").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PitchFrom").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("RollFrom").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("PitchTo").setNumber(0);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(22).getChild("RollTo").setNumber(0);
+}
+}
+
+}
+
+
+{
+
 gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects1);
 
 let isConditionTrue_0 = false;
@@ -64489,7 +66942,7 @@ gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObj
 }
 
 
-};gdjs.ApartmentCode.eventsList253 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList261 = function(runtimeScene) {
 
 {
 
@@ -64593,7 +67046,381 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList254 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList262 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Playing");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("NightClock").getAsNumber() >= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("SleepyAt").getAsNumber());
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Sleepy").getAsBoolean();
+}
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Sleepy").setBoolean(true);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(15).getChild("Text").setString(runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Hints").getChild("Sleepy").getAsString());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(15).getChild("Time").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("HintSeconds").getAsNumber());
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Playing");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Sleepy").getAsBoolean();
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects1.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects1[i].getBehavior("Toddler").State(null) == "Idle" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects1[k] = gdjs.ApartmentCode.GDKidObjects1[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects1.length = k;
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(9).getChild("Says").setString(runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Kid").getChild("Sleepy").getAsString());
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList263 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "e");
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(5).getChild("Kind").getAsString() != "PickUpKid");
+}
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObjects2);
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Holdable").PlaceAt(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("BedX").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("BedY").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("BedTopZ").getAsNumber(), null);
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Interactable").SetEnabled(true, null);
+}
+}
+{runtimeScene.getScene().getVariables().getFromIndex(4).getChild("Has").setBoolean(false);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(4).getChild("ItemId").setString("");
+}
+{runtimeScene.getScene().getVariables().getFromIndex(4).getChild("Name").setString("");
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidNavObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidNavObjects2[i].setCenterPositionInScene(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("BedX").getAsNumber(),runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("BedY").getAsNumber());
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidNavObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidNavObjects2[i].activateBehavior("NavMeshCharacter", false);
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").SetStateTo("Asleep", runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Night").getChild("LengthSeconds").getAsNumber(), null);
+}
+}
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("InBed").setBoolean(true);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("PutIns").add(1);
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList264 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Playing");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Sleepy").getAsBoolean();
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(4).getChild("ItemId").getAsString() == "Kid");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (gdjs.evtTools.common.distanceBetweenPositions((( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDPlayerObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDPlayerObjects2[0].getCenterYInScene()), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("BedX").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("BedY").getAsNumber()) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("PutInDistance").getAsNumber());
+}
+}
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(2).getChild("Prompt").setString(runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Prompts").getChild("Bed").getAsString());
+}
+
+{ //Subevents
+gdjs.ApartmentCode.eventsList263(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects1.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects1[i].getBehavior("Toddler").State(null) == "Asleep" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects1[k] = gdjs.ApartmentCode.GDKidObjects1[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects1.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Bonus").getAsBoolean();
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Bonus").setBoolean(true);
+}
+{gdjs.evtsExt__AlienBabysitter__ApplyHappiness.func(runtimeScene, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("OnTimeBonus").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Reasons").getChild("Bedtime").getAsString(), null);
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList265 = function(runtimeScene) {
+
+{
+
+/* Reuse gdjs.ApartmentCode.GDKidObjects1 */
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects1.length;i<l;++i) {
+    if ( !(gdjs.ApartmentCode.GDKidObjects1[i].getBehavior("Holdable").Held(null)) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects1[k] = gdjs.ApartmentCode.GDKidObjects1[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects1.length = k;
+if (isConditionTrue_0) {
+/* Reuse gdjs.ApartmentCode.GDKidObjects1 */
+gdjs.copyArray(runtimeScene.getObjects("KidNav"), gdjs.ApartmentCode.GDKidNavObjects1);
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidNavObjects1.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidNavObjects1[i].setCenterPositionInScene(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("ExitX").getAsNumber(),runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("ExitY").getAsNumber());
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidNavObjects1.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidNavObjects1[i].activateBehavior("NavMeshCharacter", true);
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects1.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects1[i].getBehavior("Object3D").setZ(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("World").getChild("FloorZ").getAsNumber());
+}
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList266 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Playing");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects2.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Toddler").State(null) == "Asleep" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects2[k] = gdjs.ApartmentCode.GDKidObjects2[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects2.length = k;
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.ApartmentCode.GDKidObjects2 */
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].setCenterPositionInScene(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("BedX").getAsNumber(),runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("BedY").getAsNumber());
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].setAngle(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("FacingDegrees").getAsNumber());
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Object3D").setZ(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("BedTopZ").getAsNumber() - ((gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Object3D").getDepth()) - (gdjs.ApartmentCode.GDKidObjects2[i].getWidth())) / 2);
+}
+}
+{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDKidObjects2[i].getBehavior("Object3D").setRotationX(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("LieDegrees").getAsNumber());
+}
+}
+{runtimeScene.getScene().getVariables().getFromIndex(9).getChild("PickTarget").setBoolean(false);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(9).getChild("Says").setString(runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Kid").getChild("Asleep").getAsString());
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getScene().getVariables().getFromIndex(39).getChild("InBed").getAsBoolean();
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects1.length;i<l;++i) {
+    if ( !(gdjs.ApartmentCode.GDKidObjects1[i].getBehavior("Toddler").State(null) == "Asleep") ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects1[k] = gdjs.ApartmentCode.GDKidObjects1[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects1.length = k;
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("InBed").setBoolean(false);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Wakes").add(1);
+}
+
+{ //Subevents
+gdjs.ApartmentCode.eventsList265(runtimeScene);} //End of subevents
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList267 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects1.length;i<l;++i) {
+    if ( !(gdjs.ApartmentCode.GDKidObjects1[i].getBehavior("Toddler").State(null) == "Asleep") ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects1[k] = gdjs.ApartmentCode.GDKidObjects1[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects1.length = k;
+if (isConditionTrue_0) {
+{gdjs.evtsExt__AlienBabysitter__ApplyHappiness.func(runtimeScene, -(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("MissPenalty").getAsNumber()), runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Reasons").getChild("NoBedtime").getAsString(), null);
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList268 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Playing");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("NightClock").getAsNumber() >= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Bedtime").getChild("DeadlineSeconds").getAsNumber());
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Checked").getAsBoolean();
+}
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("Checked").setBoolean(true);
+}
+
+{ //Subevents
+gdjs.ApartmentCode.eventsList267(runtimeScene);} //End of subevents
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList269 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getGame().getVariables().getFromIndex(2).getChild("Subtitles").getAsBoolean();
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(9).getChild("Says").getAsString() != "");
+}
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("HUD_KidSays"), gdjs.ApartmentCode.GDHUD_9595KidSaysObjects1);
+{for(var i = 0, len = gdjs.ApartmentCode.GDHUD_9595KidSaysObjects1.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDHUD_9595KidSaysObjects1[i].setString(runtimeScene.getGame().getVariables().getFromIndex(1).getChild("Kid").getChild("Speaker").getAsString() + runtimeScene.getScene().getVariables().getFromIndex(9).getChild("Says").getAsString());
+}
+}
+}
+
+}
+
+
+};gdjs.ApartmentCode.eventsList270 = function(runtimeScene) {
 
 {
 
@@ -64625,7 +67452,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList255 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList271 = function(runtimeScene) {
 
 {
 
@@ -64639,7 +67466,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList256 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList272 = function(runtimeScene) {
 
 {
 
@@ -64786,7 +67613,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList254(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList270(runtimeScene);} //End of subevents
 }
 
 }
@@ -64876,7 +67703,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList255(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList271(runtimeScene);} //End of subevents
 }
 
 }
@@ -64922,7 +67749,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList257 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList273 = function(runtimeScene) {
 
 {
 
@@ -64941,7 +67768,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList258 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList274 = function(runtimeScene) {
 
 {
 
@@ -64962,7 +67789,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList259 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList275 = function(runtimeScene) {
 
 {
 
@@ -65030,7 +67857,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList257(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList273(runtimeScene);} //End of subevents
 }
 
 }
@@ -65053,7 +67880,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList258(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList274(runtimeScene);} //End of subevents
 }
 
 }
@@ -65074,7 +67901,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList260 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList276 = function(runtimeScene) {
 
 {
 
@@ -65175,7 +68002,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Vignette"), gdjs.ApartmentCode.GDHUD
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects3ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects3Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects3, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects3, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects3, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects3, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects3, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects3, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects3, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects3, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects3, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects3, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects3, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects3, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects3, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects3, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects3, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects3, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects3});
-gdjs.ApartmentCode.eventsList261 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList277 = function(runtimeScene) {
 
 {
 
@@ -65227,7 +68054,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList262 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList278 = function(runtimeScene) {
 
 {
 
@@ -65270,7 +68097,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList263 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList279 = function(runtimeScene) {
 
 {
 
@@ -65295,7 +68122,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList264 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList280 = function(runtimeScene) {
 
 {
 
@@ -65346,7 +68173,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList263(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList279(runtimeScene);} //End of subevents
 }
 
 }
@@ -65430,7 +68257,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList265 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList281 = function(runtimeScene) {
 
 {
 
@@ -65453,7 +68280,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList261(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList277(runtimeScene);} //End of subevents
 }
 
 }
@@ -65537,7 +68364,7 @@ if(isConditionTrue_1) {
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList262(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList278(runtimeScene);} //End of subevents
 }
 
 }
@@ -65557,14 +68384,14 @@ let isConditionTrue_0 = false;
 if (true) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList264(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList280(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList266 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList282 = function(runtimeScene) {
 
 {
 
@@ -65588,7 +68415,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Vignette"), gdjs.ApartmentCode.GDHUD
 }
 
 
-};gdjs.ApartmentCode.eventsList267 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList283 = function(runtimeScene) {
 
 {
 
@@ -65673,7 +68500,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Prompt"), gdjs.ApartmentCode.GDHUD_9
 }
 
 
-};gdjs.ApartmentCode.eventsList268 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList284 = function(runtimeScene) {
 
 {
 
@@ -65710,7 +68537,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(27733716);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(28495260);
 }
 }
 if (isConditionTrue_0) {
@@ -65726,7 +68553,7 @@ gdjs.copyArray(runtimeScene.getObjects("TextBox_Hint"), gdjs.ApartmentCode.GDTex
 }
 
 
-};gdjs.ApartmentCode.eventsList269 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList285 = function(runtimeScene) {
 
 {
 
@@ -65772,7 +68599,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Change"), gdjs.ApartmentCode.GDHUD_9
 }
 
 
-};gdjs.ApartmentCode.eventsList270 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList286 = function(runtimeScene) {
 
 {
 
@@ -65788,7 +68615,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList269(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList285(runtimeScene);} //End of subevents
 }
 
 }
@@ -65836,7 +68663,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Change"), gdjs.ApartmentCode.GDHUD_9
 }
 
 
-};gdjs.ApartmentCode.eventsList271 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList287 = function(runtimeScene) {
 
 {
 
@@ -65868,7 +68695,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList272 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList288 = function(runtimeScene) {
 
 {
 
@@ -65893,9 +68720,9 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Clock"), gdjs.ApartmentCode.GDHUD_95
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHUD_95959595MonitorRoomObjects3Objects = Hashtable.newFrom({"HUD_MonitorRoom": gdjs.ApartmentCode.GDHUD_9595MonitorRoomObjects3});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHUD_95959595MonitorRoomObjects3Objects = Hashtable.newFrom({"HUD_MonitorRoom": gdjs.ApartmentCode.GDHUD_9595MonitorRoomObjects3});
-gdjs.ApartmentCode.eventsList273 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList289 = function(runtimeScene) {
 
-};gdjs.ApartmentCode.eventsList274 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList290 = function(runtimeScene) {
 
 {
 
@@ -65925,7 +68752,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList275 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList291 = function(runtimeScene) {
 
 {
 
@@ -65963,14 +68790,14 @@ let isConditionTrue_0 = false;
 if (true) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList274(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList290(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList276 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList292 = function(runtimeScene) {
 
 {
 
@@ -66002,7 +68829,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList277 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList293 = function(runtimeScene) {
 
 {
 
@@ -66034,7 +68861,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList278 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList294 = function(runtimeScene) {
 
 {
 
@@ -66151,7 +68978,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList279 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList295 = function(runtimeScene) {
 
 {
 
@@ -66268,7 +69095,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList280 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList296 = function(runtimeScene) {
 
 {
 
@@ -66344,7 +69171,7 @@ let isConditionTrue_0 = false;
 }
 
 
-};gdjs.ApartmentCode.eventsList281 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList297 = function(runtimeScene) {
 
 {
 
@@ -66383,7 +69210,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Rings"), gdjs.ApartmentCode.GDHUD_95
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList278(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList294(runtimeScene);} //End of subevents
 }
 
 }
@@ -66426,7 +69253,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Rings"), gdjs.ApartmentCode.GDHUD_95
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList279(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList295(runtimeScene);} //End of subevents
 }
 
 }
@@ -66469,13 +69296,13 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Rings"), gdjs.ApartmentCode.GDHUD_95
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList280(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList296(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList282 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList298 = function(runtimeScene) {
 
 {
 
@@ -66507,7 +69334,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList276(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList292(runtimeScene);} //End of subevents
 }
 
 }
@@ -66525,7 +69352,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList277(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList293(runtimeScene);} //End of subevents
 }
 
 }
@@ -66566,14 +69393,14 @@ if (true) {
 }
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList281(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList297(runtimeScene);} //Subevents end.
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList283 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList299 = function(runtimeScene) {
 
 {
 
@@ -66637,7 +69464,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_SlotText"), gdjs.ApartmentCode.GDHUD
 }
 
 
-};gdjs.ApartmentCode.eventsList284 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList300 = function(runtimeScene) {
 
 {
 
@@ -66659,7 +69486,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Vignette"), gdjs.ApartmentCode.GDHUD
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects2Objects = Hashtable.newFrom({"Shell_Floor": gdjs.ApartmentCode.GDShell_9595FloorObjects2, "Shell_Wall": gdjs.ApartmentCode.GDShell_9595WallObjects2, "Shell_FrontDoor": gdjs.ApartmentCode.GDShell_9595FrontDoorObjects2, "Kitchen_SinkCounter": gdjs.ApartmentCode.GDKitchen_9595SinkCounterObjects2, "Kitchen_Counter": gdjs.ApartmentCode.GDKitchen_9595CounterObjects2, "Kitchen_Stove": gdjs.ApartmentCode.GDKitchen_9595StoveObjects2, "Kitchen_Fridge": gdjs.ApartmentCode.GDKitchen_9595FridgeObjects2, "Living_Couch": gdjs.ApartmentCode.GDLiving_9595CouchObjects2, "Prop_TV": gdjs.ApartmentCode.GDProp_9595TVObjects2, "Prop_Lamp": gdjs.ApartmentCode.GDProp_9595LampObjects2, "Living_ToyBox": gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects2, "Living_PlaypenRail": gdjs.ApartmentCode.GDLiving_9595PlaypenRailObjects2, "Hazard_Toilet": gdjs.ApartmentCode.GDHazard_9595ToiletObjects2, "Prop_ToiletTank": gdjs.ApartmentCode.GDProp_9595ToiletTankObjects2, "Bathroom_Sink": gdjs.ApartmentCode.GDBathroom_9595SinkObjects2, "Bathroom_Shelf": gdjs.ApartmentCode.GDBathroom_9595ShelfObjects2, "Bedroom_Bed": gdjs.ApartmentCode.GDBedroom_9595BedObjects2});
-gdjs.ApartmentCode.eventsList285 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList301 = function(runtimeScene) {
 
 {
 
@@ -66669,28 +69496,28 @@ isConditionTrue_0 = false;
 {let isConditionTrue_1 = false;
 isConditionTrue_0 = false;
 {
-{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("SX").getAsNumber() < 0);
+{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(42).getChild("SX").getAsNumber() < 0);
 }
 if(isConditionTrue_1) {
     isConditionTrue_0 = true;
 }
 }
 {
-{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("SX").getAsNumber() > gdjs.evtTools.camera.getCameraWidth(runtimeScene, "HUD", 0));
+{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(42).getChild("SX").getAsNumber() > gdjs.evtTools.camera.getCameraWidth(runtimeScene, "HUD", 0));
 }
 if(isConditionTrue_1) {
     isConditionTrue_0 = true;
 }
 }
 {
-{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("SY").getAsNumber() < 0);
+{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(42).getChild("SY").getAsNumber() < 0);
 }
 if(isConditionTrue_1) {
     isConditionTrue_0 = true;
 }
 }
 {
-{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("SY").getAsNumber() > gdjs.evtTools.camera.getCameraHeight(runtimeScene, "HUD", 0));
+{isConditionTrue_1 = (runtimeScene.getScene().getVariables().getFromIndex(42).getChild("SY").getAsNumber() > gdjs.evtTools.camera.getCameraHeight(runtimeScene, "HUD", 0));
 }
 if(isConditionTrue_1) {
     isConditionTrue_0 = true;
@@ -66700,7 +69527,7 @@ if(isConditionTrue_1) {
 }
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Show").setBoolean(false);
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Show").setBoolean(false);
 }
 }
 
@@ -66732,14 +69559,14 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtsExt__Raycaster3D__RaycastBetweenPosition.func(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDShell_95959595FloorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595WallObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDShell_95959595FrontDoorObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595SinkCounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595CounterObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595StoveObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDKitchen_95959595FridgeObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595CouchObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595TVObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595LampObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595ToyBoxObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDLiving_95959595PlaypenRailObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595ToiletObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDProp_95959595ToiletTankObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595SinkObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBathroom_95959595ShelfObjects2ObjectsGDgdjs_9546ApartmentCode_9546GDBedroom_95959595BedObjects2Objects, gdjs.evtTools.camera.getCameraX(runtimeScene, "", 0), gdjs.evtTools.camera.getCameraY(runtimeScene, "", 0), gdjs.scene3d.camera.getCameraZ(runtimeScene, "", 0), (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getCenterYInScene()), (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getZ()) + (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleLift").getAsNumber(), null);
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Show").setBoolean(false);
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Show").setBoolean(false);
 }
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList286 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList302 = function(runtimeScene) {
 
 {
 
@@ -66754,7 +69581,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleIcon"), gdjs.ApartmentCode.GDH
     gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects3[i].setAnimationName("Hungry");
 }
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Icon").setBoolean(true);
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Icon").setBoolean(true);
 }
 }
 
@@ -66774,7 +69601,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleIcon"), gdjs.ApartmentCode.GDH
     gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects3[i].setAnimationName("Thirsty");
 }
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Icon").setBoolean(true);
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Icon").setBoolean(true);
 }
 }
 
@@ -66794,7 +69621,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleIcon"), gdjs.ApartmentCode.GDH
     gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects3[i].setAnimationName("Bored");
 }
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Icon").setBoolean(true);
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Icon").setBoolean(true);
 }
 }
 
@@ -66806,7 +69633,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleIcon"), gdjs.ApartmentCode.GDH
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Icon").getAsBoolean();
+{isConditionTrue_0 = runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Icon").getAsBoolean();
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleIcon"), gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects3);
@@ -66816,9 +69643,9 @@ gdjs.copyArray(gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2, gdjs.ApartmentCo
     gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects3[i].hide(false);
 }
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").setNumber((( gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3[0].getWidth()) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleIconSize").getAsNumber() + 2 * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber());
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("W").setNumber((( gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3[0].getWidth()) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleIconSize").getAsNumber() + 2 * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("H").setNumber(Math.max((( gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3[0].getHeight()), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleIconSize").getAsNumber()) + 2 * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber());
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("H").setNumber(Math.max((( gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3[0].getHeight()), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleIconSize").getAsNumber()) + 2 * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber());
 }
 }
 
@@ -66830,7 +69657,7 @@ gdjs.copyArray(gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2, gdjs.ApartmentCo
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Icon").getAsBoolean();
+{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Icon").getAsBoolean();
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleIcon"), gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects3);
@@ -66840,9 +69667,9 @@ gdjs.copyArray(gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2, gdjs.ApartmentCo
     gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects3[i].hide();
 }
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").setNumber((( gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3[0].getWidth()) + 2 * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber());
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("W").setNumber((( gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3[0].getWidth()) + 2 * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("H").setNumber((( gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3[0].getHeight()) + 2 * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber());
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("H").setNumber((( gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3.length === 0 ) ? 0 :gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects3[0].getHeight()) + 2 * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber());
 }
 }
 
@@ -66858,9 +69685,9 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Bubble"), gdjs.ApartmentCode.GDHUD_9
 gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleIcon"), gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects2);
 gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleTail"), gdjs.ApartmentCode.GDHUD_9595BubbleTailObjects2);
 /* Reuse gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2 */
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Left").setNumber(gdjs.evtTools.common.clamp(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("SX").getAsNumber() - runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").getAsNumber() / 2, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleEdge").getAsNumber(), gdjs.evtTools.camera.getCameraWidth(runtimeScene, "HUD", 0) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleEdge").getAsNumber() - runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").getAsNumber()));
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Left").setNumber(gdjs.evtTools.common.clamp(runtimeScene.getScene().getVariables().getFromIndex(42).getChild("SX").getAsNumber() - runtimeScene.getScene().getVariables().getFromIndex(42).getChild("W").getAsNumber() / 2, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleEdge").getAsNumber(), gdjs.evtTools.camera.getCameraWidth(runtimeScene, "HUD", 0) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleEdge").getAsNumber() - runtimeScene.getScene().getVariables().getFromIndex(42).getChild("W").getAsNumber()));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Top").setNumber(gdjs.evtTools.common.clamp(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("SY").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailH").getAsNumber() - runtimeScene.getScene().getVariables().getFromIndex(41).getChild("H").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailOverlap").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleEdge").getAsNumber(), gdjs.evtTools.camera.getCameraHeight(runtimeScene, "HUD", 0) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleEdge").getAsNumber() - runtimeScene.getScene().getVariables().getFromIndex(41).getChild("H").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailH").getAsNumber()));
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Top").setNumber(gdjs.evtTools.common.clamp(runtimeScene.getScene().getVariables().getFromIndex(42).getChild("SY").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailH").getAsNumber() - runtimeScene.getScene().getVariables().getFromIndex(42).getChild("H").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailOverlap").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleEdge").getAsNumber(), gdjs.evtTools.camera.getCameraHeight(runtimeScene, "HUD", 0) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleEdge").getAsNumber() - runtimeScene.getScene().getVariables().getFromIndex(42).getChild("H").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailH").getAsNumber()));
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDHUD_9595BubbleObjects2.length ;i < len;++i) {
     gdjs.ApartmentCode.GDHUD_9595BubbleObjects2[i].hide(false);
@@ -66875,27 +69702,27 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleTail"), gdjs.ApartmentCode.GDH
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDHUD_9595BubbleObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHUD_9595BubbleObjects2[i].setWidth(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").getAsNumber());
+    gdjs.ApartmentCode.GDHUD_9595BubbleObjects2[i].setWidth(runtimeScene.getScene().getVariables().getFromIndex(42).getChild("W").getAsNumber());
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDHUD_9595BubbleObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHUD_9595BubbleObjects2[i].setHeight(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("H").getAsNumber());
+    gdjs.ApartmentCode.GDHUD_9595BubbleObjects2[i].setHeight(runtimeScene.getScene().getVariables().getFromIndex(42).getChild("H").getAsNumber());
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDHUD_9595BubbleObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHUD_9595BubbleObjects2[i].setPosition(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Left").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Top").getAsNumber());
+    gdjs.ApartmentCode.GDHUD_9595BubbleObjects2[i].setPosition(runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Left").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Top").getAsNumber());
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDHUD_9595BubbleTailObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHUD_9595BubbleTailObjects2[i].setPosition(gdjs.evtTools.common.clamp(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("SX").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailW").getAsNumber() / 2, runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Left").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Left").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailW").getAsNumber()),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Top").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(41).getChild("H").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailOverlap").getAsNumber());
+    gdjs.ApartmentCode.GDHUD_9595BubbleTailObjects2[i].setPosition(gdjs.evtTools.common.clamp(runtimeScene.getScene().getVariables().getFromIndex(42).getChild("SX").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailW").getAsNumber() / 2, runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Left").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Left").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(42).getChild("W").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailW").getAsNumber()),runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Top").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(42).getChild("H").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleTailOverlap").getAsNumber());
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects2[i].setPosition(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Left").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Top").getAsNumber() + (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("H").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleIconSize").getAsNumber()) / 2);
+    gdjs.ApartmentCode.GDHUD_9595BubbleIconObjects2[i].setPosition(runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Left").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber(),runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Top").getAsNumber() + (runtimeScene.getScene().getVariables().getFromIndex(42).getChild("H").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleIconSize").getAsNumber()) / 2);
 }
 }
 {for(var i = 0, len = gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2[i].setPosition(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Left").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(41).getChild("W").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber() - (gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2[i].getWidth()),runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Top").getAsNumber() + (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("H").getAsNumber() - (gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2[i].getHeight())) / 2);
+    gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2[i].setPosition(runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Left").getAsNumber() + runtimeScene.getScene().getVariables().getFromIndex(42).getChild("W").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubblePad").getAsNumber() - (gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2[i].getWidth()),runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Top").getAsNumber() + (runtimeScene.getScene().getVariables().getFromIndex(42).getChild("H").getAsNumber() - (gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2[i].getHeight())) / 2);
 }
 }
 }
@@ -66903,7 +69730,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleTail"), gdjs.ApartmentCode.GDH
 }
 
 
-};gdjs.ApartmentCode.eventsList287 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList303 = function(runtimeScene) {
 
 {
 
@@ -66911,17 +69738,17 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleTail"), gdjs.ApartmentCode.GDH
 let isConditionTrue_0 = false;
 {
 gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DX").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getCenterXInScene()) - gdjs.evtTools.camera.getCameraX(runtimeScene, "", 0));
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DX").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getCenterXInScene()) - gdjs.evtTools.camera.getCameraX(runtimeScene, "", 0));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DY").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getCenterYInScene()) - gdjs.evtTools.camera.getCameraY(runtimeScene, "", 0));
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DY").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getCenterYInScene()) - gdjs.evtTools.camera.getCameraY(runtimeScene, "", 0));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DZ").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getZ()) + (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleLift").getAsNumber() - gdjs.scene3d.camera.getCameraZ(runtimeScene, "", 0));
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DZ").setNumber((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getZ()) + (( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Object3D").getDepth()) + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleLift").getAsNumber() - gdjs.scene3d.camera.getCameraZ(runtimeScene, "", 0));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fwd").setNumber(runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DX").getAsNumber() * gdjs.scene3d.camera.getCameraForwardX(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DY").getAsNumber() * gdjs.scene3d.camera.getCameraForwardY(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DZ").getAsNumber() * gdjs.scene3d.camera.getCameraForwardZ(runtimeScene, "", 0));
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Fwd").setNumber(runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DX").getAsNumber() * gdjs.scene3d.camera.getCameraForwardX(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DY").getAsNumber() * gdjs.scene3d.camera.getCameraForwardY(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DZ").getAsNumber() * gdjs.scene3d.camera.getCameraForwardZ(runtimeScene, "", 0));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").setNumber(gdjs.evtTools.camera.getCameraHeight(runtimeScene, "HUD", 0) / 2 / Math.tan(gdjs.toRad(gdjs.scene3d.camera.getFov(runtimeScene, "", 0) / 2)));
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("F").setNumber(gdjs.evtTools.camera.getCameraHeight(runtimeScene, "HUD", 0) / 2 / Math.tan(gdjs.toRad(gdjs.scene3d.camera.getFov(runtimeScene, "", 0) / 2)));
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Show").setBoolean(false);
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Show").setBoolean(false);
 }
 }
 
@@ -66942,7 +69769,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fwd").getAsNumber() > runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleMinDepth").getAsNumber());
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Fwd").getAsNumber() > runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("BubbleMinDepth").getAsNumber());
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
@@ -66958,15 +69785,15 @@ gdjs.ApartmentCode.GDKidObjects2.length = k;
 }
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("SX").setNumber(gdjs.evtTools.camera.getCameraWidth(runtimeScene, "HUD", 0) / 2 + (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DX").getAsNumber() * gdjs.scene3d.camera.getCameraRightX(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DY").getAsNumber() * gdjs.scene3d.camera.getCameraRightY(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DZ").getAsNumber() * gdjs.scene3d.camera.getCameraRightZ(runtimeScene, "", 0)) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fwd").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").getAsNumber());
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("SX").setNumber(gdjs.evtTools.camera.getCameraWidth(runtimeScene, "HUD", 0) / 2 + (runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DX").getAsNumber() * gdjs.scene3d.camera.getCameraRightX(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DY").getAsNumber() * gdjs.scene3d.camera.getCameraRightY(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DZ").getAsNumber() * gdjs.scene3d.camera.getCameraRightZ(runtimeScene, "", 0)) / runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Fwd").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(42).getChild("F").getAsNumber());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("SY").setNumber(gdjs.evtTools.camera.getCameraHeight(runtimeScene, "HUD", 0) / 2 - (runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DX").getAsNumber() * gdjs.scene3d.camera.getCameraUpX(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DY").getAsNumber() * gdjs.scene3d.camera.getCameraUpY(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(41).getChild("DZ").getAsNumber() * gdjs.scene3d.camera.getCameraUpZ(runtimeScene, "", 0)) / runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Fwd").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(41).getChild("F").getAsNumber());
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("SY").setNumber(gdjs.evtTools.camera.getCameraHeight(runtimeScene, "HUD", 0) / 2 - (runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DX").getAsNumber() * gdjs.scene3d.camera.getCameraUpX(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DY").getAsNumber() * gdjs.scene3d.camera.getCameraUpY(runtimeScene, "", 0) + runtimeScene.getScene().getVariables().getFromIndex(42).getChild("DZ").getAsNumber() * gdjs.scene3d.camera.getCameraUpZ(runtimeScene, "", 0)) / runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Fwd").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(42).getChild("F").getAsNumber());
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Show").setBoolean(true);
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Show").setBoolean(true);
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList285(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList301(runtimeScene);} //End of subevents
 }
 
 }
@@ -66977,7 +69804,7 @@ gdjs.ApartmentCode.eventsList285(runtimeScene);} //End of subevents
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Show").getAsBoolean();
+{isConditionTrue_0 = runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Show").getAsBoolean();
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleText"), gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2);
@@ -66985,11 +69812,11 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_BubbleText"), gdjs.ApartmentCode.GDH
     gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2[i].setString(runtimeScene.getScene().getVariables().getFromIndex(9).getChild("Says").getAsString());
 }
 }
-{runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Icon").setBoolean(false);
+{runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Icon").setBoolean(false);
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList286(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList302(runtimeScene);} //End of subevents
 }
 
 }
@@ -67000,7 +69827,7 @@ gdjs.ApartmentCode.eventsList286(runtimeScene);} //End of subevents
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Show").getAsBoolean();
+{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Show").getAsBoolean();
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("HUD_Bubble"), gdjs.ApartmentCode.GDHUD_9595BubbleObjects2);
@@ -67030,7 +69857,7 @@ for(var i = 0, len = gdjs.ApartmentCode.GDHUD_9595BubbleTextObjects2.length ;i <
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(41).getChild("Show").getAsBoolean();
+{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(42).getChild("Show").getAsBoolean();
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("HUD_KidSays"), gdjs.ApartmentCode.GDHUD_9595KidSaysObjects1);
@@ -67043,7 +69870,7 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_KidSays"), gdjs.ApartmentCode.GDHUD_
 }
 
 
-};gdjs.ApartmentCode.eventsList288 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList304 = function(runtimeScene) {
 
 {
 
@@ -67105,7 +69932,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList289 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList305 = function(runtimeScene) {
 
 {
 
@@ -67167,7 +69994,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList290 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList306 = function(runtimeScene) {
 
 {
 
@@ -67192,7 +70019,7 @@ gdjs.ApartmentCode.GDMarker_9595CamObjects4.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList289(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList305(runtimeScene);} //Subevents end.
 }
 }
 
@@ -67228,7 +70055,7 @@ gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GD
 }
 
 
-};gdjs.ApartmentCode.eventsList291 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList307 = function(runtimeScene) {
 
 {
 
@@ -67247,7 +70074,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList292 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList308 = function(runtimeScene) {
 
 {
 
@@ -67302,7 +70129,7 @@ gdjs.copyArray(runtimeScene.getObjects("TextBox_SkipHint"), gdjs.ApartmentCode.G
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList290(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList306(runtimeScene);} //End of subevents
 }
 
 }
@@ -67350,13 +70177,13 @@ gdjs.copyArray(runtimeScene.getObjects("TextBox_Text"), gdjs.ApartmentCode.GDTex
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList291(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList307(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList293 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList309 = function(runtimeScene) {
 
 {
 
@@ -67418,7 +70245,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList294 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList310 = function(runtimeScene) {
 
 {
 
@@ -67443,7 +70270,7 @@ gdjs.ApartmentCode.GDMarker_9595CamObjects4.length = k;
 if (isConditionTrue_0) {
 
 { //Subevents: 
-gdjs.ApartmentCode.eventsList293(runtimeScene);} //Subevents end.
+gdjs.ApartmentCode.eventsList309(runtimeScene);} //Subevents end.
 }
 }
 
@@ -67474,7 +70301,7 @@ gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2)
 }
 
 
-};gdjs.ApartmentCode.eventsList295 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList311 = function(runtimeScene) {
 
 {
 
@@ -67493,7 +70320,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList296 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList312 = function(runtimeScene) {
 
 {
 
@@ -67548,7 +70375,7 @@ gdjs.copyArray(runtimeScene.getObjects("TextBox_SkipHint"), gdjs.ApartmentCode.G
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList294(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList310(runtimeScene);} //End of subevents
 }
 
 }
@@ -67596,13 +70423,13 @@ gdjs.copyArray(runtimeScene.getObjects("TextBox_Text"), gdjs.ApartmentCode.GDTex
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList295(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList311(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList297 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList313 = function(runtimeScene) {
 
 {
 
@@ -67846,7 +70673,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList298 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList314 = function(runtimeScene) {
 
 {
 
@@ -67941,7 +70768,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList299 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList315 = function(runtimeScene) {
 
 {
 
@@ -68069,7 +70896,7 @@ gdjs.copyArray(runtimeScene.getObjects("TextBox_Hint"), gdjs.ApartmentCode.GDTex
 
 
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDPlayerEyesObjects2Objects = Hashtable.newFrom({"PlayerEyes": gdjs.ApartmentCode.GDPlayerEyesObjects2});
-gdjs.ApartmentCode.eventsList300 = function(runtimeScene) {
+gdjs.ApartmentCode.eventsList316 = function(runtimeScene) {
 
 {
 
@@ -68181,7 +71008,7 @@ gdjs.copyArray(runtimeScene.getObjects("Shell_FrontDoor"), gdjs.ApartmentCode.GD
 }
 
 
-};gdjs.ApartmentCode.eventsList301 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList317 = function(runtimeScene) {
 
 {
 
@@ -68210,7 +71037,7 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ApartmentCode.GDPlayerObj
 }
 
 
-};gdjs.ApartmentCode.eventsList302 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList318 = function(runtimeScene) {
 
 {
 
@@ -68264,13 +71091,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList301(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList317(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList303 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList319 = function(runtimeScene) {
 
 {
 
@@ -68563,14 +71390,14 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList304 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList320 = function(runtimeScene) {
 
 {
 
 
 let isConditionTrue_0 = false;
 {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Idle");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Idle");
 }
 }
 
@@ -68586,7 +71413,7 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "Wander");
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Walk");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Walk");
 }
 }
 
@@ -68602,7 +71429,7 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "Play");
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Happy");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Happy");
 }
 }
 
@@ -68648,7 +71475,7 @@ gdjs.copyArray(gdjs.ApartmentCode.GDKidObjects2_1final, gdjs.ApartmentCode.GDKid
 }
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Upset");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Upset");
 }
 }
 
@@ -68664,7 +71491,7 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "Opening");
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Reach");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Reach");
 }
 }
 
@@ -68680,7 +71507,7 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "Cry");
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Cry");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Cry");
 }
 }
 
@@ -68696,7 +71523,7 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "Held");
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Held");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Held");
 }
 }
 
@@ -68712,7 +71539,7 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "Playpen");
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Sit");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Sit");
 }
 }
 
@@ -68782,7 +71609,7 @@ gdjs.copyArray(gdjs.ApartmentCode.GDKidObjects2_1final, gdjs.ApartmentCode.GDKid
 }
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Psychic");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Psychic");
 }
 }
 
@@ -68840,7 +71667,7 @@ gdjs.copyArray(gdjs.ApartmentCode.GDKidObjects2_1final, gdjs.ApartmentCode.GDKid
 }
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Float");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Float");
 }
 }
 
@@ -68856,28 +71683,7 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "HazardWindup");
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Reach");
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-{isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "HazardWindup");
-}
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Source").getAsString() == "Toilet");
-}
-}
-if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Walk");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Reach");
 }
 }
 
@@ -68896,14 +71702,35 @@ if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Source").getAsString() == "Toilet");
 }
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Walk");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "HazardWindup");
+}
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Time").getAsNumber() >= runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Duration").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Hazards").getChild("Toilet").getChild("ClipSeconds").getAsNumber());
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Source").getAsString() == "Toilet");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Time").getAsNumber() >= runtimeScene.getScene().getVariables().getFromIndex(0).getChild("Duration").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Hazards").getChild("Toilet").getChild("ClimbClipSeconds").getAsNumber());
 }
 }
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("ToiletClimb");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("ToiletClimb");
 }
 }
 
@@ -68929,7 +71756,7 @@ isConditionTrue_0 = false;
 }
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("OvenCrawl");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("OvenCrawl");
 }
 }
 
@@ -68955,7 +71782,7 @@ isConditionTrue_0 = false;
 }
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Sit");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Sit");
 }
 }
 
@@ -68971,7 +71798,23 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "Dead");
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").setString("Faint");
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Faint");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = ((( gdjs.ApartmentCode.GDKidObjects2.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects2[0].getBehavior("Toddler").State(null)) == "Asleep");
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").setString("Still");
 }
 }
 
@@ -68985,7 +71828,7 @@ let isConditionTrue_0 = false;
 {
 gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects1);
 {for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects1.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDKidObjects1[i].setAnimationName(runtimeScene.getScene().getVariables().getFromIndex(39).getChild("KidAnim").getAsString());
+    gdjs.ApartmentCode.GDKidObjects1[i].setAnimationName(runtimeScene.getScene().getVariables().getFromIndex(40).getChild("KidAnim").getAsString());
 }
 }
 }
@@ -68993,7 +71836,7 @@ gdjs.copyArray(runtimeScene.getObjects("Kid"), gdjs.ApartmentCode.GDKidObjects1)
 }
 
 
-};gdjs.ApartmentCode.eventsList305 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList321 = function(runtimeScene) {
 
 {
 
@@ -69011,7 +71854,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDGag_9595SickObjects2.length;i<l;
 gdjs.ApartmentCode.GDGag_9595SickObjects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(28229132);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(29001820);
 }
 }
 if (isConditionTrue_0) {
@@ -69050,7 +71893,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList306 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList322 = function(runtimeScene) {
 
 {
 
@@ -69130,7 +71973,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList307 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList323 = function(runtimeScene) {
 
 {
 
@@ -69141,19 +71984,19 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(28231180);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(29003868);
 }
 }
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.ApartmentCode.eventsList306(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList322(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList308 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList324 = function(runtimeScene) {
 
 {
 
@@ -69250,7 +72093,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList309 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList325 = function(runtimeScene) {
 
 {
 
@@ -69269,7 +72112,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList310 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList326 = function(runtimeScene) {
 
 {
 
@@ -69288,7 +72131,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList311 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList327 = function(runtimeScene) {
 
 {
 
@@ -69307,7 +72150,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList309(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList325(runtimeScene);} //End of subevents
 }
 
 }
@@ -69330,15 +72173,15 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList310(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList326(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList312 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList328 = function(runtimeScene) {
 
-};gdjs.ApartmentCode.eventsList313 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList329 = function(runtimeScene) {
 
 {
 
@@ -69440,7 +72283,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList314 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList330 = function(runtimeScene) {
 
 {
 
@@ -69503,13 +72346,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList313(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList329(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList315 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList331 = function(runtimeScene) {
 
 {
 
@@ -69540,7 +72383,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList314(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList330(runtimeScene);} //End of subevents
 }
 
 }
@@ -69561,7 +72404,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList316 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList332 = function(runtimeScene) {
 
 {
 
@@ -69790,7 +72633,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList317 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList333 = function(runtimeScene) {
 
 {
 
@@ -69809,7 +72652,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList318 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList334 = function(runtimeScene) {
 
 {
 
@@ -69828,7 +72671,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList319 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList335 = function(runtimeScene) {
 
 {
 
@@ -69842,7 +72685,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList317(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList333(runtimeScene);} //End of subevents
 }
 
 }
@@ -69860,13 +72703,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList318(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList334(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList320 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList336 = function(runtimeScene) {
 
 {
 
@@ -69885,7 +72728,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList321 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList337 = function(runtimeScene) {
 
 {
 
@@ -69904,7 +72747,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList322 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList338 = function(runtimeScene) {
 
 {
 
@@ -69918,7 +72761,7 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList320(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList336(runtimeScene);} //End of subevents
 }
 
 }
@@ -69936,29 +72779,29 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList321(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList337(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList323 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList339 = function(runtimeScene) {
 
 {
 
 
-gdjs.ApartmentCode.eventsList319(runtimeScene);
+gdjs.ApartmentCode.eventsList335(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList322(runtimeScene);
+gdjs.ApartmentCode.eventsList338(runtimeScene);
 }
 
 
-};gdjs.ApartmentCode.eventsList324 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList340 = function(runtimeScene) {
 
 {
 
@@ -70100,7 +72943,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList325 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList341 = function(runtimeScene) {
 
 {
 
@@ -70138,7 +72981,7 @@ gdjs.copyArray(runtimeScene.getObjects("Debug_Windups"), gdjs.ApartmentCode.GDDe
 }
 
 
-};gdjs.ApartmentCode.eventsList326 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList342 = function(runtimeScene) {
 
 {
 
@@ -70165,7 +73008,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(28295716);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(29068404);
 }
 }
 if (isConditionTrue_0) {
@@ -70185,7 +73028,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(28297524);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(29070212);
 }
 }
 if (isConditionTrue_0) {
@@ -70196,7 +73039,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList327 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList343 = function(runtimeScene) {
 
 {
 
@@ -70264,7 +73107,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.ApartmentCode.eventsList328 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList344 = function(runtimeScene) {
 
 {
 
@@ -70389,13 +73232,13 @@ if (isConditionTrue_0) {
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList327(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList343(runtimeScene);} //End of subevents
 }
 
 }
 
 
-};gdjs.ApartmentCode.eventsList329 = function(runtimeScene) {
+};gdjs.ApartmentCode.eventsList345 = function(runtimeScene) {
 
 {
 
@@ -70498,28 +73341,28 @@ gdjs.ApartmentCode.eventsList16(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList18(runtimeScene);
+gdjs.ApartmentCode.eventsList17(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList20(runtimeScene);
+gdjs.ApartmentCode.eventsList19(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList25(runtimeScene);
+gdjs.ApartmentCode.eventsList21(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList35(runtimeScene);
+gdjs.ApartmentCode.eventsList26(runtimeScene);
 }
 
 
@@ -70527,6 +73370,13 @@ gdjs.ApartmentCode.eventsList35(runtimeScene);
 
 
 gdjs.ApartmentCode.eventsList36(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList37(runtimeScene);
 }
 
 
@@ -70547,13 +73397,6 @@ let isConditionTrue_0 = false;
 {
 
 
-gdjs.ApartmentCode.eventsList38(runtimeScene);
-}
-
-
-{
-
-
 gdjs.ApartmentCode.eventsList39(runtimeScene);
 }
 
@@ -70568,7 +73411,7 @@ gdjs.ApartmentCode.eventsList40(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList58(runtimeScene);
+gdjs.ApartmentCode.eventsList41(runtimeScene);
 }
 
 
@@ -70589,7 +73432,7 @@ gdjs.ApartmentCode.eventsList60(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList66(runtimeScene);
+gdjs.ApartmentCode.eventsList61(runtimeScene);
 }
 
 
@@ -70603,21 +73446,21 @@ gdjs.ApartmentCode.eventsList67(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList69(runtimeScene);
+gdjs.ApartmentCode.eventsList68(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList74(runtimeScene);
+gdjs.ApartmentCode.eventsList70(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList84(runtimeScene);
+gdjs.ApartmentCode.eventsList75(runtimeScene);
 }
 
 
@@ -70625,6 +73468,13 @@ gdjs.ApartmentCode.eventsList84(runtimeScene);
 
 
 gdjs.ApartmentCode.eventsList85(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList86(runtimeScene);
 }
 
 
@@ -70645,21 +73495,14 @@ let isConditionTrue_0 = false;
 {
 
 
-gdjs.ApartmentCode.eventsList87(runtimeScene);
+gdjs.ApartmentCode.eventsList88(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList91(runtimeScene);
-}
-
-
-{
-
-
-gdjs.ApartmentCode.eventsList93(runtimeScene);
+gdjs.ApartmentCode.eventsList92(runtimeScene);
 }
 
 
@@ -70673,7 +73516,7 @@ gdjs.ApartmentCode.eventsList94(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList96(runtimeScene);
+gdjs.ApartmentCode.eventsList95(runtimeScene);
 }
 
 
@@ -70694,42 +73537,35 @@ gdjs.ApartmentCode.eventsList98(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList101(runtimeScene);
+gdjs.ApartmentCode.eventsList99(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList107(runtimeScene);
+gdjs.ApartmentCode.eventsList102(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList109(runtimeScene);
+gdjs.ApartmentCode.eventsList108(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList110(runtimeScene);
+gdjs.ApartmentCode.eventsList111(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList113(runtimeScene);
-}
-
-
-{
-
-
-gdjs.ApartmentCode.eventsList114(runtimeScene);
+gdjs.ApartmentCode.eventsList112(runtimeScene);
 }
 
 
@@ -70750,6 +73586,13 @@ gdjs.ApartmentCode.eventsList116(runtimeScene);
 {
 
 
+gdjs.ApartmentCode.eventsList117(runtimeScene);
+}
+
+
+{
+
+
 gdjs.ApartmentCode.eventsList118(runtimeScene);
 }
 
@@ -70757,21 +73600,21 @@ gdjs.ApartmentCode.eventsList118(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList122(runtimeScene);
+gdjs.ApartmentCode.eventsList120(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList129(runtimeScene);
+gdjs.ApartmentCode.eventsList124(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList135(runtimeScene);
+gdjs.ApartmentCode.eventsList131(runtimeScene);
 }
 
 
@@ -70799,7 +73642,7 @@ gdjs.ApartmentCode.eventsList141(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList147(runtimeScene);
+gdjs.ApartmentCode.eventsList143(runtimeScene);
 }
 
 
@@ -70820,7 +73663,7 @@ gdjs.ApartmentCode.eventsList151(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList152(runtimeScene);
+gdjs.ApartmentCode.eventsList153(runtimeScene);
 }
 
 
@@ -70834,13 +73677,6 @@ gdjs.ApartmentCode.eventsList154(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList155(runtimeScene);
-}
-
-
-{
-
-
 gdjs.ApartmentCode.eventsList156(runtimeScene);
 }
 
@@ -70848,21 +73684,28 @@ gdjs.ApartmentCode.eventsList156(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList159(runtimeScene);
+gdjs.ApartmentCode.eventsList157(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList166(runtimeScene);
+gdjs.ApartmentCode.eventsList158(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList169(runtimeScene);
+gdjs.ApartmentCode.eventsList161(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList168(runtimeScene);
 }
 
 
@@ -70876,28 +73719,28 @@ gdjs.ApartmentCode.eventsList171(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList176(runtimeScene);
+gdjs.ApartmentCode.eventsList173(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList183(runtimeScene);
+gdjs.ApartmentCode.eventsList178(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList186(runtimeScene);
+gdjs.ApartmentCode.eventsList185(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList195(runtimeScene);
+gdjs.ApartmentCode.eventsList188(runtimeScene);
 }
 
 
@@ -70911,35 +73754,35 @@ gdjs.ApartmentCode.eventsList197(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList198(runtimeScene);
+gdjs.ApartmentCode.eventsList199(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList203(runtimeScene);
+gdjs.ApartmentCode.eventsList200(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList207(runtimeScene);
+gdjs.ApartmentCode.eventsList205(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList211(runtimeScene);
+gdjs.ApartmentCode.eventsList209(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList214(runtimeScene);
+gdjs.ApartmentCode.eventsList213(runtimeScene);
 }
 
 
@@ -70953,14 +73796,7 @@ gdjs.ApartmentCode.eventsList217(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList219(runtimeScene);
-}
-
-
-{
-
-
-gdjs.ApartmentCode.eventsList222(runtimeScene);
+gdjs.ApartmentCode.eventsList220(runtimeScene);
 }
 
 
@@ -70974,35 +73810,28 @@ gdjs.ApartmentCode.eventsList223(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList227(runtimeScene);
+gdjs.ApartmentCode.eventsList225(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList231(runtimeScene);
+gdjs.ApartmentCode.eventsList228(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList232(runtimeScene);
+gdjs.ApartmentCode.eventsList229(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList235(runtimeScene);
-}
-
-
-{
-
-
-gdjs.ApartmentCode.eventsList236(runtimeScene);
+gdjs.ApartmentCode.eventsList233(runtimeScene);
 }
 
 
@@ -71023,6 +73852,13 @@ gdjs.ApartmentCode.eventsList238(runtimeScene);
 {
 
 
+gdjs.ApartmentCode.eventsList241(runtimeScene);
+}
+
+
+{
+
+
 gdjs.ApartmentCode.eventsList242(runtimeScene);
 }
 
@@ -71030,42 +73866,35 @@ gdjs.ApartmentCode.eventsList242(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList247(runtimeScene);
+gdjs.ApartmentCode.eventsList243(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList249(runtimeScene);
+gdjs.ApartmentCode.eventsList244(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList252(runtimeScene);
+gdjs.ApartmentCode.eventsList248(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList253(runtimeScene);
+gdjs.ApartmentCode.eventsList255(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList256(runtimeScene);
-}
-
-
-{
-
-
-gdjs.ApartmentCode.eventsList259(runtimeScene);
+gdjs.ApartmentCode.eventsList257(runtimeScene);
 }
 
 
@@ -71079,7 +73908,21 @@ gdjs.ApartmentCode.eventsList260(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList265(runtimeScene);
+gdjs.ApartmentCode.eventsList261(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList262(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList264(runtimeScene);
 }
 
 
@@ -71093,13 +73936,6 @@ gdjs.ApartmentCode.eventsList266(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList267(runtimeScene);
-}
-
-
-{
-
-
 gdjs.ApartmentCode.eventsList268(runtimeScene);
 }
 
@@ -71107,14 +73943,7 @@ gdjs.ApartmentCode.eventsList268(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList270(runtimeScene);
-}
-
-
-{
-
-
-gdjs.ApartmentCode.eventsList271(runtimeScene);
+gdjs.ApartmentCode.eventsList269(runtimeScene);
 }
 
 
@@ -71129,6 +73958,20 @@ gdjs.ApartmentCode.eventsList272(runtimeScene);
 
 
 gdjs.ApartmentCode.eventsList275(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList276(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList281(runtimeScene);
 }
 
 
@@ -71156,6 +73999,13 @@ gdjs.ApartmentCode.eventsList284(runtimeScene);
 {
 
 
+gdjs.ApartmentCode.eventsList286(runtimeScene);
+}
+
+
+{
+
+
 gdjs.ApartmentCode.eventsList287(runtimeScene);
 }
 
@@ -71170,21 +74020,7 @@ gdjs.ApartmentCode.eventsList288(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList292(runtimeScene);
-}
-
-
-{
-
-
-gdjs.ApartmentCode.eventsList296(runtimeScene);
-}
-
-
-{
-
-
-gdjs.ApartmentCode.eventsList297(runtimeScene);
+gdjs.ApartmentCode.eventsList291(runtimeScene);
 }
 
 
@@ -71212,13 +74048,6 @@ gdjs.ApartmentCode.eventsList300(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList302(runtimeScene);
-}
-
-
-{
-
-
 gdjs.ApartmentCode.eventsList303(runtimeScene);
 }
 
@@ -71233,20 +74062,6 @@ gdjs.ApartmentCode.eventsList304(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList305(runtimeScene);
-}
-
-
-{
-
-
-gdjs.ApartmentCode.eventsList307(runtimeScene);
-}
-
-
-{
-
-
 gdjs.ApartmentCode.eventsList308(runtimeScene);
 }
 
@@ -71254,14 +74069,21 @@ gdjs.ApartmentCode.eventsList308(runtimeScene);
 {
 
 
-gdjs.ApartmentCode.eventsList311(runtimeScene);
+gdjs.ApartmentCode.eventsList312(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList312(runtimeScene);
+gdjs.ApartmentCode.eventsList313(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList314(runtimeScene);
 }
 
 
@@ -71282,6 +74104,34 @@ gdjs.ApartmentCode.eventsList316(runtimeScene);
 {
 
 
+gdjs.ApartmentCode.eventsList318(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList319(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList320(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList321(runtimeScene);
+}
+
+
+{
+
+
 gdjs.ApartmentCode.eventsList323(runtimeScene);
 }
 
@@ -71290,6 +74140,48 @@ gdjs.ApartmentCode.eventsList323(runtimeScene);
 
 
 gdjs.ApartmentCode.eventsList324(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList327(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList328(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList331(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList332(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList339(runtimeScene);
+}
+
+
+{
+
+
+gdjs.ApartmentCode.eventsList340(runtimeScene);
 }
 
 
@@ -71356,7 +74248,7 @@ gdjs.copyArray(runtimeScene.getObjects("Debug_Title"), gdjs.ApartmentCode.GDDebu
 }
 
 { //Subevents
-gdjs.ApartmentCode.eventsList325(runtimeScene);} //End of subevents
+gdjs.ApartmentCode.eventsList341(runtimeScene);} //End of subevents
 }
 
 }
@@ -71398,14 +74290,14 @@ gdjs.copyArray(runtimeScene.getObjects("Debug_Warning"), gdjs.ApartmentCode.GDDe
 {
 
 
-gdjs.ApartmentCode.eventsList326(runtimeScene);
+gdjs.ApartmentCode.eventsList342(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ApartmentCode.eventsList328(runtimeScene);
+gdjs.ApartmentCode.eventsList344(runtimeScene);
 }
 
 
@@ -71631,6 +74523,13 @@ gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length = 0;
 gdjs.ApartmentCode.GDFood_9595TomatoObjects5.length = 0;
 gdjs.ApartmentCode.GDFood_9595TomatoObjects6.length = 0;
 gdjs.ApartmentCode.GDFood_9595TomatoObjects7.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects1.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects2.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects3.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects4.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects5.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects6.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects7.length = 0;
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1.length = 0;
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2.length = 0;
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length = 0;
@@ -72423,7 +75322,7 @@ gdjs.ApartmentCode.GDScore_9595ButtonSelObjects5.length = 0;
 gdjs.ApartmentCode.GDScore_9595ButtonSelObjects6.length = 0;
 gdjs.ApartmentCode.GDScore_9595ButtonSelObjects7.length = 0;
 
-gdjs.ApartmentCode.eventsList329(runtimeScene);
+gdjs.ApartmentCode.eventsList345(runtimeScene);
 gdjs.ApartmentCode.GDDebug_9595TitleObjects1.length = 0;
 gdjs.ApartmentCode.GDDebug_9595TitleObjects2.length = 0;
 gdjs.ApartmentCode.GDDebug_9595TitleObjects3.length = 0;
@@ -72641,6 +75540,13 @@ gdjs.ApartmentCode.GDFood_9595TomatoObjects4.length = 0;
 gdjs.ApartmentCode.GDFood_9595TomatoObjects5.length = 0;
 gdjs.ApartmentCode.GDFood_9595TomatoObjects6.length = 0;
 gdjs.ApartmentCode.GDFood_9595TomatoObjects7.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects1.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects2.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects3.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects4.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects5.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects6.length = 0;
+gdjs.ApartmentCode.GDKitchen_9595FridgeStockObjects7.length = 0;
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects1.length = 0;
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects2.length = 0;
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects3.length = 0;
