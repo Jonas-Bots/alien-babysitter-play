@@ -2009,7 +2009,7 @@ if (isConditionTrue_0) {
 }
 }
 {for(var i = 0, len = gdjs.MenuCode.GDMenu_9595ButtonObjects4.length ;i < len;++i) {
-    gdjs.MenuCode.GDMenu_9595ButtonObjects4[i].getBehavior("Resizable").setHeight((runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuItemSpacing").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonGap").getAsNumber()));
+    gdjs.MenuCode.GDMenu_9595ButtonObjects4[i].getBehavior("Resizable").setHeight(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuItemSpacing").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonGap").getAsNumber());
 }
 }
 {for(var i = 0, len = gdjs.MenuCode.GDMenu_9595ButtonObjects4.length ;i < len;++i) {
@@ -3417,7 +3417,7 @@ gdjs.copyArray(runtimeScene.getObjects("Menu_ButtonSel"), gdjs.MenuCode.GDMenu_9
 }
 }
 {for(var i = 0, len = gdjs.MenuCode.GDMenu_9595ButtonSelObjects2.length ;i < len;++i) {
-    gdjs.MenuCode.GDMenu_9595ButtonSelObjects2[i].getBehavior("Resizable").setHeight((runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuItemSpacing").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonGap").getAsNumber()));
+    gdjs.MenuCode.GDMenu_9595ButtonSelObjects2[i].getBehavior("Resizable").setHeight(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuItemSpacing").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonGap").getAsNumber());
 }
 }
 {for(var i = 0, len = gdjs.MenuCode.GDMenu_9595ButtonSelObjects2.length ;i < len;++i) {

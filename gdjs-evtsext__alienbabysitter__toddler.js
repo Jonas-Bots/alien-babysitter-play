@@ -311,6 +311,173 @@ gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.getSharedData = function(instance
 }
 
 // Methods:
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext = {};
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.idToCallbackMap = new Map();
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1= [];
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects2= [];
+
+
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.eventsList0 = function(runtimeScene, eventsFunctionContext) {
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1);
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setStateTime(eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getStateTime()+(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene) * gdjs.evtTools.camera.getLayerTimeScale(runtimeScene, (( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? "" :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getLayer()))))
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getState() != "Wander");
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1);
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setStuckTime(0)
+}
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setLastX((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterXInScene()))
+}
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setLastY((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterYInScene()))
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getState() == "Wander");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (gdjs.evtTools.common.distanceBetweenPositions((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterXInScene()), (( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterYInScene()), eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getLastX(), eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getLastY()) >= eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getStuckMinMove());
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1 */
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setStuckTime(0)
+}
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setLastX((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterXInScene()))
+}
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setLastY((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterYInScene()))
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getState() == "Wander");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (gdjs.evtTools.common.distanceBetweenPositions((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterXInScene()), (( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterYInScene()), eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getLastX(), eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getLastY()) < eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getStuckMinMove());
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1 */
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setStuckTime(eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getStuckTime()+(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene) * gdjs.evtTools.camera.getLayerTimeScale(runtimeScene, (( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? "" :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getLayer()))))
+}
+}
+
+}
+
+
+};
+
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEvents = function(parentEventsFunctionContext) {
+this._onceTriggers.startNewFrame();
+var that = this;
+var runtimeScene = this._runtimeScene;
+let scopeInstanceContainer = null;
+var thisObjectList = [this.owner];
+var Object = Hashtable.newFrom({Object: thisObjectList});
+var Behavior = this.name;
+var eventsFunctionContext = {
+  _objectsMap: {
+"Object": Object
+},
+  _objectArraysMap: {
+"Object": thisObjectList
+},
+  _behaviorNamesMap: {
+"Behavior": Behavior
+},
+  globalVariablesForExtension: runtimeScene.getGame().getVariablesForExtension("AlienBabysitter"),
+  sceneVariablesForExtension: runtimeScene.getScene().getVariablesForExtension("AlienBabysitter"),
+  localVariables: [],
+  getObjects: function(objectName) {
+    return eventsFunctionContext._objectArraysMap[objectName] || [];
+  },
+  getObjectsLists: function(objectName) {
+    return eventsFunctionContext._objectsMap[objectName] || null;
+  },
+  getBehaviorName: function(behaviorName) {
+    return eventsFunctionContext._behaviorNamesMap[behaviorName] || behaviorName;
+  },
+  createObject: function(objectName) {
+    const objectsList = eventsFunctionContext._objectsMap[objectName];
+    if (objectsList) {
+      const object = parentEventsFunctionContext && !(scopeInstanceContainer && scopeInstanceContainer.isObjectRegistered(objectName)) ?
+        parentEventsFunctionContext.createObject(objectsList.firstKey()) :
+        runtimeScene.createObject(objectsList.firstKey());
+      if (object) {
+        objectsList.get(objectsList.firstKey()).push(object);
+        if (!(scopeInstanceContainer && scopeInstanceContainer.isObjectRegistered(objectName))) {
+          eventsFunctionContext._objectArraysMap[objectName].push(object);
+        }
+      }
+      return object;
+    }
+    return null;
+  },
+  getInstancesCountOnScene: function(objectName) {
+    const objectsList = eventsFunctionContext._objectsMap[objectName];
+    let count = 0;
+    if (objectsList) {
+      for(const objectName in objectsList.items)
+        count += parentEventsFunctionContext && !(scopeInstanceContainer && scopeInstanceContainer.isObjectRegistered(objectName)) ?
+parentEventsFunctionContext.getInstancesCountOnScene(objectName) :
+        runtimeScene.getInstancesCountOnScene(objectName);
+    }
+    return count;
+  },
+  getLayer: function(layerName) {
+    return runtimeScene.getLayer(layerName);
+  },
+  getArgument: function(argName) {
+    return "";
+  },
+  getOnceTriggers: function() { return that._onceTriggers; }
+};
+
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length = 0;
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects2.length = 0;
+
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.eventsList0(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length = 0;
+gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects2.length = 0;
+
+
+return;
+}
 gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.SetStateToContext = {};
 gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.SetStateToContext.idToCallbackMap = new Map();
 gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.SetStateToContext.GDObjectObjects1= [];
@@ -526,173 +693,6 @@ gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.StateFinishedContext.GD
 
 
 return !!eventsFunctionContext.returnValue;
-}
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext = {};
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.idToCallbackMap = new Map();
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1= [];
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects2= [];
-
-
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.eventsList0 = function(runtimeScene, eventsFunctionContext) {
-
-{
-
-
-let isConditionTrue_0 = false;
-{
-gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1);
-{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setStateTime(eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getStateTime()+(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene) * gdjs.evtTools.camera.getLayerTimeScale(runtimeScene, (( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? "" :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getLayer()))))
-}
-}
-
-}
-
-
-{
-
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-{isConditionTrue_0 = (eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getState() != "Wander");
-}
-if (isConditionTrue_0) {
-gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1);
-{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setStuckTime(0)
-}
-{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setLastX((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterXInScene()))
-}
-{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setLastY((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterYInScene()))
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-{isConditionTrue_0 = (eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getState() == "Wander");
-}
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-{isConditionTrue_0 = (gdjs.evtTools.common.distanceBetweenPositions((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterXInScene()), (( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterYInScene()), eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getLastX(), eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getLastY()) >= eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getStuckMinMove());
-}
-}
-if (isConditionTrue_0) {
-/* Reuse gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1 */
-{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setStuckTime(0)
-}
-{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setLastX((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterXInScene()))
-}
-{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setLastY((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterYInScene()))
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-{isConditionTrue_0 = (eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getState() == "Wander");
-}
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-{isConditionTrue_0 = (gdjs.evtTools.common.distanceBetweenPositions((( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterXInScene()), (( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? 0 :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getCenterYInScene()), eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getLastX(), eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getLastY()) < eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getStuckMinMove());
-}
-}
-if (isConditionTrue_0) {
-/* Reuse gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1 */
-{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setStuckTime(eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getStuckTime()+(gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene) * gdjs.evtTools.camera.getLayerTimeScale(runtimeScene, (( gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length === 0 ) ? "" :gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1[0].getLayer()))))
-}
-}
-
-}
-
-
-};
-
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEvents = function(parentEventsFunctionContext) {
-this._onceTriggers.startNewFrame();
-var that = this;
-var runtimeScene = this._runtimeScene;
-let scopeInstanceContainer = null;
-var thisObjectList = [this.owner];
-var Object = Hashtable.newFrom({Object: thisObjectList});
-var Behavior = this.name;
-var eventsFunctionContext = {
-  _objectsMap: {
-"Object": Object
-},
-  _objectArraysMap: {
-"Object": thisObjectList
-},
-  _behaviorNamesMap: {
-"Behavior": Behavior
-},
-  globalVariablesForExtension: runtimeScene.getGame().getVariablesForExtension("AlienBabysitter"),
-  sceneVariablesForExtension: runtimeScene.getScene().getVariablesForExtension("AlienBabysitter"),
-  localVariables: [],
-  getObjects: function(objectName) {
-    return eventsFunctionContext._objectArraysMap[objectName] || [];
-  },
-  getObjectsLists: function(objectName) {
-    return eventsFunctionContext._objectsMap[objectName] || null;
-  },
-  getBehaviorName: function(behaviorName) {
-    return eventsFunctionContext._behaviorNamesMap[behaviorName] || behaviorName;
-  },
-  createObject: function(objectName) {
-    const objectsList = eventsFunctionContext._objectsMap[objectName];
-    if (objectsList) {
-      const object = parentEventsFunctionContext && !(scopeInstanceContainer && scopeInstanceContainer.isObjectRegistered(objectName)) ?
-        parentEventsFunctionContext.createObject(objectsList.firstKey()) :
-        runtimeScene.createObject(objectsList.firstKey());
-      if (object) {
-        objectsList.get(objectsList.firstKey()).push(object);
-        if (!(scopeInstanceContainer && scopeInstanceContainer.isObjectRegistered(objectName))) {
-          eventsFunctionContext._objectArraysMap[objectName].push(object);
-        }
-      }
-      return object;
-    }
-    return null;
-  },
-  getInstancesCountOnScene: function(objectName) {
-    const objectsList = eventsFunctionContext._objectsMap[objectName];
-    let count = 0;
-    if (objectsList) {
-      for(const objectName in objectsList.items)
-        count += parentEventsFunctionContext && !(scopeInstanceContainer && scopeInstanceContainer.isObjectRegistered(objectName)) ?
-parentEventsFunctionContext.getInstancesCountOnScene(objectName) :
-        runtimeScene.getInstancesCountOnScene(objectName);
-    }
-    return count;
-  },
-  getLayer: function(layerName) {
-    return runtimeScene.getLayer(layerName);
-  },
-  getArgument: function(argName) {
-    return "";
-  },
-  getOnceTriggers: function() { return that._onceTriggers; }
-};
-
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length = 0;
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects2.length = 0;
-
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.eventsList0(runtimeScene, eventsFunctionContext);
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects1.length = 0;
-gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.doStepPreEventsContext.GDObjectObjects2.length = 0;
-
-
-return;
 }
 gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.StateContext = {};
 gdjs.evtsExt__AlienBabysitter__Toddler.Toddler.prototype.StateContext.idToCallbackMap = new Map();

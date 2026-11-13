@@ -2,7 +2,7 @@
 gdjs.evtsExt__AlienBabysitter__Holdable = gdjs.evtsExt__AlienBabysitter__Holdable || {};
 
 /**
- * Behavior generated from Holdable
+ * Behavior generated from Holdable item
  */
 gdjs.evtsExt__AlienBabysitter__Holdable.Holdable = class Holdable extends gdjs.RuntimeBehavior {
   constructor(instanceContainer, behaviorData, owner) {
@@ -188,7 +188,7 @@ gdjs.evtsExt__AlienBabysitter__Holdable.Holdable = class Holdable extends gdjs.R
 }
 
 /**
- * Shared data generated from Holdable
+ * Shared data generated from Holdable item
  */
 gdjs.evtsExt__AlienBabysitter__Holdable.Holdable.SharedData = class HoldableSharedData {
   constructor(sharedData) {

@@ -2,7 +2,7 @@
 gdjs.evtsExt__AlienBabysitter__PlayerController = gdjs.evtsExt__AlienBabysitter__PlayerController || {};
 
 /**
- * Behavior generated from Player controller
+ * Behavior generated from Babysitter first-person controller
  */
 gdjs.evtsExt__AlienBabysitter__PlayerController.PlayerController = class PlayerController extends gdjs.RuntimeBehavior {
   constructor(instanceContainer, behaviorData, owner) {
@@ -131,7 +131,7 @@ gdjs.evtsExt__AlienBabysitter__PlayerController.PlayerController = class PlayerC
 }
 
 /**
- * Shared data generated from Player controller
+ * Shared data generated from Babysitter first-person controller
  */
 gdjs.evtsExt__AlienBabysitter__PlayerController.PlayerController.SharedData = class PlayerControllerSharedData {
   constructor(sharedData) {
