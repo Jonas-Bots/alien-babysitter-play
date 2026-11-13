@@ -123105,6 +123105,26 @@ gdjs.copyArray(runtimeScene.getObjects("HUD_Prompt"), gdjs.ApartmentCode.GDHUD_9
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Score");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(19).getChild("Time").getAsNumber() > 0);
+}
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(19).getChild("Time").setNumber(0);
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(19).getChild("Time").getAsNumber() > 0);
 }
 if (isConditionTrue_0) {
@@ -123135,7 +123155,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34056068);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34061284);
 }
 }
 if (isConditionTrue_0) {
@@ -131935,7 +131955,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDGag_9595SickObjects2.length;i<l;
 gdjs.ApartmentCode.GDGag_9595SickObjects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34305996);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34310492);
 }
 }
 if (isConditionTrue_0) {
@@ -132065,7 +132085,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34307620);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34312116);
 }
 }
 if (isConditionTrue_0) {
@@ -133089,7 +133109,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34370236);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34374732);
 }
 }
 if (isConditionTrue_0) {
@@ -133109,7 +133129,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34372044);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34376540);
 }
 }
 if (isConditionTrue_0) {
