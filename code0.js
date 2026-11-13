@@ -2013,7 +2013,7 @@ if (isConditionTrue_0) {
 }
 }
 {for(var i = 0, len = gdjs.MenuCode.GDMenu_9595ButtonObjects4.length ;i < len;++i) {
-    gdjs.MenuCode.GDMenu_9595ButtonObjects4[i].setPosition(gdjs.evtTools.camera.getCameraWidth(runtimeScene, "", 0) / 2 - Math.max(runtimeScene.getScene().getVariables().getFromIndex(0).getChild("MaxW").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonPad").getAsNumber() * 2, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonMinWidth").getAsNumber()) / 2,(( gdjs.MenuCode.GDMenu_9595ItemObjects4.length === 0 ) ? 0 :gdjs.MenuCode.GDMenu_9595ItemObjects4[0].getY()) + (( gdjs.MenuCode.GDMenu_9595ItemObjects4.length === 0 ) ? 0 :gdjs.MenuCode.GDMenu_9595ItemObjects4[0].getHeight()) / 2 - (runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuItemSpacing").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonGap").getAsNumber()) / 2);
+    gdjs.MenuCode.GDMenu_9595ButtonObjects4[i].setPosition(gdjs.evtTools.camera.getCameraWidth(runtimeScene, "", 0) / 2 - Math.max(runtimeScene.getScene().getVariables().getFromIndex(0).getChild("MaxW").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonPad").getAsNumber() * 2, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonMinWidth").getAsNumber()) / 2,(( gdjs.MenuCode.GDMenu_9595ItemObjects4.length === 0 ) ? 0 :gdjs.MenuCode.GDMenu_9595ItemObjects4[0].getY()) + (( gdjs.MenuCode.GDMenu_9595ItemObjects4.length === 0 ) ? 0 :gdjs.MenuCode.GDMenu_9595ItemObjects4[0].getHeight()) / 2 - (runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuItemSpacing").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonGap").getAsNumber()) / 2 + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonDrop").getAsNumber());
 }
 }
 }
@@ -3421,7 +3421,7 @@ gdjs.copyArray(runtimeScene.getObjects("Menu_ButtonSel"), gdjs.MenuCode.GDMenu_9
 }
 }
 {for(var i = 0, len = gdjs.MenuCode.GDMenu_9595ButtonSelObjects2.length ;i < len;++i) {
-    gdjs.MenuCode.GDMenu_9595ButtonSelObjects2[i].setPosition(gdjs.evtTools.camera.getCameraWidth(runtimeScene, "", 0) / 2 - Math.max(runtimeScene.getScene().getVariables().getFromIndex(0).getChild("MaxW").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonPad").getAsNumber() * 2, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonMinWidth").getAsNumber()) / 2,(( gdjs.MenuCode.GDMenu_9595ItemObjects2.length === 0 ) ? 0 :gdjs.MenuCode.GDMenu_9595ItemObjects2[0].getY()) + (( gdjs.MenuCode.GDMenu_9595ItemObjects2.length === 0 ) ? 0 :gdjs.MenuCode.GDMenu_9595ItemObjects2[0].getHeight()) / 2 - (runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuItemSpacing").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonGap").getAsNumber()) / 2);
+    gdjs.MenuCode.GDMenu_9595ButtonSelObjects2[i].setPosition(gdjs.evtTools.camera.getCameraWidth(runtimeScene, "", 0) / 2 - Math.max(runtimeScene.getScene().getVariables().getFromIndex(0).getChild("MaxW").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonPad").getAsNumber() * 2, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonMinWidth").getAsNumber()) / 2,(( gdjs.MenuCode.GDMenu_9595ItemObjects2.length === 0 ) ? 0 :gdjs.MenuCode.GDMenu_9595ItemObjects2[0].getY()) + (( gdjs.MenuCode.GDMenu_9595ItemObjects2.length === 0 ) ? 0 :gdjs.MenuCode.GDMenu_9595ItemObjects2[0].getHeight()) / 2 - (runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuItemSpacing").getAsNumber() - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonGap").getAsNumber()) / 2 + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("MenuButtonDrop").getAsNumber());
 }
 }
 }
@@ -3487,6 +3487,39 @@ gdjs.MenuCode.eventsList48(runtimeScene);} //Subevents end.
 
 
 };gdjs.MenuCode.eventsList50 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Menu_Body"), gdjs.MenuCode.GDMenu_9595BodyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Menu_Item"), gdjs.MenuCode.GDMenu_9595ItemObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Menu_PageTitle"), gdjs.MenuCode.GDMenu_9595PageTitleObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Menu_PressStart"), gdjs.MenuCode.GDMenu_9595PressStartObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Menu_Title"), gdjs.MenuCode.GDMenu_9595TitleObjects1);
+{for(var i = 0, len = gdjs.MenuCode.GDMenu_9595TitleObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDMenu_9595TitleObjects1[i].getBehavior("TypeIn").Configure(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("Cps").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MaxSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("FullAmp").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MildAmp").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("ShakeSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MildChars").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("AngleShare").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.MenuCode.GDMenu_9595PressStartObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDMenu_9595PressStartObjects1[i].getBehavior("TypeIn").Configure(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("Cps").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MaxSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("FullAmp").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MildAmp").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("ShakeSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MildChars").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("AngleShare").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.MenuCode.GDMenu_9595BodyObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDMenu_9595BodyObjects1[i].getBehavior("TypeIn").Configure(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("Cps").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MaxSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("FullAmp").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MildAmp").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("ShakeSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MildChars").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("AngleShare").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.MenuCode.GDMenu_9595PageTitleObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDMenu_9595PageTitleObjects1[i].getBehavior("TypeIn").Configure(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("Cps").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MaxSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("FullAmp").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MildAmp").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("ShakeSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MildChars").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("AngleShare").getAsNumber(), null);
+}
+for(var i = 0, len = gdjs.MenuCode.GDMenu_9595ItemObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDMenu_9595ItemObjects1[i].getBehavior("TypeIn").Configure(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("Cps").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MaxSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("FullAmp").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MildAmp").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("ShakeSeconds").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("MildChars").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Text").getChild("TypeIn").getChild("AngleShare").getAsNumber(), null);
+}
+}
+}
+
+}
+
 
 {
 
