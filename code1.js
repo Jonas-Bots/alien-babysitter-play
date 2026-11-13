@@ -123135,7 +123135,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33538412);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33553628);
 }
 }
 if (isConditionTrue_0) {
@@ -130455,6 +130455,71 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Iris");
 }
 if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Dust_Puff"), gdjs.ApartmentCode.GDDust_9595PuffObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Gag_Poof"), gdjs.ApartmentCode.GDGag_9595PoofObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Smoke_Puff"), gdjs.ApartmentCode.GDSmoke_9595PuffObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Spray_Puff"), gdjs.ApartmentCode.GDSpray_9595PuffObjects2);
+{for(var i = 0, len = gdjs.ApartmentCode.GDSmoke_9595PuffObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDSmoke_9595PuffObjects2[i].setScale(gdjs.ApartmentCode.GDSmoke_9595PuffObjects2[i].getScale() * (Math.exp(-(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Death").getChild("Iris").getChild("FadeRate").getAsNumber()) * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene))));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDDust_9595PuffObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDDust_9595PuffObjects2[i].setScale(gdjs.ApartmentCode.GDDust_9595PuffObjects2[i].getScale() * (Math.exp(-(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Death").getChild("Iris").getChild("FadeRate").getAsNumber()) * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene))));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDSpray_9595PuffObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDSpray_9595PuffObjects2[i].setScale(gdjs.ApartmentCode.GDSpray_9595PuffObjects2[i].getScale() * (Math.exp(-(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Death").getChild("Iris").getChild("FadeRate").getAsNumber()) * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene))));
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDGag_9595PoofObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDGag_9595PoofObjects2[i].setScale(gdjs.ApartmentCode.GDGag_9595PoofObjects2[i].getScale() * (Math.exp(-(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Death").getChild("Iris").getChild("FadeRate").getAsNumber()) * gdjs.evtTools.runtimeScene.getElapsedTimeInSeconds(runtimeScene))));
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Iris");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(10).getChild("IrisTime").getAsNumber() >= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Death").getChild("Iris").getChild("Seconds").getAsNumber() * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Death").getChild("Iris").getChild("FadeShare").getAsNumber());
+}
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Dust_Puff"), gdjs.ApartmentCode.GDDust_9595PuffObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Gag_Poof"), gdjs.ApartmentCode.GDGag_9595PoofObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Smoke_Puff"), gdjs.ApartmentCode.GDSmoke_9595PuffObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Spray_Puff"), gdjs.ApartmentCode.GDSpray_9595PuffObjects2);
+{for(var i = 0, len = gdjs.ApartmentCode.GDSmoke_9595PuffObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDSmoke_9595PuffObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDDust_9595PuffObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDDust_9595PuffObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDSpray_9595PuffObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDSpray_9595PuffObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDGag_9595PoofObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDGag_9595PoofObjects2[i].hide();
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Iris");
+}
+if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(10).getChild("IrisTime").getAsNumber() >= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Death").getChild("Iris").getChild("Seconds").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Death").getChild("Iris").getChild("HoldSeconds").getAsNumber());
 }
@@ -130823,6 +130888,38 @@ gdjs.copyArray(runtimeScene.getObjects("Death_TryAgain"), gdjs.ApartmentCode.GDD
 {for(var i = 0, len = gdjs.ApartmentCode.GDDeath_9595DimObjects2.length ;i < len;++i) {
     gdjs.ApartmentCode.GDDeath_9595DimObjects2[i].drawRectangle(0, 0, gdjs.evtTools.camera.getCameraWidth(runtimeScene, "Death", 0), gdjs.evtTools.camera.getCameraHeight(runtimeScene, "Death", 0));
 }
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(4).getChild("State").getAsString() == "Dead");
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Dust_Puff"), gdjs.ApartmentCode.GDDust_9595PuffObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Gag_Poof"), gdjs.ApartmentCode.GDGag_9595PoofObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Smoke_Puff"), gdjs.ApartmentCode.GDSmoke_9595PuffObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Spray_Puff"), gdjs.ApartmentCode.GDSpray_9595PuffObjects2);
+{for(var i = 0, len = gdjs.ApartmentCode.GDSmoke_9595PuffObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDSmoke_9595PuffObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDDust_9595PuffObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDDust_9595PuffObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDSpray_9595PuffObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDSpray_9595PuffObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.ApartmentCode.GDGag_9595PoofObjects2.length ;i < len;++i) {
+    gdjs.ApartmentCode.GDGag_9595PoofObjects2[i].hide();
+}
+}
+{gdjs.evtTools.camera.hideLayer(runtimeScene, "");
 }
 }
 
@@ -131834,7 +131931,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDGag_9595SickObjects2.length;i<l;
 gdjs.ApartmentCode.GDGag_9595SickObjects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33788340);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33803556);
 }
 }
 if (isConditionTrue_0) {
@@ -131964,7 +132061,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33789964);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33805180);
 }
 }
 if (isConditionTrue_0) {
@@ -132988,7 +133085,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33852580);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33867796);
 }
 }
 if (isConditionTrue_0) {
@@ -133008,7 +133105,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33854388);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33869604);
 }
 }
 if (isConditionTrue_0) {
