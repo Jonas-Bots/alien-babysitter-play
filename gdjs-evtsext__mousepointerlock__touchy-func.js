@@ -9,7 +9,7 @@ gdjs.evtsExt__MousePointerLock__TouchY = {};
 gdjs.evtsExt__MousePointerLock__TouchY.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__MousePointerLock__TouchY.userFunc0x156ba40 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__MousePointerLock__TouchY.userFunc0xbac198 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const touchId = eventsFunctionContext.getArgument("NewTouchId");
 eventsFunctionContext.returnValue = runtimeScene.getGame().getInputManager().getTouchY(touchId);
@@ -20,7 +20,7 @@ gdjs.evtsExt__MousePointerLock__TouchY.eventsList0 = function(runtimeScene, even
 {
 
 
-gdjs.evtsExt__MousePointerLock__TouchY.userFunc0x156ba40(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__MousePointerLock__TouchY.userFunc0xbac198(runtimeScene, eventsFunctionContext);
 
 }
 
