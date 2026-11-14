@@ -9,7 +9,7 @@ gdjs.evtsExt__Raycaster3D__Distance = {};
 gdjs.evtsExt__Raycaster3D__Distance.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__Raycaster3D__Distance.userFunc0x17a7ca0 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Raycaster3D__Distance.userFunc0x14488e8 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = gdjs.__raycaster3DExtension.raycaster.lastDistance;
 };
@@ -18,7 +18,7 @@ gdjs.evtsExt__Raycaster3D__Distance.eventsList0 = function(runtimeScene, eventsF
 {
 
 
-gdjs.evtsExt__Raycaster3D__Distance.userFunc0x17a7ca0(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__Raycaster3D__Distance.userFunc0x14488e8(runtimeScene, eventsFunctionContext);
 
 }
 
