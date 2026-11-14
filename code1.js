@@ -66259,6 +66259,40 @@ gdjs.copyArray(gdjs.ApartmentCode.GDKidObjects3, gdjs.ApartmentCode.GDKidObjects
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
+{isConditionTrue_0 = (gdjs.randomFloat(1) >= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("NearbyShare").getAsNumber());
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("AnyWalkSeconds").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(24).getChild("LastPickMode").setString("Any");
+}
+{runtimeScene.getScene().getVariables().getFromIndex(24).getChild("Tasks").getChild("AnyPicks").add(1);
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(24).getChild("LastPickMode").getAsString() == "Near");
+}
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(24).getChild("Tasks").getChild("NearPicks").add(1);
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
 {isConditionTrue_0 = (gdjs.randomFloat(1) < runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("DangerShare").getAsNumber());
 }
 if (isConditionTrue_0) {
@@ -66498,7 +66532,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.len
 gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.pickNearestObject(gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects5Objects, (( gdjs.ApartmentCode.GDKidObjects5.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects5[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDKidObjects5.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects5[0].getCenterYInScene()), false);
+isConditionTrue_0 = gdjs.evtTools.object.pickRandomObject(runtimeScene, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDMarker_95959595KidTargetObjects5Objects);
 }
 }
 }
@@ -66539,6 +66573,10 @@ if (isConditionTrue_0) {
 {runtimeScene.getScene().getVariables().getFromIndex(24).getChild("Tasks").getChild("Danger").add(1);
 }
 {runtimeScene.getScene().getVariables().getFromIndex(24).getChild("Tasks").getChild("Outlet").add(1);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(24).getChild("Tasks").getChild("OutletPick").add(1);
+}
+{runtimeScene.getScene().getVariables().getFromIndex(24).getChild("LastPickMode").setString("Outlet");
 }
 }
 
@@ -66973,6 +67011,10 @@ gdjs.copyArray(runtimeScene.getObjects("Toy_Drum"), gdjs.ApartmentCode.GDToy_959
 gdjs.copyArray(runtimeScene.getObjects("Toy_Duck"), gdjs.ApartmentCode.GDToy_9595DuckObjects5);
 gdjs.copyArray(runtimeScene.getObjects("Toy_Ring"), gdjs.ApartmentCode.GDToy_9595RingObjects5);
 gdjs.copyArray(runtimeScene.getObjects("Toy_UFO"), gdjs.ApartmentCode.GDToy_9595UFOObjects5);
+{runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(24).getChild("LastPickMode").setString("Near");
+}
 {for(var i = 0, len = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length ;i < len;++i) {
     gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].returnVariable(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)).setNumber(gdjs.evtsExt__AlienBabysitter__WalkDistance.func(runtimeScene, (( gdjs.ApartmentCode.GDKidObjects5.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects5[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDKidObjects5.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects5[0].getCenterYInScene()), (gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getCenterXInScene()), (gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getCenterYInScene()), null) / runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Toddler").getChild("WalkSpeed").getAsNumber());
 }
@@ -67140,7 +67182,7 @@ gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[k] = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i];
         ++k;
@@ -67598,7 +67640,7 @@ gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("UtensilWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariables().get("WalkT")) <= Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("UtensilWalkSeconds").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber()) ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595KnifeObjects5[k] = gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i];
         ++k;
@@ -67606,7 +67648,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length;i<
 }
 gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595ForkObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("UtensilWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariables().get("WalkT")) <= Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("UtensilWalkSeconds").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber()) ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595ForkObjects5[k] = gdjs.ApartmentCode.GDItem_9595ForkObjects5[i];
         ++k;
@@ -67614,7 +67656,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595ForkObjects5.length;i<l
 }
 gdjs.ApartmentCode.GDItem_9595ForkObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("UtensilWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariables().get("WalkT")) <= Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("UtensilWalkSeconds").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber()) ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595SpoonObjects5[k] = gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i];
         ++k;
@@ -67622,7 +67664,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length;i<
 }
 gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("UtensilWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariables().get("WalkT")) <= Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("UtensilWalkSeconds").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber()) ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i];
         ++k;
@@ -67630,7 +67672,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObj
 }
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("UtensilWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariables().get("WalkT")) <= Math.max(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("UtensilWalkSeconds").getAsNumber(), runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber()) ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[k] = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i];
         ++k;
@@ -67941,7 +67983,7 @@ gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595KnifeObjects5[k] = gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i];
         ++k;
@@ -67949,7 +67991,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length;i<
 }
 gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595ForkObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595ForkObjects5[k] = gdjs.ApartmentCode.GDItem_9595ForkObjects5[i];
         ++k;
@@ -67957,7 +67999,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595ForkObjects5.length;i<l
 }
 gdjs.ApartmentCode.GDItem_9595ForkObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595SpoonObjects5[k] = gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i];
         ++k;
@@ -67965,7 +68007,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length;i<
 }
 gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i];
         ++k;
@@ -67973,7 +68015,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObj
 }
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[k] = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i];
         ++k;
@@ -68267,7 +68309,7 @@ gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i];
         ++k;
@@ -68275,7 +68317,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.lengt
 }
 gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i];
         ++k;
@@ -68283,7 +68325,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.len
 }
 gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i];
         ++k;
@@ -68291,7 +68333,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjec
 }
 gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i];
         ++k;
@@ -68299,7 +68341,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length
 }
 gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595OvenObjects5[k] = gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i];
         ++k;
@@ -68307,7 +68349,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i
 }
 gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[k] = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i];
         ++k;
@@ -68315,7 +68357,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.len
 }
 gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i];
         ++k;
@@ -68323,7 +68365,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.leng
 }
 gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i];
         ++k;
@@ -68708,7 +68750,7 @@ gdjs.ApartmentCode.GDToy_9595DrumObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BallObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595BallObjects5[k] = gdjs.ApartmentCode.GDToy_9595BallObjects5[i];
         ++k;
@@ -68716,7 +68758,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BallObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595BallObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BlocksObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595BlocksObjects5[k] = gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i];
         ++k;
@@ -68724,7 +68766,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BlocksObjects5.length;i<
 }
 gdjs.ApartmentCode.GDToy_9595BlocksObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595DuckObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595DuckObjects5[k] = gdjs.ApartmentCode.GDToy_9595DuckObjects5[i];
         ++k;
@@ -68732,7 +68774,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595DuckObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595DuckObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595UFOObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595UFOObjects5[k] = gdjs.ApartmentCode.GDToy_9595UFOObjects5[i];
         ++k;
@@ -68740,7 +68782,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595UFOObjects5.length;i<l;+
 }
 gdjs.ApartmentCode.GDToy_9595UFOObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BearObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595BearObjects5[k] = gdjs.ApartmentCode.GDToy_9595BearObjects5[i];
         ++k;
@@ -68748,7 +68790,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BearObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595BearObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595RingObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595RingObjects5[k] = gdjs.ApartmentCode.GDToy_9595RingObjects5[i];
         ++k;
@@ -68756,7 +68798,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595RingObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595RingObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595DrumObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595DrumObjects5[k] = gdjs.ApartmentCode.GDToy_9595DrumObjects5[i];
         ++k;
@@ -68860,7 +68902,7 @@ gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[k] = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i];
         ++k;
@@ -69154,7 +69196,7 @@ gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i];
         ++k;
@@ -69162,7 +69204,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.lengt
 }
 gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i];
         ++k;
@@ -69170,7 +69212,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.len
 }
 gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i];
         ++k;
@@ -69178,7 +69220,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjec
 }
 gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i];
         ++k;
@@ -69186,7 +69228,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length
 }
 gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595OvenObjects5[k] = gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i];
         ++k;
@@ -69194,7 +69236,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i
 }
 gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[k] = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i];
         ++k;
@@ -69202,7 +69244,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.len
 }
 gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i];
         ++k;
@@ -69210,7 +69252,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.leng
 }
 gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i];
         ++k;
@@ -69365,7 +69407,7 @@ gdjs.ApartmentCode.GDToy_9595DrumObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariables().getFromIndex(3)) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariables().getFromIndex(3)) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[k] = gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i];
         ++k;
@@ -69447,7 +69489,7 @@ gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[k] = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i];
         ++k;
@@ -69736,7 +69778,7 @@ gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595KnifeObjects5[k] = gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i];
         ++k;
@@ -69744,7 +69786,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length;i<
 }
 gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595ForkObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595ForkObjects5[k] = gdjs.ApartmentCode.GDItem_9595ForkObjects5[i];
         ++k;
@@ -69752,7 +69794,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595ForkObjects5.length;i<l
 }
 gdjs.ApartmentCode.GDItem_9595ForkObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595SpoonObjects5[k] = gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i];
         ++k;
@@ -69760,7 +69802,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length;i<
 }
 gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i];
         ++k;
@@ -69768,7 +69810,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObj
 }
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[k] = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i];
         ++k;
@@ -70056,7 +70098,7 @@ gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i];
         ++k;
@@ -70064,7 +70106,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.lengt
 }
 gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i];
         ++k;
@@ -70072,7 +70114,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.len
 }
 gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i];
         ++k;
@@ -70080,7 +70122,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjec
 }
 gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i];
         ++k;
@@ -70088,7 +70130,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length
 }
 gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595OvenObjects5[k] = gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i];
         ++k;
@@ -70096,7 +70138,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i
 }
 gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[k] = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i];
         ++k;
@@ -70104,7 +70146,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.len
 }
 gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i];
         ++k;
@@ -70112,7 +70154,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.leng
 }
 gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i];
         ++k;
@@ -70492,7 +70534,7 @@ gdjs.ApartmentCode.GDToy_9595DrumObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BallObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595BallObjects5[k] = gdjs.ApartmentCode.GDToy_9595BallObjects5[i];
         ++k;
@@ -70500,7 +70542,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BallObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595BallObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BlocksObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595BlocksObjects5[k] = gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i];
         ++k;
@@ -70508,7 +70550,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BlocksObjects5.length;i<
 }
 gdjs.ApartmentCode.GDToy_9595BlocksObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595DuckObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595DuckObjects5[k] = gdjs.ApartmentCode.GDToy_9595DuckObjects5[i];
         ++k;
@@ -70516,7 +70558,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595DuckObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595DuckObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595UFOObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595UFOObjects5[k] = gdjs.ApartmentCode.GDToy_9595UFOObjects5[i];
         ++k;
@@ -70524,7 +70566,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595UFOObjects5.length;i<l;+
 }
 gdjs.ApartmentCode.GDToy_9595UFOObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BearObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595BearObjects5[k] = gdjs.ApartmentCode.GDToy_9595BearObjects5[i];
         ++k;
@@ -70532,7 +70574,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BearObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595BearObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595RingObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595RingObjects5[k] = gdjs.ApartmentCode.GDToy_9595RingObjects5[i];
         ++k;
@@ -70540,7 +70582,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595RingObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595RingObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595DrumObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595DrumObjects5[k] = gdjs.ApartmentCode.GDToy_9595DrumObjects5[i];
         ++k;
@@ -70635,7 +70677,7 @@ gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[k] = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i];
         ++k;
@@ -70919,7 +70961,7 @@ gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i];
         ++k;
@@ -70927,7 +70969,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.lengt
 }
 gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i];
         ++k;
@@ -70935,7 +70977,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.len
 }
 gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i];
         ++k;
@@ -70943,7 +70985,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjec
 }
 gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i];
         ++k;
@@ -70951,7 +70993,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length
 }
 gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595OvenObjects5[k] = gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i];
         ++k;
@@ -70959,7 +71001,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i
 }
 gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[k] = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i];
         ++k;
@@ -70967,7 +71009,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.len
 }
 gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i];
         ++k;
@@ -70975,7 +71017,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.leng
 }
 gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i];
         ++k;
@@ -71124,7 +71166,7 @@ gdjs.ApartmentCode.GDToy_9595DrumObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariables().getFromIndex(3)) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariables().getFromIndex(3)) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[k] = gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i];
         ++k;
@@ -71491,7 +71533,7 @@ gdjs.ApartmentCode.GDToy_9595DrumObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BallObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BallObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595BallObjects5[k] = gdjs.ApartmentCode.GDToy_9595BallObjects5[i];
         ++k;
@@ -71499,7 +71541,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BallObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595BallObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BlocksObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595BlocksObjects5[k] = gdjs.ApartmentCode.GDToy_9595BlocksObjects5[i];
         ++k;
@@ -71507,7 +71549,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BlocksObjects5.length;i<
 }
 gdjs.ApartmentCode.GDToy_9595BlocksObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595DuckObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DuckObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595DuckObjects5[k] = gdjs.ApartmentCode.GDToy_9595DuckObjects5[i];
         ++k;
@@ -71515,7 +71557,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595DuckObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595DuckObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595UFOObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595UFOObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595UFOObjects5[k] = gdjs.ApartmentCode.GDToy_9595UFOObjects5[i];
         ++k;
@@ -71523,7 +71565,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595UFOObjects5.length;i<l;+
 }
 gdjs.ApartmentCode.GDToy_9595UFOObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BearObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595BearObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595BearObjects5[k] = gdjs.ApartmentCode.GDToy_9595BearObjects5[i];
         ++k;
@@ -71531,7 +71573,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595BearObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595BearObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595RingObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595RingObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595RingObjects5[k] = gdjs.ApartmentCode.GDToy_9595RingObjects5[i];
         ++k;
@@ -71539,7 +71581,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595RingObjects5.length;i<l;
 }
 gdjs.ApartmentCode.GDToy_9595RingObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDToy_9595DrumObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDToy_9595DrumObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDToy_9595DrumObjects5[k] = gdjs.ApartmentCode.GDToy_9595DrumObjects5[i];
         ++k;
@@ -71638,7 +71680,7 @@ gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[k] = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i];
         ++k;
@@ -71926,7 +71968,7 @@ gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i];
         ++k;
@@ -71934,7 +71976,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.lengt
 }
 gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i];
         ++k;
@@ -71942,7 +71984,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.len
 }
 gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i];
         ++k;
@@ -71950,7 +71992,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjec
 }
 gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i];
         ++k;
@@ -71958,7 +72000,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length
 }
 gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595OvenObjects5[k] = gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i];
         ++k;
@@ -71966,7 +72008,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i
 }
 gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[k] = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i];
         ++k;
@@ -71974,7 +72016,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.len
 }
 gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i];
         ++k;
@@ -71982,7 +72024,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.leng
 }
 gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i];
         ++k;
@@ -72135,7 +72177,7 @@ gdjs.ApartmentCode.GDToy_9595DrumObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariables().getFromIndex(3)) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i].getVariables().getFromIndex(3)) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[k] = gdjs.ApartmentCode.GDLiving_9595ToyBoxObjects5[i];
         ++k;
@@ -72220,7 +72262,7 @@ gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i].getVariables().getFromIndex(7)) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[k] = gdjs.ApartmentCode.GDMarker_9595KidTargetObjects5[i];
         ++k;
@@ -72513,7 +72555,7 @@ gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595KnifeObjects5[k] = gdjs.ApartmentCode.GDItem_9595KnifeObjects5[i];
         ++k;
@@ -72521,7 +72563,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length;i<
 }
 gdjs.ApartmentCode.GDItem_9595KnifeObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595ForkObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595ForkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595ForkObjects5[k] = gdjs.ApartmentCode.GDItem_9595ForkObjects5[i];
         ++k;
@@ -72529,7 +72571,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595ForkObjects5.length;i<l
 }
 gdjs.ApartmentCode.GDItem_9595ForkObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDItem_9595SpoonObjects5[k] = gdjs.ApartmentCode.GDItem_9595SpoonObjects5[i];
         ++k;
@@ -72537,7 +72579,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length;i<
 }
 gdjs.ApartmentCode.GDItem_9595SpoonObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5[i];
         ++k;
@@ -72545,7 +72587,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObj
 }
 gdjs.ApartmentCode.GDHazard_9595Bleach_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[k] = gdjs.ApartmentCode.GDHazard_9595Bleach_9595BathroomObjects5[i];
         ++k;
@@ -72837,7 +72879,7 @@ gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5[i];
         ++k;
@@ -72845,7 +72887,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.lengt
 }
 gdjs.ApartmentCode.GDDrawer_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5[i];
         ++k;
@@ -72853,7 +72895,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.len
 }
 gdjs.ApartmentCode.GDCupboard_9595KitchenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5[i];
         ++k;
@@ -72861,7 +72903,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjec
 }
 gdjs.ApartmentCode.GDKitchen_9595ChildLockDrawerObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[k] = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5[i];
         ++k;
@@ -72869,7 +72911,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length
 }
 gdjs.ApartmentCode.GDCupboard_9595SinkObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDHazard_9595OvenObjects5[k] = gdjs.ApartmentCode.GDHazard_9595OvenObjects5[i];
         ++k;
@@ -72877,7 +72919,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length;i
 }
 gdjs.ApartmentCode.GDHazard_9595OvenObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[k] = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5[i];
         ++k;
@@ -72885,7 +72927,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.len
 }
 gdjs.ApartmentCode.GDBathroom_9595CabinetObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[k] = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5[i];
         ++k;
@@ -72893,7 +72935,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.leng
 }
 gdjs.ApartmentCode.GDDrawer_9595BathroomObjects5.length = k;
 for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5.length;i<l;++i) {
-    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getGame().getVariables().getFromIndex(0).getChild("KidModes").getChild("TaskWalkSeconds").getAsNumber() ) {
+    if ( gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariableNumber(gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i].getVariables().get("WalkT")) <= runtimeScene.getScene().getVariables().getFromIndex(24).getChild("TaskWalkMax").getAsNumber() ) {
         isConditionTrue_0 = true;
         gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[k] = gdjs.ApartmentCode.GDKitchen_9595FridgeDoorObjects5[i];
         ++k;
@@ -83291,6 +83333,9 @@ gdjs.copyArray(gdjs.ApartmentCode.GDKidNavObjects3, gdjs.ApartmentCode.GDKidNavO
 };gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects4Objects = Hashtable.newFrom({"Hazard_Outlet_Bathroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4, "Hazard_Outlet_Kitchen": gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4, "Hazard_Outlet_Living": gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4, "Hazard_Outlet_Bedroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidObjects4Objects = Hashtable.newFrom({"Kid": gdjs.ApartmentCode.GDKidObjects4});
 gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects4Objects = Hashtable.newFrom({"Hazard_Outlet_Bathroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4, "Hazard_Outlet_Kitchen": gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4, "Hazard_Outlet_Living": gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4, "Hazard_Outlet_Bedroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects4Objects = Hashtable.newFrom({"Hazard_Outlet_Bathroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4, "Hazard_Outlet_Kitchen": gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4, "Hazard_Outlet_Living": gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4, "Hazard_Outlet_Bedroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidObjects4Objects = Hashtable.newFrom({"Kid": gdjs.ApartmentCode.GDKidObjects4});
+gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects4Objects = Hashtable.newFrom({"Hazard_Outlet_Bathroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4, "Hazard_Outlet_Kitchen": gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4, "Hazard_Outlet_Living": gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4, "Hazard_Outlet_Bedroom": gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4});
 gdjs.ApartmentCode.eventsList194 = function(runtimeScene) {
 
 {
@@ -83500,6 +83545,16 @@ gdjs.copyArray(gdjs.ApartmentCode.GDKidObjects3, gdjs.ApartmentCode.GDKidObjects
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects4.length;i<l;++i) {
+    if ( !(gdjs.ApartmentCode.GDKidObjects4[i].getBehavior("Toddler").HazardId(null) == "Outlet") ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects4[k] = gdjs.ApartmentCode.GDKidObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects4.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
 {isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(54).getChild("Active").getAsBoolean();
 }
 if (isConditionTrue_0) {
@@ -83590,6 +83645,178 @@ isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.ApartmentCode.mapOfGD
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.pickNearestObject(gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects4Objects, (( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects4[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects4[0].getCenterYInScene()), false);
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4 */
+/* Reuse gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4 */
+/* Reuse gdjs.ApartmentCode.GDKidObjects4 */
+{runtimeScene.getScene().getVariables().getFromIndex(54).getChild("Request").setString(((gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4.length === 0 ) ? ((gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4.length === 0 ) ? ((gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4.length === 0 ) ? ((gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4.length === 0 ) ? gdjs.VariablesContainer.badVariablesContainer : gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4[0].getVariables()) : gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4[0].getVariables()) : gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4[0].getVariables()) : gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4[0].getVariables()).get("HazardName").getAsString());
+}
+{runtimeScene.getScene().getVariables().getFromIndex(54).getChild("ReqSlot").setNumber(((gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? gdjs.VariablesContainer.badVariablesContainer : gdjs.ApartmentCode.GDKidObjects4[0].getVariables()).getFromIndex(3).getAsNumber());
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Outlet_Bathroom"), gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Outlet_Bedroom"), gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Outlet_Kitchen"), gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4);
+gdjs.copyArray(runtimeScene.getObjects("Hazard_Outlet_Living"), gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4);
+gdjs.copyArray(gdjs.ApartmentCode.GDKidObjects3, gdjs.ApartmentCode.GDKidObjects4);
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects4.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects4[i].getBehavior("Toddler").HazardId(null) == "Outlet" ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects4[k] = gdjs.ApartmentCode.GDKidObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects4.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = !runtimeScene.getScene().getVariables().getFromIndex(54).getChild("Active").getAsBoolean();
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = !runtimeScene.getGame().getVariables().getFromIndex(1).getChild("HazardsOff").getAsBoolean();
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(2).getChild("State").getAsString() == "Playing");
+}
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects4.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDKidObjects4[i].getBehavior("Toddler").HasItem(null) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects4[k] = gdjs.ApartmentCode.GDKidObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects4.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects4.length;i<l;++i) {
+    if ( !(gdjs.ApartmentCode.GDKidObjects4[i].getBehavior("Toddler").State(null) == "Held") ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects4[k] = gdjs.ApartmentCode.GDKidObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects4.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects4.length;i<l;++i) {
+    if ( !(gdjs.ApartmentCode.GDKidObjects4[i].getBehavior("Toddler").State(null) == "Dead") ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects4[k] = gdjs.ApartmentCode.GDKidObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects4.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects4.length;i<l;++i) {
+    if ( !(gdjs.ApartmentCode.GDKidObjects4[i].getBehavior("Toddler").State(null) == "HazardWindup") ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDKidObjects4[k] = gdjs.ApartmentCode.GDKidObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDKidObjects4.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4[i].getBehavior("Hazard").NeedsItem((( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects4[0].getBehavior("Toddler").HeldItemId(null)), null) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4[k] = gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4.length = k;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4[i].getBehavior("Hazard").NeedsItem((( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects4[0].getBehavior("Toddler").HeldItemId(null)), null) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4[k] = gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4.length = k;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4[i].getBehavior("Hazard").NeedsItem((( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects4[0].getBehavior("Toddler").HeldItemId(null)), null) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4[k] = gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4.length = k;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4[i].getBehavior("Hazard").NeedsItem((( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects4[0].getBehavior("Toddler").HeldItemId(null)), null) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4[k] = gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects4Objects, gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDKidObjects4Objects, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Hazards").getChild("Outlet").getChild("TriggerDistance").getAsNumber(), false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4[i].getVariableString(gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4[i].getVariables().get("HazardName")) == (( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects4[0].getBehavior("Toddler").TargetName(null)) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4[k] = gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDHazard_9595Outlet_9595BathroomObjects4.length = k;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4[i].getVariableString(gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4[i].getVariables().get("HazardName")) == (( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects4[0].getBehavior("Toddler").TargetName(null)) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4[k] = gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDHazard_9595Outlet_9595KitchenObjects4.length = k;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4[i].getVariableString(gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4[i].getVariables().get("HazardName")) == (( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects4[0].getBehavior("Toddler").TargetName(null)) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4[k] = gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDHazard_9595Outlet_9595LivingObjects4.length = k;
+for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4.length;i<l;++i) {
+    if ( gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4[i].getVariableString(gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4[i].getVariables().get("HazardName")) == (( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? "" :gdjs.ApartmentCode.GDKidObjects4[0].getBehavior("Toddler").TargetName(null)) ) {
+        isConditionTrue_0 = true;
+        gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4[k] = gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4[i];
+        ++k;
+    }
+}
+gdjs.ApartmentCode.GDHazard_9595Outlet_9595BedroomObjects4.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.pickNearestObject(gdjs.ApartmentCode.mapOfGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BathroomObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595KitchenObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595LivingObjects4ObjectsGDgdjs_9546ApartmentCode_9546GDHazard_95959595Outlet_95959595BedroomObjects4Objects, (( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects4[0].getCenterXInScene()), (( gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? 0 :gdjs.ApartmentCode.GDKidObjects4[0].getCenterYInScene()), false);
+}
+}
 }
 }
 }
@@ -141020,7 +141247,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDGag_9595SickObjects2.length;i<l;
 gdjs.ApartmentCode.GDGag_9595SickObjects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(38078364);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(38115188);
 }
 }
 if (isConditionTrue_0) {
@@ -141154,7 +141381,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(38080076);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(38116900);
 }
 }
 if (isConditionTrue_0) {
@@ -141599,7 +141826,7 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").getAsNumber() == ((gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? gdjs.VariablesContainer.badVariablesContainer : gdjs.ApartmentCode.GDKidObjects4[0].getVariables()).getFromIndex(163).getAsNumber());
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").setNumber(gdjs.evtTools.common.mod(runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").getAsNumber(), 9) + 1);
+{runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").setNumber(gdjs.evtTools.common.mod(runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("Lines").getAsNumber()) + 1);
 }
 }
 
@@ -141625,7 +141852,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDKidObjects4.length;i<l;++i) {
 gdjs.ApartmentCode.GDKidObjects4.length = k;
 if (isConditionTrue_0) {
 /* Reuse gdjs.ApartmentCode.GDKidObjects4 */
-{runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").setNumber(gdjs.evtTools.common.mod(((gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? gdjs.VariablesContainer.badVariablesContainer : gdjs.ApartmentCode.GDKidObjects4[0].getVariables()).getFromIndex(163).getAsNumber() - 1 + gdjs.randomInRange(1, 8), 9) + 1);
+{runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").setNumber(gdjs.evtTools.common.mod(((gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? gdjs.VariablesContainer.badVariablesContainer : gdjs.ApartmentCode.GDKidObjects4[0].getVariables()).getFromIndex(163).getAsNumber() - 1 + gdjs.randomInRange(1, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("Lines").getAsNumber() - 1), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("Lines").getAsNumber()) + 1);
 }
 }
 
@@ -141640,7 +141867,7 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").getAsNumber() == runtimeScene.getScene().getVariables().getFromIndex(53).getChild("LastAny").getAsNumber());
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").setNumber(gdjs.evtTools.common.mod(runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").getAsNumber(), 9) + 1);
+{runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").setNumber(gdjs.evtTools.common.mod(runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").getAsNumber(), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("Lines").getAsNumber()) + 1);
 }
 
 { //Subevents
@@ -141828,29 +142055,6 @@ gdjs.copyArray(gdjs.ApartmentCode.GDKidObjects3, gdjs.ApartmentCode.GDKidObjects
 }
 }
 {runtimeScene.getScene().getVariables().getFromIndex(3).getChild("Plays").getChild("VoiceLine").getChild("L8").add(1);
-}
-}
-
-}
-
-
-{
-
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").getAsNumber() == 9);
-}
-if (isConditionTrue_0) {
-gdjs.copyArray(gdjs.ApartmentCode.GDKidObjects3, gdjs.ApartmentCode.GDKidObjects4);
-
-{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "voice_alien_09", runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("ChannelBase").getAsNumber() + ((gdjs.ApartmentCode.GDKidObjects4.length === 0 ) ? gdjs.VariablesContainer.badVariablesContainer : gdjs.ApartmentCode.GDKidObjects4[0].getVariables()).getFromIndex(3).getAsNumber(), false, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("Volume").getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Gain").getAsNumber() * gdjs.evtTools.variable.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(4).getChild("VoiceVolume")) / 100 * gdjs.evtTools.variable.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(4).getChild("MasterVolume")) / 100, runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Pitch").getAsNumber());
-}
-{for(var i = 0, len = gdjs.ApartmentCode.GDKidObjects4.length ;i < len;++i) {
-    gdjs.ApartmentCode.GDKidObjects4[i].returnVariable(gdjs.ApartmentCode.GDKidObjects4[i].getVariables().getFromIndex(164)).setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("Length").getChild("L9").getAsNumber() / runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Pitch").getAsNumber() + runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("Gap").getAsNumber());
-}
-}
-{runtimeScene.getScene().getVariables().getFromIndex(3).getChild("Plays").getChild("VoiceLine").getChild("L9").add(1);
 }
 }
 
@@ -142085,7 +142289,7 @@ isConditionTrue_0 = false;
 }
 }
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").setNumber(gdjs.randomInRange(1, 9));
+{runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Line").setNumber(gdjs.randomInRange(1, runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("Lines").getAsNumber()));
 }
 {runtimeScene.getScene().getVariables().getFromIndex(53).getChild("Pitch").setNumber(1 + (((gdjs.ApartmentCode.GDKidObjects3.length === 0 ) ? gdjs.VariablesContainer.badVariablesContainer : gdjs.ApartmentCode.GDKidObjects3[0].getVariables()).getFromIndex(3).getAsNumber() - 2) * runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("PitchStep").getAsNumber() + gdjs.randomFloatInRange(-(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("PitchJitter").getAsNumber()), runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Voice").getChild("PitchJitter").getAsNumber()));
 }
@@ -143803,7 +144007,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(38221156);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(38256588);
 }
 }
 if (isConditionTrue_0) {
@@ -143823,7 +144027,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(38222812);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(38258244);
 }
 }
 if (isConditionTrue_0) {
