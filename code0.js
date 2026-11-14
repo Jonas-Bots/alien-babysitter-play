@@ -3735,6 +3735,23 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Iris_Shape"), gdjs.MenuCode.GDIris_9595ShapeObjects1);
+{for(var i = 0, len = gdjs.MenuCode.GDIris_9595ShapeObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDIris_9595ShapeObjects1[i].getBehavior("Iris").SetBlackHold(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Iris").getChild("BlackHoldSeconds").getAsNumber(), null);
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+if (isConditionTrue_0) {
 {runtimeScene.getGame().getVariables().getFromIndex(3).getChild("Tag").setString("");
 }
 }

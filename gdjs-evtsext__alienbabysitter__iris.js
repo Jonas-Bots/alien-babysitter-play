@@ -27,6 +27,7 @@ gdjs.evtsExt__AlienBabysitter__Iris.Iris = class Iris extends gdjs.RuntimeBehavi
     this._behaviorData.Margin = Number("8") || 0;
     this._behaviorData.Hold = Number("0.11") || 0;
     this._behaviorData.Split = Number("0.8") || 0;
+    this._behaviorData.BlackHold = Number("0.3") || 0;
   }
 
   // Hot-reload:
@@ -54,6 +55,8 @@ gdjs.evtsExt__AlienBabysitter__Iris.Iris = class Iris extends gdjs.RuntimeBehavi
       this._behaviorData.Hold = behaviorOverriding.Hold;
     if (behaviorOverriding.Split !== undefined)
       this._behaviorData.Split = behaviorOverriding.Split;
+    if (behaviorOverriding.BlackHold !== undefined)
+      this._behaviorData.BlackHold = behaviorOverriding.BlackHold;
 
     return true;
   }
@@ -75,6 +78,7 @@ gdjs.evtsExt__AlienBabysitter__Iris.Iris = class Iris extends gdjs.RuntimeBehavi
     Margin: this._behaviorData.Margin,
     Hold: this._behaviorData.Hold,
     Split: this._behaviorData.Split,
+    BlackHold: this._behaviorData.BlackHold,
       }
     };
   }
@@ -103,6 +107,8 @@ gdjs.evtsExt__AlienBabysitter__Iris.Iris = class Iris extends gdjs.RuntimeBehavi
       this._behaviorData.Hold = networkSyncData.props.Hold;
     if (networkSyncData.props.Split !== undefined)
       this._behaviorData.Split = networkSyncData.props.Split;
+    if (networkSyncData.props.BlackHold !== undefined)
+      this._behaviorData.BlackHold = networkSyncData.props.BlackHold;
   }
 
   // Properties:
@@ -172,6 +178,12 @@ gdjs.evtsExt__AlienBabysitter__Iris.Iris = class Iris extends gdjs.RuntimeBehavi
   }
   _setSplit(newValue) {
     this._behaviorData.Split = newValue;
+  }
+  _getBlackHold() {
+    return this._behaviorData.BlackHold !== undefined ? this._behaviorData.BlackHold : Number("0.3") || 0;
+  }
+  _setBlackHold(newValue) {
+    this._behaviorData.BlackHold = newValue;
   }
 }
 
@@ -282,6 +294,8 @@ if (isConditionTrue_0) {
 {eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setPhase("Shut")
 }
 {eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setR(0)
+}
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setT(0)
 }
 }
 
@@ -875,6 +889,11 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = (eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getPhase() == "Shut");
 }
 if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getT() >= eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getBlackHold());
+}
+}
+if (isConditionTrue_0) {
 {eventsFunctionContext.returnValue = true;}
 }
 
@@ -958,6 +977,105 @@ gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.ShutContext.GDObjectObjects2.
 
 
 return !!eventsFunctionContext.returnValue;
+}
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHoldContext = {};
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHoldContext.idToCallbackMap = new Map();
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHoldContext.GDObjectObjects1= [];
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHoldContext.GDObjectObjects2= [];
+
+
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHoldContext.eventsList0 = function(runtimeScene, eventsFunctionContext) {
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setBlackHold(Math.max(0, eventsFunctionContext.getArgument("Seconds_")))
+}
+}
+
+}
+
+
+};
+
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHold = function(Seconds_, parentEventsFunctionContext) {
+
+var that = this;
+var runtimeScene = this._runtimeScene;
+let scopeInstanceContainer = null;
+var thisObjectList = [this.owner];
+var Object = Hashtable.newFrom({Object: thisObjectList});
+var Behavior = this.name;
+var eventsFunctionContext = {
+  _objectsMap: {
+"Object": Object
+},
+  _objectArraysMap: {
+"Object": thisObjectList
+},
+  _behaviorNamesMap: {
+"Behavior": Behavior
+},
+  globalVariablesForExtension: runtimeScene.getGame().getVariablesForExtension("AlienBabysitter"),
+  sceneVariablesForExtension: runtimeScene.getScene().getVariablesForExtension("AlienBabysitter"),
+  localVariables: [],
+  getObjects: function(objectName) {
+    return eventsFunctionContext._objectArraysMap[objectName] || [];
+  },
+  getObjectsLists: function(objectName) {
+    return eventsFunctionContext._objectsMap[objectName] || null;
+  },
+  getBehaviorName: function(behaviorName) {
+    return eventsFunctionContext._behaviorNamesMap[behaviorName] || behaviorName;
+  },
+  createObject: function(objectName) {
+    const objectsList = eventsFunctionContext._objectsMap[objectName];
+    if (objectsList) {
+      const object = parentEventsFunctionContext && !(scopeInstanceContainer && scopeInstanceContainer.isObjectRegistered(objectName)) ?
+        parentEventsFunctionContext.createObject(objectsList.firstKey()) :
+        runtimeScene.createObject(objectsList.firstKey());
+      if (object) {
+        objectsList.get(objectsList.firstKey()).push(object);
+        if (!(scopeInstanceContainer && scopeInstanceContainer.isObjectRegistered(objectName))) {
+          eventsFunctionContext._objectArraysMap[objectName].push(object);
+        }
+      }
+      return object;
+    }
+    return null;
+  },
+  getInstancesCountOnScene: function(objectName) {
+    const objectsList = eventsFunctionContext._objectsMap[objectName];
+    let count = 0;
+    if (objectsList) {
+      for(const objectName in objectsList.items)
+        count += parentEventsFunctionContext && !(scopeInstanceContainer && scopeInstanceContainer.isObjectRegistered(objectName)) ?
+parentEventsFunctionContext.getInstancesCountOnScene(objectName) :
+        runtimeScene.getInstancesCountOnScene(objectName);
+    }
+    return count;
+  },
+  getLayer: function(layerName) {
+    return runtimeScene.getLayer(layerName);
+  },
+  getArgument: function(argName) {
+if (argName === "Seconds_") return Seconds_;
+    return "";
+  },
+  getOnceTriggers: function() { return that._onceTriggers; }
+};
+
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHoldContext.GDObjectObjects1.length = 0;
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHoldContext.GDObjectObjects2.length = 0;
+
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHoldContext.eventsList0(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHoldContext.GDObjectObjects1.length = 0;
+gdjs.evtsExt__AlienBabysitter__Iris.Iris.prototype.SetBlackHoldContext.GDObjectObjects2.length = 0;
+
+
+return;
 }
 
 
