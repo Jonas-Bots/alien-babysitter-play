@@ -1733,7 +1733,7 @@ let isConditionTrue_0 = false;
 {
 gdjs.copyArray(runtimeScene.getObjects("Menu_PressStart"), gdjs.MenuCode.GDMenu_9595PressStartObjects1);
 {for(var i = 0, len = gdjs.MenuCode.GDMenu_9595PressStartObjects1.length ;i < len;++i) {
-    gdjs.MenuCode.GDMenu_9595PressStartObjects1[i].setPosition(gdjs.evtTools.camera.getCameraWidth(runtimeScene, "", 0) / 2 - (gdjs.MenuCode.GDMenu_9595PressStartObjects1[i].getWidth()) / 2,gdjs.evtTools.camera.getCameraHeight(runtimeScene, "", 0) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("UI").getChild("PromptBottomMargin").getAsNumber());
+    gdjs.MenuCode.GDMenu_9595PressStartObjects1[i].setPosition(gdjs.evtTools.camera.getCameraWidth(runtimeScene, "", 0) / 2 - (gdjs.MenuCode.GDMenu_9595PressStartObjects1[i].getWidth()) / 2,gdjs.evtTools.camera.getCameraHeight(runtimeScene, "", 0) - runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Menu").getChild("HintBottomMargin").getAsNumber());
 }
 }
 }
@@ -1828,18 +1828,32 @@ gdjs.MenuCode.eventsList27(runtimeScene);
 let isConditionTrue_0 = false;
 {
 gdjs.copyArray(runtimeScene.getObjects("Menu_Background"), gdjs.MenuCode.GDMenu_9595BackgroundObjects2);
-{for(var i = 0, len = gdjs.MenuCode.GDMenu_9595BackgroundObjects2.length ;i < len;++i) {
-    gdjs.MenuCode.GDMenu_9595BackgroundObjects2[i].setPosition(gdjs.evtTools.camera.getCameraX(runtimeScene, "", 0) - gdjs.evtTools.camera.getCameraWidth(runtimeScene, "", 0) / 2,gdjs.evtTools.camera.getCameraY(runtimeScene, "", 0) - gdjs.evtTools.camera.getCameraHeight(runtimeScene, "", 0) / 2);
+{runtimeScene.getScene().getVariables().getFromIndex(3).getChild("W").setNumber(runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Menu").getChild("PanImageWidth").getAsNumber() * gdjs.evtTools.camera.getCameraHeight(runtimeScene, "", 0) / runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Menu").getChild("PanImageHeight").getAsNumber());
 }
+{runtimeScene.getScene().getVariables().getFromIndex(3).getChild("X").setNumber(gdjs.evtTools.common.mod(gdjs.evtTools.runtimeScene.getTimeFromStartInSeconds(runtimeScene) / runtimeScene.getGame().getVariables().getFromIndex(0).getChild("Menu").getChild("PanSeconds").getAsNumber(), 1) * runtimeScene.getScene().getVariables().getFromIndex(3).getChild("W").getAsNumber());
 }
 {for(var i = 0, len = gdjs.MenuCode.GDMenu_9595BackgroundObjects2.length ;i < len;++i) {
-    gdjs.MenuCode.GDMenu_9595BackgroundObjects2[i].getBehavior("Resizable").setWidth(gdjs.evtTools.camera.getCameraWidth(runtimeScene, "", 0));
+    gdjs.MenuCode.GDMenu_9595BackgroundObjects2[i].getBehavior("Resizable").setWidth(runtimeScene.getScene().getVariables().getFromIndex(3).getChild("W").getAsNumber() + 1);
 }
 }
 {for(var i = 0, len = gdjs.MenuCode.GDMenu_9595BackgroundObjects2.length ;i < len;++i) {
     gdjs.MenuCode.GDMenu_9595BackgroundObjects2[i].getBehavior("Resizable").setHeight(gdjs.evtTools.camera.getCameraHeight(runtimeScene, "", 0));
 }
 }
+{for(var i = 0, len = gdjs.MenuCode.GDMenu_9595BackgroundObjects2.length ;i < len;++i) {
+    gdjs.MenuCode.GDMenu_9595BackgroundObjects2[i].setPosition(gdjs.evtTools.camera.getCameraX(runtimeScene, "", 0) - gdjs.evtTools.camera.getCameraWidth(runtimeScene, "", 0) / 2 - runtimeScene.getScene().getVariables().getFromIndex(3).getChild("X").getAsNumber() + gdjs.MenuCode.GDMenu_9595BackgroundObjects2[i].getVariables().getFromIndex(0).getAsNumber() * runtimeScene.getScene().getVariables().getFromIndex(3).getChild("W").getAsNumber(),gdjs.evtTools.camera.getCameraY(runtimeScene, "", 0) - gdjs.evtTools.camera.getCameraHeight(runtimeScene, "", 0) / 2);
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
 }
 
 }
