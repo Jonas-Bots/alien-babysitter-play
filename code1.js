@@ -141830,7 +141830,7 @@ for (var i = 0, k = 0, l = gdjs.ApartmentCode.GDGag_9595SickObjects2.length;i<l;
 gdjs.ApartmentCode.GDGag_9595SickObjects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(39031020);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(39030940);
 }
 }
 if (isConditionTrue_0) {
@@ -141964,7 +141964,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(39032732);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(39032652);
 }
 }
 if (isConditionTrue_0) {
@@ -144590,7 +144590,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(39159372);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(39159292);
 }
 }
 if (isConditionTrue_0) {
@@ -144610,7 +144610,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(39161028);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(39160948);
 }
 }
 if (isConditionTrue_0) {

@@ -1,8 +1,8 @@
 {
-  "name": "Alien Babysitter",
-  "short_name": "Alien Babysitter",
+  "name": "Pinch-Sitter",
+  "short_name": "Pinch-Sitter",
   "id": "com.alienbabysitter.gdjam10",
-  "description": "Alien Babysitter - GDevelop BIG Game Jam #10 (theme: Keep It Alive). 5-minute first-person babysitting panic game.",
+  "description": "Pinch-Sitter - GDevelop BIG Game Jam #10 (theme: Keep It Alive). 5-minute first-person babysitting panic game.",
   "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",
